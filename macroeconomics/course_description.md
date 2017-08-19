@@ -1,1 +1,1 @@
-This folder is for the course description.
+This folder is for Macroeconomics.
