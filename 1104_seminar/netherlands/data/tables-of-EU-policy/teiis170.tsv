@@ -1,0 +1,106 @@
+indic_bt,nace_r2,unit,geo\time	2017M09 	2017M10 	2017M11 	2017M12 	2018M01 	2018M02 	2018M03 	2018M04 	2018M05 	2018M06 	2018M07 	2018M08 
+TOVT,MIG_CAG,I2015_SCA,AT	106.4 	108.3 	113.6 	111.5 	112.8 	114.0 	112.0 	111.8 	117.2 	114.8 	112.0 p	: 
+TOVT,MIG_CAG,I2015_SCA,BE	98.9 p	106.5 p	108.3 p	104.9 p	103.9 p	103.2 p	106.7 p	106.9 p	107.9 p	105.0 p	106.1 p	: 
+TOVT,MIG_CAG,I2015_SCA,BG	127.6 s	119.9 s	124.0 s	125.5 s	135.4 s	125.3 s	133.9 s	131.8 s	133.2 s	133.0 s	134.3 s	132.2 ps
+TOVT,MIG_CAG,I2015_SCA,CY	114.1 s	134.9 s	131.8 s	147.9 s	149.9 s	149.2 s	157.8 s	159.1 s	148.1 s	173.7 s	164.3 s	: 
+TOVT,MIG_CAG,I2015_SCA,CZ	111.0 s	111.7 s	111.0 s	114.2 s	114.2 s	111.4 s	110.6 s	113.4 s	113.3 s	116.2 s	110.4 s	118.0 s
+TOVT,MIG_CAG,I2015_SCA,DE	107.5 	104.0 	109.1 	109.3 	109.5 	106.0 	107.3 	108.6 	107.9 	107.6 	105.8 	105.5 
+TOVT,MIG_CAG,I2015_SCA,DK	121.4 	104.5 	102.7 	96.6 	105.6 	100.7 	99.5 	106.3 	102.4 	107.0 	107.5 	121.1 
+TOVT,MIG_CAG,I2015_SCA,EA19	108.7 	108.2 	111.3 	110.3 	110.7 s	107.9 s	107.9 s	110.0 s	109.7 s	108.6 s	107.6 s	: 
+TOVT,MIG_CAG,I2015_SCA,EE	90.8 s	98.4 s	93.7 s	109.6 s	103.4 s	100.0 s	99.7 s	100.4 s	94.8 s	99.1 s	87.4 s	96.4 s
+TOVT,MIG_CAG,I2015_SCA,EL	100.1 ps	101.6 ps	100.3 ps	96.3 ps	118.6 s	108.9 s	109.8 s	111.3 s	107.3 s	103.3 s	106.8 s	112.2 ps
+TOVT,MIG_CAG,I2015_SCA,ES	112.5 p	113.1 p	112.9 p	117.5 p	113.5 p	112.6 p	113.3 p	113.3 p	112.9 p	113.9 p	111.3 p	118.4 p
+TOVT,MIG_CAG,I2015_SCA,EU28	110.2 	110.0 	112.1 	111.9 	112.7 s	110.4 s	109.8 s	111.4 s	111.2 s	110.8 s	109.9 s	: 
+TOVT,MIG_CAG,I2015_SCA,FI	108.0 	110.6 	113.7 	105.4 	116.4 	113.0 	117.1 	113.2 	116.0 	111.6 	111.9 	: 
+TOVT,MIG_CAG,I2015_SCA,FR	111.1 	115.0 	112.3 	113.1 	110.6 	109.7 	111.6 	111.7 	108.9 	109.6 	110.4 	: 
+TOVT,MIG_CAG,I2015_SCA,HR	100.1 	96.5 	103.9 	99.2 	99.8 	98.9 	98.7 	103.1 	109.1 	109.7 	97.4 	: 
+TOVT,MIG_CAG,I2015_SCA,HU	102.4 	104.4 	101.4 	101.8 	102.6 	102.4 	103.3 	101.8 	101.6 	100.9 	98.6 	100.3 
+TOVT,MIG_CAG,I2015_SCA,IE	: c	: c	: c	: c	: c	: c	: c	: c	: c	: c	: c	: c
+TOVT,MIG_CAG,I2015_SCA,IT	105.9 	107.9 	109.1 	113.3 	106.8 	108.6 	109.7 	109.7 	111.2 	111.2 	109.4 	111.8 
+TOVT,MIG_CAG,I2015_SCA,LT	133.2 s	121.0 s	138.7 s	144.0 s	145.9 s	148.7 s	150.5 s	136.9 s	133.0 s	142.6 s	137.2 s	142.0 s
+TOVT,MIG_CAG,I2015_SCA,LU	111.7 s	105.7 s	117.3 s	111.6 s	: 	: 	: 	: 	: 	: 	: 	: 
+TOVT,MIG_CAG,I2015_SCA,LV	129.2 	123.4 	133.3 	130.0 	137.0 	130.4 	132.2 	130.0 	138.2 	135.2 	129.2 	133.5 
+TOVT,MIG_CAG,I2015_SCA,ME	49.5 s	43.9 s	47.2 s	58.0 s	49.9 s	52.2 s	45.8 s	: 	: 	: 	: 	: 
+TOVT,MIG_CAG,I2015_SCA,MK	135.8 s	135.7 s	142.7 s	152.4 s	132.1 s	135.8 s	141.7 s	140.7 s	147.2 s	171.0 s	155.1 s	158.2 s
+TOVT,MIG_CAG,I2015_SCA,MT	103.0 ps	114.9 ps	103.4 ps	127.5 ps	100.6 ps	111.4 ps	104.5 ps	98.2 ps	107.8 ps	111.1 ps	96.0 ps	: 
+TOVT,MIG_CAG,I2015_SCA,NL	114.4 ps	106.4 ps	114.1 ps	109.5 ps	120.9 ps	116.1 ps	116.5 ps	117.9 ps	115.5 ps	117.0 ps	115.1 ps	124.0 ps
+TOVT,MIG_CAG,I2015_SCA,NO	71.0 	73.5 	72.6 	76.3 	74.4 	76.4 	74.2 	75.4 	79.3 	83.6 	72.9 	79.0 
+TOVT,MIG_CAG,I2015_SCA,PL	112.9 s	116.1 s	117.7 s	114.5 s	114.5 s	115.7 s	116.0 s	117.9 s	119.1 s	122.6 s	119.5 s	124.8 s
+TOVT,MIG_CAG,I2015_SCA,PT	107.8 s	112.6 s	130.0 s	112.1 s	133.0 s	129.3 s	122.0 s	132.3 s	128.7 s	130.2 s	123.8 s	113.5 s
+TOVT,MIG_CAG,I2015_SCA,RO	128.9 s	131.7 s	132.0 s	137.1 s	141.9 s	138.2 s	144.3 s	139.4 s	144.1 s	149.6 s	145.7 s	143.9 ps
+TOVT,MIG_CAG,I2015_SCA,RS	95.9 s	107.6 s	102.1 s	96.7 s	99.4 s	98.0 s	101.0 s	98.3 s	105.0 s	110.5 s	104.7 s	102.5 s
+TOVT,MIG_CAG,I2015_SCA,SE	118.3 s	123.2 s	123.6 s	125.6 s	134.5 s	127.9 s	130.8 s	127.1 s	128.9 s	127.9 s	130.7 ps	127.7 ps
+TOVT,MIG_CAG,I2015_SCA,SI	135.4 ps	136.6 ps	140.1 ps	142.4 ps	147.4 ps	138.9 ps	146.1 ps	139.7 ps	144.8 ps	142.3 ps	148.0 ps	134.3 ps
+TOVT,MIG_CAG,I2015_SCA,SK	107.5 	108.0 	120.9 	110.7 	106.7 	112.6 	114.6 	114.1 	119.4 	122.8 	118.1 p	127.7 p
+TOVT,MIG_CAG,I2015_SCA,TR	151.2 	161.3 	164.0 	171.3 	167.0 	178.9 	180.8 	183.8 	194.0 	189.1 	199.0 	212.6 
+TOVT,MIG_CAG,I2015_SCA,UK	116.9 s	117.9 s	114.8 s	119.9 s	120.5 s	121.9 s	115.0 s	114.7 s	113.5 s	116.7 s	117.4 s	115.0 s
+TOVT,MIG_CAG,PCH_M12_CA,AT	4.7 	9.3 	13.5 	8.5 	12.0 	13.1 	8.1 	9.1 	16.4 	10.6 	1.3 p	: 
+TOVT,MIG_CAG,PCH_M12_CA,BE	-5.7 p	1.3 p	0.5 p	2.1 p	4.2 p	-4.7 p	-1.3 p	-1.3 p	-3.9 p	-0.2 p	1.6 p	: 
+TOVT,MIG_CAG,PCH_M12_CA,BG	3.5 s	3.9 s	-4.0 s	-14.7 s	26.8 s	5.2 s	15.4 s	7.6 s	-0.5 s	-0.8 s	-18.1 s	-3.8 ps
+TOVT,MIG_CAG,PCH_M12_CA,CY	-32.9 s	2.6 s	-4.4 s	24.3 s	0.8 s	22.9 s	13.4 s	17.4 s	8.5 s	46.2 s	6.3 s	: 
+TOVT,MIG_CAG,PCH_M12_CA,CZ	3.8 s	3.5 s	3.3 s	6.0 s	0.4 s	-1.6 s	-4.0 s	2.4 s	-2.4 s	4.7 s	6.5 s	1.1 s
+TOVT,MIG_CAG,PCH_M12_CA,DE	6.5 	0.2 	7.9 	10.6 	8.2 	1.7 	3.2 	4.5 	3.0 	2.1 	0.0 	-2.8 
+TOVT,MIG_CAG,PCH_M12_CA,DK	1.5 s	2.9 s	2.9 s	-30.6 s	1.8 s	-10.2 s	-11.6 s	0.5 s	-9.1 s	-3.5 s	-1.1 s	16.1 s
+TOVT,MIG_CAG,PCH_M12_CA,EA19	6.8 	2.8 	8.6 	6.9 	8.6 s	2.7 s	2.3 s	5.4 s	3.2 s	3.9 s	1.0 s	: 
+TOVT,MIG_CAG,PCH_M12_CA,EE	-5.9 s	-3.0 s	-5.8 s	5.5 s	9.1 s	4.9 s	2.6 s	-0.5 s	-3.3 s	6.4 s	-13.9 s	10.1 s
+TOVT,MIG_CAG,PCH_M12_CA,EL	-3.5 p	-3.9 p	-4.3 p	-6.7 p	6.9 p	-7.0 p	-4.3 p	14.7 p	-0.1 p	-2.7 p	-9.1 p	14.8 p
+TOVT,MIG_CAG,PCH_M12_CA,ES	10.7 p	6.0 p	6.2 p	13.1 p	5.9 p	1.9 p	3.8 p	6.2 p	2.2 p	4.6 p	4.7 p	5.6 p
+TOVT,MIG_CAG,PCH_M12_CA,EU28	7.0 	4.1 	8.2 	6.1 	8.4 s	3.0 s	2.1 s	5.2 s	3.2 s	4.1 s	1.8 s	: 
+TOVT,MIG_CAG,PCH_M12_CA,FI	0.6 	8.8 	11.8 	-3.1 	6.1 	7.1 	11.0 	6.5 	7.1 	0.9 	2.0 	: 
+TOVT,MIG_CAG,PCH_M12_CA,FR	7.5 	13.5 	6.8 	-0.6 	7.9 	3.0 	-2.5 	8.1 	-4.7 	2.4 	-1.0 	: 
+TOVT,MIG_CAG,PCH_M12_CA,HR	2.9 	-2.0 	7.7 	-10.0 	-4.6 	-11.2 	-24.1 	5.4 	3.4 	8.0 	-9.1 	: 
+TOVT,MIG_CAG,PCH_M12_CA,HU	4.0 	7.4 	0.8 	4.4 	4.3 	-0.9 	5.8 	-2.4 	-3.7 	0.2 	-2.4 	-4.3 
+TOVT,MIG_CAG,PCH_M12_CA,IE	: c	: c	: c	: c	: c	: c	: c	: c	: c	: c	: c	: c
+TOVT,MIG_CAG,PCH_M12_CA,IT	2.7 	4.2 	1.5 	7.1 	2.3 	3.4 	4.2 	5.4 	3.9 	5.0 	2.3 	3.0 
+TOVT,MIG_CAG,PCH_M12_CA,LT	7.2 s	9.2 s	17.7 s	26.9 s	13.7 s	14.2 s	15.4 s	11.0 s	0.4 s	17.7 s	5.0 s	3.6 s
+TOVT,MIG_CAG,PCH_M12_CA,LU	7.7 	12.1 	19.0 	8.1 	: 	: 	: 	: 	: 	: 	: 	: 
+TOVT,MIG_CAG,PCH_M12_CA,LV	30.1 	14.5 	21.4 	21.3 	23.6 	8.8 	11.4 	11.2 	19.2 	12.6 	3.6 	4.3 
+TOVT,MIG_CAG,PCH_M12_CA,ME	-1.1 s	-12.4 s	3.1 s	32.6 s	-2.2 s	-14.5 s	-18.0 s	: 	: 	: 	: 	: 
+TOVT,MIG_CAG,PCH_M12_CA,MK	11.9 s	5.9 s	11.6 s	20.2 s	10.7 s	10.8 s	14.3 s	16.2 s	13.0 s	35.1 s	24.7 s	23.6 s
+TOVT,MIG_CAG,PCH_M12_CA,MT	-0.4 p	21.3 p	-2.9 p	25.9 p	-10.1 p	4.1 p	-4.8 p	-7.3 p	-2.9 p	7.3 p	-4.4 p	: 
+TOVT,MIG_CAG,PCH_M12_CA,NL	11.9 p	4.3 p	19.9 p	4.1 p	15.2 p	9.5 p	8.5 p	6.9 p	8.4 p	8.2 p	3.8 p	14.6 p
+TOVT,MIG_CAG,PCH_M12_CA,NO	-8.2 	1.7 	-1.1 	11.1 	6.5 	7.9 	2.6 	3.3 	26.6 	17.3 	2.9 	12.1 
+TOVT,MIG_CAG,PCH_M12_CA,PL	6.2 s	11.8 s	13.3 s	2.9 s	1.9 s	1.5 s	-1.6 s	6.0 s	6.7 s	9.6 s	9.7 s	8.2 s
+TOVT,MIG_CAG,PCH_M12_CA,PT	14.9 s	18.0 s	30.8 s	14.2 s	22.8 s	23.7 s	15.1 s	28.4 s	16.4 s	22.9 s	24.8 s	-9.7 s
+TOVT,MIG_CAG,PCH_M12_CA,RO	15.0 s	17.6 s	16.2 s	17.0 s	21.4 s	14.7 s	18.3 s	14.9 s	13.5 s	24.8 s	15.6 s	6.5 ps
+TOVT,MIG_CAG,PCH_M12_CA,RS	-4.2 s	21.5 s	9.0 s	-1.2 s	0.6 s	-6.2 s	-4.3 s	-2.4 s	6.7 s	16.6 s	12.4 s	-6.1 s
+TOVT,MIG_CAG,PCH_M12_CA,SE	12.2 s	12.4 s	13.0 s	7.9 s	16.3 s	11.3 s	11.4 s	13.3 s	13.4 s	10.6 s	9.4 ps	10.3 ps
+TOVT,MIG_CAG,PCH_M12_CA,SI	21.8 ps	35.7 ps	30.4 ps	18.6 ps	32.8 ps	20.7 ps	20.1 ps	20.6 ps	17.0 ps	4.6 ps	8.5 ps	3.5 ps
+TOVT,MIG_CAG,PCH_M12_CA,SK	-0.3 	-0.5 	10.2 	2.2 	-4.3 	3.5 	1.4 	4.8 	10.5 	14.7 	16.0 p	22.9 p
+TOVT,MIG_CAG,PCH_M12_CA,TR	36.3 	34.1 	32.1 	30.4 	19.9 	32.1 	31.5 	23.0 	33.0 	25.8 	31.9 	41.4 
+TOVT,MIG_CAG,PCH_M12_CA,UK	9.4 s	8.1 s	5.0 s	5.1 s	7.2 s	5.1 s	-0.1 s	2.2 s	1.4 s	3.2 s	1.9 s	0.4 s
+TOVT,MIG_CAG,PCH_M1_SCA,AT	0.1 	1.8 	4.9 	-1.8 	1.2 	1.1 	-1.8 	-0.2 	4.8 	-2.0 	-2.4 p	: 
+TOVT,MIG_CAG,PCH_M1_SCA,BE	-10.7 p	7.7 p	1.7 p	-3.1 p	-1.0 p	-0.7 p	3.4 p	0.2 p	0.9 p	-2.7 p	1.0 p	: 
+TOVT,MIG_CAG,PCH_M1_SCA,BG	-7.1 s	-6.0 s	3.4 s	1.2 s	7.9 s	-7.5 s	6.9 s	-1.6 s	1.1 s	-0.2 s	1.0 s	-1.6 ps
+TOVT,MIG_CAG,PCH_M1_SCA,CY	-11.6 s	18.2 s	-2.3 s	12.2 s	1.4 s	-0.5 s	5.8 s	0.8 s	-6.9 s	17.3 s	-5.4 s	: 
+TOVT,MIG_CAG,PCH_M1_SCA,CZ	-5.1 s	0.6 s	-0.6 s	2.9 s	0.0 s	-2.5 s	-0.7 s	2.5 s	-0.1 s	2.6 s	-5.0 s	6.9 s
+TOVT,MIG_CAG,PCH_M1_SCA,DE	-1.2 	-3.3 	4.9 	0.2 	0.2 	-3.2 	1.2 	1.2 	-0.6 	-0.3 	-1.7 	-0.3 
+TOVT,MIG_CAG,PCH_M1_SCA,DK	13.4 	-13.9 	-1.7 	-5.9 	9.3 	-4.6 	-1.2 	6.8 	-3.7 	4.5 	0.5 	12.7 
+TOVT,MIG_CAG,PCH_M1_SCA,EA19	-0.1 	-0.5 	2.9 	-0.9 	0.4 s	-2.5 s	0.0 s	1.9 s	-0.3 s	-1.0 s	-0.9 s	: 
+TOVT,MIG_CAG,PCH_M1_SCA,EE	3.7 s	8.4 s	-4.8 s	17.0 s	-5.7 s	-3.3 s	-0.3 s	0.7 s	-5.6 s	4.5 s	-11.8 s	10.3 s
+TOVT,MIG_CAG,PCH_M1_SCA,EL	2.4 ps	1.5 ps	-1.3 ps	-4.0 ps	23.2 ps	-8.2 s	0.8 s	1.4 s	-3.6 s	-3.7 s	3.4 s	5.1 ps
+TOVT,MIG_CAG,PCH_M1_SCA,ES	0.3 p	0.5 p	-0.2 p	4.1 p	-3.4 p	-0.8 p	0.6 p	0.0 p	-0.4 p	0.9 p	-2.3 p	6.4 p
+TOVT,MIG_CAG,PCH_M1_SCA,EU28	0.0 	-0.2 	1.9 	-0.2 	0.7 s	-2.0 s	-0.5 s	1.5 s	-0.2 s	-0.4 s	-0.8 s	: 
+TOVT,MIG_CAG,PCH_M1_SCA,FI	-0.8 	2.4 	2.8 	-7.3 	10.4 	-2.9 	3.6 	-3.3 	2.5 	-3.8 	0.3 	: 
+TOVT,MIG_CAG,PCH_M1_SCA,FR	1.7 	3.5 	-2.3 	0.7 	-2.2 	-0.8 	1.7 	0.1 	-2.5 	0.6 	0.7 	: 
+TOVT,MIG_CAG,PCH_M1_SCA,HR	-3.1 	-3.6 	7.7 	-4.5 	0.6 	-0.9 	-0.2 	4.5 	5.8 	0.5 	-11.2 	: 
+TOVT,MIG_CAG,PCH_M1_SCA,HU	-1.3 	2.0 	-2.9 	0.4 	0.8 	-0.2 	0.9 	-1.5 	-0.2 	-0.7 	-2.3 	1.7 
+TOVT,MIG_CAG,PCH_M1_SCA,IE	: c	: c	: c	: c	: c	: c	: c	: c	: c	: c	: c	: c
+TOVT,MIG_CAG,PCH_M1_SCA,IT	-2.9 	1.9 	1.1 	3.8 	-5.7 	1.7 	1.0 	0.0 	1.4 	0.0 	-1.6 	2.2 
+TOVT,MIG_CAG,PCH_M1_SCA,LT	-2.8 s	-9.2 s	14.6 s	3.8 s	1.3 s	1.9 s	1.2 s	-9.0 s	-2.8 s	7.2 s	-3.8 s	3.5 s
+TOVT,MIG_CAG,PCH_M1_SCA,LU	6.5 s	-5.4 s	11.0 s	-4.9 s	: 	: 	: 	: 	: 	: 	: 	: 
+TOVT,MIG_CAG,PCH_M1_SCA,LV	1.0 	-4.5 	8.0 	-2.5 	5.4 	-4.8 	1.4 	-1.7 	6.3 	-2.2 	-4.4 	3.3 
+TOVT,MIG_CAG,PCH_M1_SCA,ME	5.8 s	-11.3 s	7.5 s	22.9 s	-14.0 s	4.6 s	-12.3 s	: 	: 	: 	: 	: 
+TOVT,MIG_CAG,PCH_M1_SCA,MK	6.1 s	-0.1 s	5.2 s	6.8 s	-13.3 s	2.8 s	4.3 s	-0.7 s	4.6 s	16.2 s	-9.3 s	2.0 s
+TOVT,MIG_CAG,PCH_M1_SCA,MT	-9.6 ps	11.6 ps	-10.0 ps	23.3 ps	-21.1 ps	10.7 ps	-6.2 ps	-6.0 ps	9.8 ps	3.1 ps	-13.6 ps	: 
+TOVT,MIG_CAG,PCH_M1_SCA,NL	5.3 ps	-7.0 ps	7.2 ps	-4.0 ps	10.4 ps	-4.0 ps	0.3 ps	1.2 ps	-2.0 ps	1.3 ps	-1.6 ps	7.7 ps
+TOVT,MIG_CAG,PCH_M1_SCA,NO	0.9 	3.5 	-1.2 	5.1 	-2.5 	2.7 	-2.9 	1.6 	5.2 	5.4 	-12.8 	8.4 
+TOVT,MIG_CAG,PCH_M1_SCA,PL	-2.5 s	2.8 s	1.4 s	-2.7 s	0.0 s	1.0 s	0.3 s	1.6 s	1.0 s	2.9 s	-2.5 s	4.4 s
+TOVT,MIG_CAG,PCH_M1_SCA,PT	-14.2 s	4.5 s	15.5 s	-13.8 s	18.6 s	-2.8 s	-5.6 s	8.4 s	-2.7 s	1.2 s	-4.9 s	-8.3 s
+TOVT,MIG_CAG,PCH_M1_SCA,RO	-4.4 s	2.2 s	0.2 s	3.9 s	3.5 s	-2.6 s	4.4 s	-3.4 s	3.4 s	3.8 s	-2.6 s	-1.2 ps
+TOVT,MIG_CAG,PCH_M1_SCA,RS	-12.5 s	12.2 s	-5.1 s	-5.3 s	2.8 s	-1.4 s	3.1 s	-2.7 s	6.8 s	5.2 s	-5.2 s	-2.1 s
+TOVT,MIG_CAG,PCH_M1_SCA,SE	2.3 s	4.1 s	0.3 s	1.6 s	7.1 s	-4.9 s	2.3 s	-2.8 s	1.4 s	-0.8 s	2.2 ps	-2.3 ps
+TOVT,MIG_CAG,PCH_M1_SCA,SI	4.3 ps	0.9 ps	2.6 ps	1.6 ps	3.5 ps	-5.8 ps	5.2 ps	-4.4 ps	3.7 ps	-1.7 ps	4.0 ps	-9.3 ps
+TOVT,MIG_CAG,PCH_M1_SCA,SK	0.5 	0.5 	11.9 	-8.4 	-3.6 	5.5 	1.8 	-0.4 	4.6 	2.8 	-3.8 p	8.1 p
+TOVT,MIG_CAG,PCH_M1_SCA,TR	-0.3 	6.7 	1.7 	4.5 	-2.5 	7.1 	1.1 	1.7 	5.5 	-2.5 	5.2 	6.8 
+TOVT,MIG_CAG,PCH_M1_SCA,UK	2.3 s	0.9 s	-2.6 s	4.4 s	0.5 s	1.2 s	-5.7 s	-0.3 s	-1.0 s	2.8 s	0.6 s	-2.0 s
