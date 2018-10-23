@@ -22,7 +22,7 @@ import os
 
 # <br>
 
-# In[153]:
+# In[167]:
 
 
 def tsv_converter(path,file):
@@ -32,9 +32,10 @@ def tsv_converter(path,file):
     output = pd.DataFrame(index=index_names); counter = 0
     for index, row in source.iterrows():
         for period in source.columns[1:]:
-            counter +=1
-            values = row[source.columns[0]].split(","); values.extend([period, row[period]])
-            output[counter] = values
+            if period[0].isdigit() == True:
+                counter +=1
+                values = row[source.columns[0]].split(","); values.extend([period, row[period]])
+                output[counter] = values
     
     output = output.transpose()
     try:
@@ -76,3 +77,12 @@ del path
 # - **tipsgd** - Gross domestic product (GDP)
 # - **tipsrd** - Research and development
 # - **mips_sa** - Macroeconomic imbalance procedure - Statistical annex indicators
+
+# <br>
+
+# In[170]:
+
+
+
+tsv_converter("./data/tables-of-EU-policy/", "t2020_50.tsv")
+
