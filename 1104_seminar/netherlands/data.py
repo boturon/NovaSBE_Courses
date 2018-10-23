@@ -22,12 +22,12 @@ import os
 
 # <br>
 
-# In[167]:
+# In[180]:
 
 
 def tsv_converter(path,file):
     source = pd.read_csv(path+file, sep="\t")
-    index_names = source.columns[0].split(","); index_names.extend(["date", "value"])
+    index_names = [i.replace('/', '') for i in source.columns[0].split(",")]; index_names.extend(["date", "value"])
     
     output = pd.DataFrame(index=index_names); counter = 0
     for index, row in source.iterrows():
@@ -79,10 +79,3 @@ del path
 # - **mips_sa** - Macroeconomic imbalance procedure - Statistical annex indicators
 
 # <br>
-
-# In[170]:
-
-
-
-tsv_converter("./data/tables-of-EU-policy/", "t2020_50.tsv")
-
