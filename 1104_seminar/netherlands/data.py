@@ -1,10 +1,11 @@
 
 # coding: utf-8
 
-# In[130]:
+# In[211]:
 
 
 import pandas as pd
+import numpy as np
 import os
 
 
@@ -22,12 +23,12 @@ import os
 
 # <br>
 
-# In[180]:
+# In[212]:
 
 
 def tsv_converter(path,file):
     source = pd.read_csv(path+file, sep="\t")
-    index_names = [i.replace('/', '') for i in source.columns[0].split(",")]; index_names.extend(["date", "value"])
+    index_names = [i.replace('\\', '') for i in source.columns[0].split(",")]; index_names.extend(["date", "value"])
     
     output = pd.DataFrame(index=index_names); counter = 0
     for index, row in source.iterrows():
@@ -38,6 +39,7 @@ def tsv_converter(path,file):
                 output[counter] = values
     
     output = output.transpose()
+    output.value[output.value == ": "] = np.NaN
     try:
         output.date = pd.to_datetime(output.date.str.strip())
     except ValueError:
