@@ -1,11 +1,10 @@
 
 # coding: utf-8
 
-# In[211]:
+# In[2]:
 
 
 import pandas as pd
-import numpy as np
 import os
 
 
@@ -23,12 +22,13 @@ import os
 
 # <br>
 
-# In[212]:
+# In[3]:
 
 
 def tsv_converter(path,file):
     source = pd.read_csv(path+file, sep="\t")
-    index_names = [i.replace('\\', '') for i in source.columns[0].split(",")]; index_names.extend(["date", "value"])
+    index_names = source.columns[0].split(","); index_names.extend(["date", "value"])
+    
     
     output = pd.DataFrame(index=index_names); counter = 0
     for index, row in source.iterrows():
@@ -38,8 +38,11 @@ def tsv_converter(path,file):
                 values = row[source.columns[0]].split(","); values.extend([period, row[period]])
                 output[counter] = values
     
+    if output.shape[1] == 0:
+        return("Problem in "+file)
+    
+    
     output = output.transpose()
-    output.value[output.value == ": "] = np.NaN
     try:
         output.date = pd.to_datetime(output.date.str.strip())
     except ValueError:
@@ -52,9 +55,11 @@ def tsv_converter(path,file):
 
 
 path = "./data/tables-of-EU-policy/"
+files_done = os.listdir(path+"converted/")
 for tsv_file in [i for i in os.listdir(path) if i[-3:]=="tsv"]:
-    print(tsv_file)
-    tsv_converter(path, tsv_file)
+    if tsv_file[:-3]+"csv" not in files_done:
+        print(tsv_file)
+        tsv_converter(path, tsv_file)
 del path
 
 

@@ -1,4 +1,4 @@
-currency,partner,sector10,sectpart,stk_flow,bop_item,geo\time,date,value
+currency,partner,sector10,sectpart,stk_flow,bop_item,geotime,date,value
 MIO_EUR,WRL_REST,S1,S1,N_LE,FA,AL,2015-07-01,-4362.3
 MIO_EUR,WRL_REST,S1,S1,N_LE,FA,AL,2015-10-01,-4419.2
 MIO_EUR,WRL_REST,S1,S1,N_LE,FA,AL,2016-01-01,-4482.7

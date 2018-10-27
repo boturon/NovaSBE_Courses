@@ -1,4 +1,4 @@
-stk_flow,sitc06,partner,unit,geo\time,date,value
+stk_flow,sitc06,partner,unit,geotime,date,value
 EXP,TOTAL,WRL_REST,PCH_M12_NSA,EA19,2017-09-01,5.2
 EXP,TOTAL,WRL_REST,PCH_M12_NSA,EA19,2017-10-01,9.0
 EXP,TOTAL,WRL_REST,PCH_M12_NSA,EA19,2017-11-01,8.5
