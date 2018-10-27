@@ -1,4 +1,4 @@
-stk_flow,sitc06,partner,unit,geotime,date,value
+stk_flow,sitc06,partner,unit,geo\time,date,value
 IMP,SITC3,WRL_REST,PCH_M12_NSA,EA19,2017-09-01,16.9
 IMP,SITC3,WRL_REST,PCH_M12_NSA,EA19,2017-10-01,12.4
 IMP,SITC3,WRL_REST,PCH_M12_NSA,EA19,2017-11-01,19.7
