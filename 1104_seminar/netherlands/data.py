@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[22]:
+# In[63]:
 
 
 import pandas as pd
@@ -23,7 +23,7 @@ import os
 
 # <br>
 
-# In[40]:
+# In[244]:
 
 
 def tsv_converter(path,file):
@@ -42,10 +42,8 @@ def tsv_converter(path,file):
     if output.shape[1] == 0:
         return("Problem in "+file)
     
-    
     output = output.transpose()
-    output.value = output.value.str.extract('(\d+)', expand=False)
-    #output.value = output.value.astype(float)
+    output.value = output.value.astype(str).str.replace(r"[a-zA-Z\s\:]", "").replace("", np.nan).astype(float)
 
     try:
         output.date = pd.to_datetime(output.date.str.strip())
@@ -55,7 +53,7 @@ def tsv_converter(path,file):
     output.to_csv(path+"converted/"+file[:-3]+"csv", index=False)
 
 
-# In[62]:
+# In[ ]:
 
 
 path = "./data/tables-of-EU-policy/"
@@ -66,5 +64,3 @@ for tsv_file in [i for i in os.listdir(path) if i[-3:]=="tsv"]:
         tsv_converter(path, tsv_file)
 del path
 
-
-# <br>
