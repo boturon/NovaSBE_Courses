@@ -1,0 +1,7 @@
+NEI_EXT	Aus der Natur entnommene Energieformen (IND01)
+EPRD_DOM	Inländische Produktion von Energieerzeugnissen (IND02)
+EPRD_ICNS	Vorleistungsverbrauch von Energieerzeugnissen (IND03)
+EPRD_HHCNS	Haushaltsverbrauch von Energieerzeugnissen (IND04)
+WST_USE	Verwendung von Abfällen für energetische Zwecke (IND05)
+NETDOM_EUSE	Nettoinlandsverbrauch von Energie (IND06)
+NRG_INP_OUT	Energieein- und -ausgang (IND07)

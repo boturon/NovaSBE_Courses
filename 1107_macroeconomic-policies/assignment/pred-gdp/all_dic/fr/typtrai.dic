@@ -1,0 +1,27 @@
+ATT	Tout type de formation professionnelle continue (FPC)
+CVT	Cours de formation professionnelle continue (FPC)
+ATOF	Tout type d'autres formes de formation professionnelle continue (FPC)
+NOT	Aucune formation professionnelle continue (FPC)
+TOTAL	Total
+GEN	Formation générale
+SPE	Formation spéciale
+INT_COU	Cours de FPC interne
+EXT_COU	Cours de FPC externe
+WS	Formation "sur le tas" encadrée
+JROT	Rotation organisée sur les postes de travail, échanges ou détachements
+LQUC	Cercles d'apprentissage ou de qualité
+SLEAR	Autoformation
+CONF	Formation continue dans le cadre de congrès, d'ateliers, de foires commerciales ou de conférences
+FED_NFE	Éducation et formation formelles et non-formelles
+NO_FED_NFE	Aucune éducation ou formation formelles ou non-formelles
+FED	Éducation et formation formelles
+NO_FED	Aucune éducation ou formation formelles
+NFE	Éducation et formation non-formelles
+JOB_NFE	Éducation et formation non-formelles liées au travail
+JOB_NFE_ES	Éducation et formation non-formelles liées au travail, supportées par l'employeur
+JOB_NFE_NES	Éducation et formation non-formelles liées au travail, non supportées par l'employeur
+JOB_NFE_ES_SAL	Éducation et formation non-formelles liées au travail, supportées par l'employeur (salariés seulement)
+NJOB_NFE_ONLY	Uniquement éducation et formation non-formelles qui ne sont pas liées au travail
+INFONLY	Uniquement activités d'apprentissage informel
+NOLEAR	Pas d'activité d'apprentissage
+NRESP	Pas de réponse

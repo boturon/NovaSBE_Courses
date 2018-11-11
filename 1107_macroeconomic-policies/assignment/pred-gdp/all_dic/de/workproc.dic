@@ -1,0 +1,43 @@
+TOTAL	Insgesamt
+WPR00	Keine Angabe
+WPR1	Produktion, Be- und Verarbeitung - insgesamt
+WPR10	Produktion, Be- und Verarbeitung, Lagerung - nicht spezifiziert
+WPR11	Produktion, Be- und Verarbeitung
+WPR12	Lagerung
+WPR19	Sonstiger Arbeitsprozess von Produktion, Be- und Verarbeitung, Lagerung
+WPR2	Erd-, Bau-, Instandhaltungs-, Abbrucharbeiten - insgesamt
+WPR20	Erd-, Bau-, Instandhaltungs-, Abbrucharbeiten - nicht spezifiziert
+WPR21	Erdarbeiten
+WPR22	Neubauarbeiten - Gebäude
+WPR23	Neubauarbeiten - Kunstbauwerke, Infrastruktur, Straßen, Brücken, Talsperren, Häfen
+WPR24	Renovierung, Instandsetzung, Erweiterung, Instandhaltung
+WPR25	Abbruch
+WPR29	Sonstiger Arbeitsprozess von Erd-, Bau-, Instandhaltungs-, Abbrucharbeiten
+WPR3	Land- und Forstwirtschaft, Gartenbau, Fischzucht, mit lebenden Tieren - insgesamt
+WPR30	Land- und Forstwirtschaft, Gartenbau, Fischzucht, mit lebenden Tieren - nicht spezifiziert
+WPR31	Landwirtschaftliche Arbeit - Bodenbearbeitung
+WPR32	Landwirtschaftliche Arbeit - mit Pflanzen, Gartenbauerzeugnissen
+WPR33	Landwirtschaftliche Arbeit - mit/an lebenden Tieren
+WPR34	Forstwirtschaftliche Arbeit
+WPR35	Arbeit in Fischzucht und Fischerei
+WPR39	Sonstiger Arbeitsprozess der Land- und Forstwirtschaft, Gartenbau, Fischzucht, mit lebenden Tieren
+WPR4	Dienstleistung für Unternehmen und/oder Menschen, geistige Tätigkeit - insgesamt
+WPR40	Dienstleistung für Unternehmen und/oder Menschen, geistige Tätigkeit - nicht spezifiziert
+WPR41	Dienstleistung, Pflege, Hilfe am Menschen
+WPR42	Geistige Tätigkeit - Unterricht, Ausbildung, Informationsverarbeitung, Büro-, Organisations-, Verwaltungsarbeit
+WPR43	Kaufmännische Tätigkeit - Kauf, Verkauf, ähnliche Dienstleistungen
+WPR49	Sonstiger Arbeitsprozess der Dienstleistungen für Unternehmen und/oder Menschen, geistige Tätigkeit
+WPR5	Sonstiger Arbeitsprozess in Bezug zu: Produktion, Be- und Verarbeitung, Erd-, Bau-, Instandhaltungs-, Abbrucharbeiten, Land- und Forstwirtschaft, Gartenbau, Fischzucht, mit lebenden Tieren, Dienstleistung für Unternehmen und/oder Menschen, geistige Tätigkeit - insgesamt
+WPR50	Sonstiger Arbeitsprozess in Bezug zu: Produktion, Be- und Verarbeitung, Erd-, Bau-, Instandhaltungs-, Abbrucharbeiten, Land- und Forstwirtschaft, Gartenbau, Fischzucht, mit lebenden Tieren, Dienstleistung für Unternehmen und/oder Menschen, geistige Tätigkeit - nicht spezifiziert 
+WPR51	Einrichtung, Vorbereitung, Installation, Montage, Demontage, Zerlegung
+WPR52	Wartung, Reparatur, Einstellung, Justierung
+WPR53	Reinigung von Räumlichkeiten, Maschinen - maschinell oder von Hand
+WPR54	Abfallwirtschaft, Entsorgung von Abfällen, Behandlung von Abfall jeglicher Art
+WPR55	Überwachung, Inspektion von Herstellungsverfahren, Räumlichkeiten, Transportmitteln, Anlagen - mit oder ohne Überwachungsgeräte
+WPR59	Sonstiger Arbeitsprozess in Bezug zu: Produktion, Be- und Verarbeitung, Erd-, Bau-, Instandhaltungs-, Abbrucharbeiten, Land- und Forstwirtschaft, Gartenbau, Fischzucht, mit lebenden Tieren, Dienstleistung für Unternehmen und/oder Menschen, geistige Tätigkeit (nicht anderweitig spezifiziert) 
+WPR6	Fortbewegung, sportliche, künstlerische Tätigkeit - insgesamt
+WPR60	Fortbewegung, sportliche, künstlerische Tätigkeit - nicht spezifiziert
+WPR61	Fortbewegung, auch mit Transportmitteln
+WPR62	Sportliche, künstlerische Tätigkeit
+WPR69	Sonstiger Arbeitsprozess Fortbewegung, sportliche, künstlerische Tätigkeit
+WPR99	Sonstiges

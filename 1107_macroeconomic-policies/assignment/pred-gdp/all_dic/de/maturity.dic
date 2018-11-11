@@ -1,0 +1,60 @@
+TOTAL	Insgesamt - alle Fälligkeiten
+SHORT	Kurzfristige Fälligkeit
+LONG	Langfristige Fälligkeit
+LONG_FX	Langfristige Fälligkeit, festverzinslich
+LONG_FL	Langfristige Fälligkeit, variabel verzinslich
+M_LT1	Fälligkeit: weniger als 1 Monat
+M1-3	Fälligkeit: 1 bis 3 Monate
+M_LT3	Fälligkeit: weniger als 3 Monate
+M3-12	Fälligkeit: 3 bis 12 Monate
+M_GT3	Fälligkeit: mehr als 3 Monate
+Y_LT1	Fälligkeit: weniger als 1 Jahr
+Y_LE1	Fälligkeit: 1 Jahr und weniger
+Y1	Fälligkeit: 1 Jahr
+Y1-2	Fälligkeit: 1 bis 2 Jahre
+Y1-3	Fälligkeit: 1 bis 3 Jahre
+Y1-5	Fälligkeit: 1 bis 5 Jahre
+Y_GT1	Fälligkeit: mehr als 1 Jahr
+Y_LT2	Fälligkeit: weniger als 2 Jahre
+Y2	Fälligkeit: 2 Jahre
+Y_GT2	Fälligkeit: mehr als 2 Jahre
+Y3	Fälligkeit: 3 Jahre
+Y3-5	Fälligkeit: 3 bis 5 Jahre
+Y4	Fälligkeit: 4 Jahre
+Y_LT5	Fälligkeit: weniger als 5 Jahre
+Y5	Fälligkeit: 5 Jahre
+Y5-7	Fälligkeit: 5 bis 7 Jahre
+Y5-10	Fälligkeit: 5 bis 10 Jahre
+Y_GT5	Fälligkeit: mehr als 5 Jahre
+Y6	Fälligkeit: 6 Jahre
+Y7	Fälligkeit: 7 Jahre
+Y7-10	Fälligkeit: 7 bis 10 Jahre
+Y8	Fälligkeit: 8 Jahre
+Y9	Fälligkeit: 9 Jahre
+Y10	Fälligkeit: 10 Jahre
+Y10-15	Fälligkeit: 10 bis 15 Jahre
+Y10-20	Fälligkeit: 10 bis 20 Jahre
+Y_GT10	Fälligkeit: mehr als 10 Jahre
+Y11	Fälligkeit: 11 Jahre
+Y12	Fälligkeit: 12 Jahre
+Y13	Fälligkeit: 13 Jahre
+Y14	Fälligkeit: 14 Jahre
+Y15	Fälligkeit: 15 Jahre
+Y15-30	Fälligkeit: 15 bis 30 Jahre
+Y16	Fälligkeit: 16 Jahre
+Y17	Fälligkeit: 17 Jahre
+Y18	Fälligkeit: 18 Jahre
+Y19	Fälligkeit: 19 Jahre
+Y20	Fälligkeit: 20 Jahre
+Y_GT20	Fälligkeit: mehr als 20 Jahre
+Y21	Fälligkeit: 21 Jahre
+Y22	Fälligkeit: 22 Jahre
+Y23	Fälligkeit: 23 Jahre
+Y24	Fälligkeit: 24 Jahre
+Y25	Fälligkeit: 25 Jahre
+Y26	Fälligkeit: 26 Jahre
+Y27	Fälligkeit: 27 Jahre
+Y28	Fälligkeit: 28 Jahre
+Y29	Fälligkeit: 29 Jahre
+Y30	Fälligkeit: 30 Jahre
+Y_GT30	Fälligkeit: mehr als 30 Jahre

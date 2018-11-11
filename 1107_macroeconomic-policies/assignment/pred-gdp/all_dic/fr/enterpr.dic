@@ -1,0 +1,32 @@
+TOTAL	Total
+LIFE	Entreprises d'assurance vie
+NLIFE	Entreprises d'assurance non-vie
+CMP	Entreprises d'assurance mixte
+RINS	Entreprises de réassurance spécialisées
+CMP_LIFE	Activités d'assurance-vie des entreprises mixtes
+CMP_NLIFE	Activités d'assurance non-vie des entreprises mixtes (y compris les acceptations en réassurance)
+AVIA	Entreprises aéroportuaires
+AIRP	Entreprises d'aviation
+RL_OPER	Entreprise de transport ferroviaire
+RL_INFR	Gestionnaire d'infrastructure
+RL_INTG	Société intégrée
+DOM	Entreprises avec sourçage local
+DOMC	Entreprises contrôlées par des propriétaires nationaux 
+DOMC_ABR	Entreprises contrôlées par des propriétaires nationaux, avec ses propres filiales à l'étranger 
+DOMC_NABR	Entreprises contrôlées par des propriétaires nationaux, sans ses propres filiales à l'étranger 
+FORC	Entreprises contrôlées par des propriétaires étrangers 
+INTL	Entreprises avec sourçage international
+NINTL_PL	Entreprises sans sourçage international, mais avec des projets de sourçage international
+NINTL_NPL	Entreprises sans sourçage international, sans projet de sourçage international
+BACK	Entreprises avec relocalisation en 2009-2011
+NBACK	Entreprises sans relocalisation en 2009-2011
+RLC	Entreprises ayant relocalisé en 2009-2011
+NRLC	Entreprises n'ayant pas relocalisé en 2009-2011
+CTRL	Entreprises ayant contrôlé des filiales étrangères en 2009-2011
+NCTRL	Entreprises n'ayant pas contrôlé de filiales étrangères en 2009-2011
+SPEC	Entreprises spécialisées
+NSPEC	Entreprises non spécialisées
+HG	Entreprises à forte croissance
+YHG	Jeunes entreprises à forte croissance (gazelles)
+OTH	Autres entreprises
+UNK	Inconnu

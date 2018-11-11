@@ -1,0 +1,44 @@
+TOTAL	Total
+DAY	Quotidiennement
+1D	Une fois par jour
+GE1D	Au moins une fois par jour
+GE2D	Au moins deux fois par jour
+WEEK	Hebdomadaire
+LT10HW	Moins de 10 heures par semaine
+10-19HW	De 10 à 19 heures par semaine
+GE20HW	20 heures par semaine ou plus
+LT1W	Moins qu'une fois par semaine
+GE1W	Au moins une fois par semaine
+1-3W	De 1 à 3 fois par semaine
+4-6W	De 4 à 6 fois par semaine
+MTH	Mensuellement
+LT1M	Moins d'une fois par mois
+1M	Une fois par mois
+GE1M	Au moins une fois par mois
+SEV_M	Plusieurs fois par mois
+NM12	Pas au cours des 12 derniers mois
+GE1Y	Au moins une fois par an
+ALW_NREG	Toujours ou pas régulièrement
+ALW	Toujours
+MOST	La plupart du temps
+REG	Régulièrement
+NREG	Pas régulièrement
+SMT	Parfois
+USU	Habituellement
+RAR	Rarement
+NVR_OCC	Jamais ou occasionellement
+NVR	Jamais
+NVR_NM12	Jamais ou pas au cours des 12 derniers mois
+1-3	De 1 à 3 fois
+1-6	De 1 à 6 fois
+GE1	Au moins une fois
+4-6	De 4 à 6 fois
+GE4	Au moins 4 fois
+GT6	Plus de 6 fois
+7-12	De 7 à 12 fois
+GT12	Plus de 12 fois
+ALPS	Toujours positifs
+NBINGE	Pas de consommation excessive d'alcool 
+NAP	Non applicable
+NRP	Sans réponse
+UNK	Inconnu

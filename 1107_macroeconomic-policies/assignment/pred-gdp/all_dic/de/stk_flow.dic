@@ -1,0 +1,95 @@
+TOTAL	Insgesamt
+CRE_DEB_AVG	Durchschnitt von Einnahmen und Ausgaben
+CRE	Einnahmen
+DEB	Ausgaben
+NET	Netto
+PRD	Erzeugung
+PRD_U	Verwendbare Erzeugung
+ASS	Forderungen
+AD	Bruttoveräußerungen von Vermögenswerten
+AI	Bruttoerwerb von Vermögenswerten
+LIAB	Verbindlichkeiten
+LD	Bruttoabnahme von Verbindlichkeiten
+LI	Bruttozugang an Verbindlichkeiten
+IMP	Einfuhren
+IMP_IEU28	Einfuhren Intra-EU-28
+IMP_XEU	Einfuhren aus nicht-EU Staaten
+IMP_XEU28	Einfuhren Extra-EU-28
+EXP	Ausfuhren
+EXP_IEU28	Ausfuhren Intra-EU-28
+EXP_XEU	Ausfuhren nach nicht-EU Staaten
+EXP_XEU28	Ausfuhren Extra-EU-28
+BAL	Saldo
+BAL_RT	Saldo für Werte / Quotient für Indizes
+BAL_TRD	Handelssaldo
+DOM	Inländisch
+DOM_HCN	Inländisch - menschlicher Verzehr
+DOM_IND	Inländisch - industrielle Verwendung
+DOM_IND_BIO	Inländisch - Verwendung als industrielles Bioethanol oder Biokraftstoff
+DOM_ANF	Inländisch - Tierfutter
+DOM_CRU	Inländisch - Pressen
+DOM_SEED	Inländisch - Saatgut
+DOM_LOSS	Inländisch - Verluste
+ADJ	Sonstige Bereinigungen
+TRN	Transaktionen
+STK	Bestand
+STK_OP	Anfangsbestand
+STK_CL	Schlussbestand
+STK_BMY	Bestand zu Beginn des Vermarktungsjahres
+STK_EMY	Bestand am Ende des Vermarktungsjahres
+STK_CHG	Bestandsveränderungen
+STK_GRS	Bruttobestand
+STK_NET	Nettobestand
+FLOW_GRS	Bruttoaufkommen
+FLOW_NET	Nettoaufkommen
+EXPN	Ausgaben
+INC	Einkommens
+SAV	Ersparnisse
+WLTH_NET	Nettovermögen
+INCR	Zunahme
+DECR	Abnahme
+NAI	Nettojahreszuwachs
+RMOV	Entnahmen
+LOSS	Verluste
+LOSS_MEUR	Verluste - Millionen Euro
+LOSS_MET_MEUR	Verluste durch meteorologische Ereignisse - Millionen Euro
+LOSS_HYD_MEUR	Verluste durch hydrologische Ereignisse - Millionen Euro
+LOSS_CLIM_MEUR	Verluste durch klimatologische Ereignisse - Millionen Euro
+LOSS_CUM_EUR_HAB	Kumulierte Verluste - Euro pro Kopf
+ENT	Zugänge
+EXIT	Abgänge
+IN	Eingänge
+OUT	Ausgänge
+PAID	Bezahlt
+RECV	Erhalten
+SUP	Aufkommen
+USE	Verwendung
+USE_TRS	Umwandlungsverwendung
+USE_END	Endverwendung
+ER_USE	Emissionsrelevante Verwendung
+BL	Rückwärtsverflechtungen
+FL	Vorwärtsverflechtungen
+REVAL	Wertberichtigung
+RCLAS	Statistische Neuzuordnung
+II	Nettoeträge aus ausländischen Direktinvestitionen im Inland
+IO	Nettoerträge aus inländischen Direktinvestitionen im Ausland
+NI	Ausländische Netto-Direktinvestitionen im Inland
+NO	Inländische Netto-Direktinvestitionen in das Ausland
+K3-K6	Sonstige Ströme: Katastrophenschäden, Enteignungsgewinne/-verluste, sonstige Volumenänderungen und Änderungen der Zuordnung
+K7	Nominale Umbewertungsgewinne/ -verluste
+A_LE	Aktiva - Bestände am Ende des Zeitraums
+A_K7A	Aktiva - Neubewertungen aufgrund von Wechselkursänderungen
+A_K7B	Aktiva - Neubewertungen aufgrund sonstiger Preisveränderungen
+A_KA	Aktiva - sonstige Volumenänderungen von Aktiva/Passiva
+L_LE	Passiva - Bestände am Ende des Zeitraums
+L_K7A	Passiva  - Neubewertungen aufgrund von Wechselkursänderungen
+L_K7B	Passiva - Neubewertungen aufgrund sonstiger Preisveränderungen
+L_KA	Passiva - sonstige Volumenänderungen von Aktiva/Passiva
+N_LE	Netto-Bestände am Ende des Zeitraums
+N_K7A	Netto-Neubewertungen aufgrund von Wechselkursveränderungen
+N_K7B	Netto-Neubewertungen aufgrund sonstiger Preisveränderungen
+N_KA	Sonstige Netto-Volumenänderungen von Aktiva/Pasiva
+NE_LE	Netto-Passiva (Passiva minus Aktiva)
+HUMD_PC	Feuchtigkeitsgehalt (%)
+NSP	Nicht angegeben
+UNK	Unbekannt

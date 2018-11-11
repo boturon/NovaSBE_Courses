@@ -1,0 +1,294 @@
+TOTAL	Total
+FIN_FAR_TRA_WAIT	Raisons financières, distance ou transport, liste d'attente
+FIN_DST_TRA_WAIT	Raisons financières, distance ou transport, liste d'attente
+FIN	Raisons financières
+FAR_TRA	Distance ou transport
+DST_TRA	Distance ou transport
+FAR	Distance
+DST	Distance
+DIF	Difficulté
+WAIT	Liste d'attente
+TIME	Temps
+NINT	Pas d'intérêt
+NNB	Aucun dans le voisinage
+LEV_APP	Niveau d'education atteint considéré approprié
+EDUC_END	A mené à son terme le dernier niveau d'éducation formelle
+WI_WRK	Souhaite travailler
+NMT_ND_INT_STU	Enseignement ne correspondant pas aux besoins ou aux domaines d'intérêt
+TOOEXP	Trop cher
+TOODIFF	Trop difficile (pour obtenir des résultats sûrs/valables)
+TOOFAR	Trop loin pour voyager
+TOOEFW	Trop cher ou trop loin pour voyager ou liste d'attente
+NOPRIOR	N'est pas prioritaire
+IVTF	Des efforts plutot pour IVT que CVT
+MJPR	Grand effort de formation realisée l'année precedente
+EXSCOR	Les competences actuelles des employés correspondent au besoins de l'enterprise
+LSCOR	Manque de  cours de CVT au marché
+RESIST	Provoque de la résistance parmi les employés
+RECR	Recrutement des personnes ayant les aptitudes requises
+INISUFF	Formation initiale suffisante
+DONE	Investissement récent; aucun besoin cette année
+DIFFASS	Difficulté d'évaluation des besoins de l'entreprise
+OWNRESP	Responsabilité des employés pour leur propre emploi de temps
+ONREQ	Seulement fourni sur demande
+NOEXPERT	Expertise insuffisante pour développer un plan de formation
+DISC	Sujet de discussion entre le management et les employés
+CERTIF	Obtention d'un certificat/d'une accréditation comme bonne entreprise de formation
+COMM	Obtention de l'engagement du management pour l'importance de la formation professionnelle continue
+LAW	Pour se conformer à la loi ou aux conventions collectives
+FINEU	Obtention de l'aide financière de l'UE
+FINOTH	Obtention de l'aide financière d'autres sources extérieures
+LAYOFF	Attendant d'être rappelé au travail (mis à pied)
+INVPT	N'a pas trouver un emploi à temps plein
+WANTPT	N'a pas voulu un emploi à temps plein
+INVTMP	N'a pas trouvé de travail permanent
+WANTTMP	N'a pas voulu un travail permanent
+ILLDIS	Avoir la maladie ou l'incapacité
+FAM_PER_CARE	Prise en charge d¿enfants ou d¿adultes handicapés et autres raisons familiales ou personnelles
+FAM_PER	Autres responsabilités familiales ou personnelles
+FAMCARE	Assistance d'enfants ou d'adultes dans l'incapacité de travailler
+FAM_HLTH_OTH	Raisons familiales, de santé ou autre
+INEDUC	Dans l'éducation ou la formation professionnelle
+STAGE	Période de probation
+RETIRED	Retraité
+THKNOWK	Pense qu'il n'y a pas de travail disponible
+NONEED	Aucun besoin
+NOTIME	Pas le temps
+NTIME_FAM	Manque de temps libre en raison d'engagements familiaux
+NTIME_WRK_STU	Manque de temps libre en raison d'obligations liées au travail ou aux études
+NO_UNMET	Pas de besoin non satisfait
+NOKNOW	ne connaît pas un bon médecin ou spécialiste
+MULTI	Partie d'un groupe multinational
+TOOSMALL	Le marché national est trop petit
+CUT_NICHE	Services novateurs et/ou très spécialisés
+NET	Echanges de services induits par l'utilisation d'Internet
+OUTSOURC	Echanges de services induits par l'externalisation
+DNPP	Développement de nouveaux produits ou procédés
+LHR	Manque de ressources internes
+IV	Meilleure visibilité
+IF	Flexibilité accrue
+CRES	Réduction des coûts ou économies d'échelle
+ANM	Accès à de nouveaux marchés
+ANSST	Accès à des compétences/technologies nouvelles ou spécialisées
+MJOB	Motifs principalement associés à l'emploi
+MPER	Motifs essentiellement personnels/sociaux
+RLOSJ	Afim de moins risquer de perdre son travail
+ROBL	D'être obligé de participer
+RPROM	Augmenter les possibilités d'avoir un travail ou d'en  changer
+RBUIS	Pour commencer son enterprise
+RSKIL	Pour avoir les savoirs/compétences qui sont utiles dans la vie quotidienne
+RSUB	Pour améliorer le savoir/compétences sur un sujet intéressant
+RFUN	Pour rencontrer des nouvelles personnes ou pour s'amuser
+RCER	Pour avoir un certificat
+RJOB	Pour mieux  faire son travail et/ou ameliorer les perspectives de carrière
+REDLC	Réduction des coûts du travail
+REDOC	Réduction des coûts autres que ceux du travail
+FOLLOW	Adoption du comportement/de l'exemple de concurrents/de clients
+QUAL	Meilleure qualité ou introduction de nouveaux produits
+STRAT	Décisions stratégiques prises par la tête du groupe
+CORE	Accent mis sur l'activité principale de l'entreprise
+KNOW	Accès à des connaissances/technologies spécialisées
+LKLAB	Manque de main-d'oeuvre qualifiée
+REDDT	Réduction des délais de livraison
+REGL	Allègement de la réglementation pesant sur l'entreprise, par ex. moins de réglementation environnementale
+MPLC	Difficulté de management due à l'éloignement physique, aux disparités linguistiques et culturelles
+QPS	Qualité insuffisante des biens/services produits à l'étranger
+PRDCT	Faible productivité du travail à l'étranger
+QPER	Manque de personnel qualifié à l'étranger
+DELT	Temps de livraison aux clients trop long
+SUPPL	Problèmes avec la flexibilité du fournisseur et sa capacité à fournir
+COST	Coûts inhérents au transfert d'activités plus élévés que prévu
+TAX	Incitations fiscales ou autres incitations financières
+WAITING	liste d'attente
+FEAR	Peur du médecin, de l'hôpital, de l'examen ou du traitement
+HOPING	Préfère attendre et voir si le problème se résout de lui-même
+OTHERM	Autres motivations
+NRESP	Sans réponse
+DOC_NVAL	Documents de voyage non valables
+DOC_F	Faux document de voyage
+NRP_NVV	Visa ou permis de séjour non valable
+FV_FRP	Faux visa ou faux permis de séjour
+STAY_NJ	But et conditions de séjour non attestés
+PERM_3	Personne ayant déjà séjourné 3 mois au cours d'une période des 6 mois
+NSUBS	Moyens de subsistance non suffisants
+ALERT	Personne signalée au fin de non-admission
+PB_THRT	Personne considerée comme représentante un danger pour l'ordre public
+FAM	Raisons liées à la famille
+FAM_EU	Raisons liées à la famille: Personne rejoignant un citoyen de l'UE
+FAM_PART_EU	Raisons liées à la famille: Conjoint/partenaire rejoignant un citoyen de l'UE
+FAM_CHILD_EU	Raisons liées à la famille: Enfant rejoignant un citoyen de l'UE
+FAM_OTH_EU	Raisons liées à la famille: Autre membre de la famille rejoignant un citoyen de l'UE
+FAM_NEU	Raisons liées à la famille: Personne rejoignant un non-citoyen de l'UE
+FAM_PART_NEU	Raisons liées à la famille: Conjoint/partenaire rejoignant un non-citoyen de l'UE
+FAM_CHILD_NEU	Raisons liées à la famille: Enfant rejoignant un non-citoyen de l'UE
+FAM_OTH_NEU	Raisons liées à la famille: Autre membre de la famille rejoignant un non-citoyen de l'UE
+EDUC	Raisons liées à l'éducation
+ED_STU	Raisons liées à l'éducation: Études
+ED_OTH	Raisons liées à l'éducation: Autres raisons liées à l'éducation
+OCCUP	Raisons liées à des activités rémunérées
+OCC_HSW	Raisons liées à des activités rémunérées: Travailleurs hautement qualifiés
+OCC_RSE	Raisons liées à des activités rémunérées: Chercheurs
+OCC_SEAS	Raisons liées à des activités rémunérées: Travailleurs saisonniers
+OCC_OTH	Raisons liées à des activités rémunérées: Autres activités rémunérées
+OCC_SING	Raisons liées à des activités rémunérées: Permis unique
+OTH_INTPRO	Autres raisons: Statut de protection internationale
+OTH_REFSUB	Autres raisons: Statut de refugié et protection subsidiaire
+OTH_HUM	Autres raisons: Raisons humanitaires
+OTH_RESID	Autres raisons: Résidence uniquement
+OTH_NSPEC	Autres raisons: Autres raisons non spécifiées
+CH_FAM	Changement de l'ancienne raison: Famille
+CH_FAM_ED	Changement de famille à éducation
+CH_FAM_OCC	Changement de famille à activités rémunérées
+CH_FAM_OTH	Changement de famille à autres raisons
+CH_ED	Changement de l'ancienne raison: éducation 
+CH_ED_FAM	Changement de éducation à famille
+CH_ED_OCC	Changement de éducation à activités rémunérées
+CH_ED_OTH	Changement de éducation à autres raisons
+CH_OCC	Changement de  l'ancienne raison: activités rémunérées
+CH_OCC_FAM	Changement de activités rémunérées à famille
+CH_OCC_ED	Changement de activités rémunérées à éducation 
+CH_OCC_OTH	Changement de activités rémunérées à autres raisons
+CH_OTH	Changement de l'ancienne raison: autres raisons
+CH_OTH_FAM	Changement de autres raisons à famille
+CH_OTH_ED	Changement de autres raisons à éducation
+CH_OTH_OCC	Changement de autres raisons à activités rémunérées
+WORK	Pour le travail ou les études
+WRK_JOB	Emploi, poste de travail trouvé avant la migration 
+WRK_NJOB	Emploi, aucun emploi trouvé avant la migration
+INTPRO	Protection internationale 
+IPRO_ASY	Protection internationale ou asile
+PERS	Pour les loisirs ou avec la famille et les amis
+PER	Raisons personnelles
+PER_HOL	Vacances, loisirs et détente
+PER_RF	Visites à des amis et parents
+PER_OTH	Autres raisons personnelles
+PROF	Professionnel, affaires
+OCC_BLUE	Raisons liées à des activités rémunérées: Carte bleue européenne
+OTH_MIN	Autres raisons: Mineurs non accompagnés
+OTH_VTM	Autres raisons: Victimes du trafic d'êtres humains 
+REFG	Statut de refugié
+REF	Statut de refugié 
+SUB	Protection subsidiaire
+SPON_REF	Regroupant avec statut de réfugié
+SPON_SUB	Regroupant avec statut conféré par la protection subsidiaire
+SPON_HUM	Regroupant avec statut humanitaire (loi nationale)
+SPON_UNK	Regroupant avec statut inconnu
+ISS_REFSUB	Issued permits during the year 
+VAL_REFSUB	Valid permits at the end of the year 
+LONG_EU	Résidents de longue durée: Directive UE
+LONG_N	Résidents de longue durée: Législation nationale
+ICT	Permis pour personne faisant l'objet d'un transfert temporaire intragroupe
+LTM	Permis pour mobilité de longue durée
+BUCL	Entreprise déjà cliente
+LOC	Agence bancaire à proximité
+BTIN	Meilleures conditions en taux d'intérêt offertes
+BTNIN	Meilleures conditions non liées aux taux d'intérêt
+EMSF	Banque orientée vers les petites entreprises
+GDCL	Succursale bancaire réputée pour ses bonnes relations avec ses clients
+MAINT	Maintenir l'activité
+GROW	Développer les activités domestiques de l'entreprise
+EXP	Financer les ventes à l'exportation
+INN	Financer l'innovation et la R&D
+ACQU	Pour fusions et acquisitions
+INTL	Développer des activités internationales
+ECO	Perspectives économiques générales
+LOCM	Faible demande sur le marché local/national
+FORM	Faible demande sur les marchés étrangers
+AVPER	Faible disponibilité de nouveau personnel qualifié
+LSPER	Perte de personnel existant
+TRPB	Problème de transmission d'entreprise (p. ex. héritage)
+HILAB	Coût élevé du facteur travail
+INVES	Investissement nécessaire dans l'équipement
+OUTPD	Obsolescence des produits (R&D nécessaire, délai de mise sur le marché)
+TCOMP	Compétition technologique
+NWENT	Nouveaux entrants sur les marchés
+PCOMP	Concurrence des prix / marges faibles
+RGFR	Cadre réglementaire
+LKFI	Manque d'incitations fiscales
+DIFIT	Accès difficile aux technologies de l'information
+IW_OTH	Faiblesse des autres infrastructures
+NEFIN	Financement insuffisant
+PCR	Faible cote de crédit
+LKC	Manque de capitaux propres
+ICG	Insuffisance de garanties
+IRP	Potentiel insuffisant ou risqué (de l'entreprise ou du projet)
+TML	Emprunts déjà trop nombreux ou trop de dettes
+NLH	Aucun antécédent d'emprunt
+PLH	Mauvais antécédents lors d'emprunt
+NRS	Aucune raison donnée
+HIR	Taux d'intérêt trop élevés
+NIR	Conditions inacceptables non liées aux taux d'intérêt 
+INA	Incapacité des actionnaires existants de souscrire à plus d'actions
+EXC	Trop de capitaux propres en échange des fonds offerts selon les nouveaux actionnaires potentiels
+CON	Trop de concessions en échange de financement par capitaux propres selon les nouveaux actionnaires potentiels
+DEV	Ressources de développement de l'entreprise insuffisantes ou trop risquées selon les nouveaux actionnaires potentiels
+DEB	L'entreprise a trop de dettes selon les nouveaux actionnaires potentiels
+NT_FAM	Manque de temps libre en raison d'obligations familiales
+NT_WRK	Manque de temps libre en raison d'obligations liées au travail ou aux études
+HLTH	Raisons de santé
+HOME	Absence de motivation pour les voyages, préfère rester à la maison
+SAFE	Sécurité
+SAL	Salaire
+BEN	Avantages
+JSEC	Sécurité de l'emploi
+LCT	Lieu
+WRK_CDT	Conditions de travail
+OPAD	Possibilités de progression
+INCHA	Défi intellectuel
+LEV_RSP	Niveau de responsabilités
+DEG_IND	Degré d'indépendance
+CTB_SOC	Contribution à la société
+SOC_STA	Statut social
+END_DO	Achèvement du doctorat
+END_PDJ	Fin du post-doctorat ou contrat de travail
+OTH_ECO	Autres facteurs économiques ou liés à l'emploi
+ACA_FAC	Facteurs universitaires
+FP_REA	Raisons familiales ou personnelles
+DISMIS	Licenciement ou suppression de poste
+JOBLIM	Fin d'un emploi à durée déterminée
+EDUTRA	Enseignement scolaire ou formation
+ERLY_RET	Retraite anticipée
+NORM_RET	Retraite normale
+LHCBAD_PEF	A la fois un problème de santé de longue durée ou une difficulté à accomplir une activité de base ainsi que des facteurs personnels ou liés à l'environnement
+LHCBADO	Uniquement un problème de santé de longue durée ou une difficulté à accomplir une activité de base
+PEFO	Uniquement des facteurs personnels ou liés à l'environnement
+LACKQUAL	Manque de qualifications ou d'expérience
+LACKAPPJOB	Manque d'offres d'emploi appropriées
+FAMRESP	Responsabilités familiales/prise en charge de proches
+OPER	Autres raisons personnelles ou liées à l'environnement
+NOLIMW	Pas de limitation au travail
+HCOST	Coût élevé des cours de FPC
+IVTFOC	L'importance accordée à la FPI est plus grande que celle accordée à la FPC
+EFFREC	Des efforts de formation très importants ont été consentis ces dernières années
+QUALCOR	Les aptitudes et compétences existantes correspondaient aux besoins actuels de l'entreprise
+LCO	Absence de cours de FPC adéquats sur le marché
+DIFASS	Difficile à évaluer les besoins de l'entreprise en matière de formation
+HWL	Charge de travail élevée et les travailleurs ont peu / pas de temps disponible pour participer à la FPC
+NLIM	Pas de facteur limitatif: le niveau de formation était approprié
+QUAL_FE	Qualification des futurs travailleurs en fonction des besoins de l'entreprise
+BEST_FE	Sélection des meilleurs participants à la FPI en vue d'un recrutement futur
+NMM	Prévention des éventuelles inadéquations aux besoins de l'entreprise en cas de recrutement externe
+IVTCAP	Utilisation des capacités de production des participants à la FPI
+AGE	Age
+GEN	Sexe
+REL	Religion
+ETH	Appartenance ethnique ou nationalité
+DIS	Handicap
+SXO	Orientation sexuelle
+INEDUC_INVTMP_STAGE	Involuntary temporary employment
+NPL	Pas de place disponible
+OH_NSUI	Heures d'ouverture ne conviennent pas
+QUAL_NSAT	Qualité des services fournis non satisfaisante
+NND	Pas de besoin
+CO_NADT	Non admis au cours ou programme
+CO_NSUI	Aucun cours ou programme adapté accessible
+NPROV	Pas proposé par l¿employeur
+REFU	Refus de la personne nécessitant de tels services
+NCARE	Aucun service de soins disponible
+OTH	Autres
+NAP	Non applicable
+NRP	Sans réponse
+UNK	Inconnu
+PERS_HOL	Vacances, loisirs et récréation
+PERS_VFR	Visites à des amis et parents
+PERS_OTH	Autres raisons personnelles

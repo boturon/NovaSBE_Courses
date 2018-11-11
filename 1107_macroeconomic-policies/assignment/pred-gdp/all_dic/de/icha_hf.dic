@@ -1,0 +1,15 @@
+HF1-3	Alle Ausgabenträger
+HF1	Staat
+HF11	Staat außer Sozialversicherung
+HF12	Sozialversicherung
+HF2	Privater Sektor
+HF21	Privater Sozialschutz
+HF22	Private Versicherungsunternehmen (außer Sozialschutz)
+HF21_22	Private Versicherungsunternehmen (einschließlich Sozialschutz)
+HF23	Selbstzahlungen der privaten Haushalte
+HF232-235	Kostenbeteiligung:  Bund/Zentralstaat; Länder/Kantone; Gemeinden; Sozialversicherung
+HF236_237	Kostenbeteiligung:  Private Versicherung
+HF24	Private Organisationen ohne Erwerbszweck (außer Sozialschutz)
+HF25	Unternehmen (außer Krankenversicherung)
+HF3	Übrige Welt
+HF0	Nicht anderswo erwähnt

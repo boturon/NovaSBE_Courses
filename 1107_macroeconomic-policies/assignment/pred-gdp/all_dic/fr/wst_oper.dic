@@ -1,0 +1,43 @@
+GEN	Déchets produits
+GEN_HH	Déchets produits par les ménages
+MKT	Produits mis sur le marché
+COL	Déchets collectés
+COL_HH	Déchets ménagers collectés
+COL_OTH	Déchets collectés d'autres sources
+TRT	Traitement des déchets
+TRT_NAT	Déchets traités dans l'État membre
+TRT_EU_FOR	Déchets traités dans un autre État membre de l'UE
+TRT_NEU	Déchets traités hors UE
+TRT_NAL	Traitement des déchets non-alloué
+DSP_I_RCV_E	Elimination - incinération (D10) et valorisation - valorisation énergétique (R1)
+DSP	Elimination
+DSP_L_OTH	Elimination - décharges et autres (D1-D7, D12)
+DSP_L	Elimination - décharges (D1, D5, D12)
+DSP_LH	Elimination - décharges pour déchets dangereux
+DSP_LNH	Elimination - décharges pour déchets non dangereux
+DSP_LIN	Elimination - décharges pour déchets inertes
+DSP_I	Elimination - incinération (D10)
+DSP_OTH	Elimination - autres (D2-D4, D6-D7)
+RCV_REU	Valorisation et réutilisation
+RCV	Valorisation
+INC_RCV_PL	Nombre total d'usines d'incinération
+RCV_I_PAC	Valorisation - incinération avec valorisation énergétique (emballages)
+RCV_E	Valorisation - valorisation énergétique (R1)
+RCV_R_B	Valorisation - recyclage et remblayage (R2-R11)
+RCV_R	Valorisation - recyclage
+RCV_B	Valorisation- remblayage
+RCV_OTH	Valorisation - autres
+RCY_REU	Recyclage et réutilisation
+RCY	Recyclage
+RCY_INP	Recyclage - fractions entrantes
+RCY_M	Recyclage - matériel
+RCY_C_D	Recyclage - compostage et méthanisation
+RCY_OTH	Recyclage - autres
+RCV_I_PL	Nombre total d'usines d'incinération avec récupération d'énergie
+RCY_RT	Taux de recyclage
+REU	Réutilisation
+TRT_PL	Usines de traitement
+C_DSP_D	Sites de décharges contrôlées
+CMP	Compostage
+OTH	Autres opérations de gestion des déchets
+NSP	Non spécifié

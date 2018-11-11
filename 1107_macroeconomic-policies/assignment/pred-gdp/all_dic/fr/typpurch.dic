@@ -1,0 +1,15 @@
+TOTAL	Total
+CP	Achats courants
+PLTC	Achats sur base de contrats à long terme
+NEW_DW	Logements nouveaux
+EXST_DW	Logements existants
+ACQ_DW	Acquisitions de logements (O.1.1.)
+PNEW_DW	Achats de logements nouveaux (O.1.1.1.1.)
+SB_DW	Logements construits par les propriétaires eux- mêmes et gros travaux de rénovation (O.1.1.1.2.)
+NEWH_DW	Logements existants, nouveaux dans le secteur des ménages (O.1.1.2.)
+OTHC_DW	Autres services liés à l¿acquisition de logements (O.1.1.3.)
+OWN_DW	Propriété des logements (O.1.2.)
+MAJ_REP	Grosses réparations et entretien (O.1.2.1.)
+INS_DW	Assurances liées aux logements (O.1.2.2.)
+OTHS_DW	Autres services liés à la propriété des logements (O.1.2.3.)
+OTH	Autres

@@ -1,0 +1,85 @@
+PB0000	Behinderung
+PB0001	Keine Behinderung
+PB1000	Lang andauerndes Gesundheitsproblem bzw. lang andauernde Krankheit
+PB1001	Keine lang andauernden Gesundheitsprobleme oder Krankheiten
+PB1010	Nur ein lang andauerndes Gesundheitsproblem
+PB1020	Nur Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1030	Sowohl ein Gesundheitsproblem als auch  Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1031	Keine Gesundheitsproblem und keine Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1040	Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1041	Keine Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1050	Schwierigkeiten bei der persönlichen Pflege
+PB1051	Keine Schwierigkeiten bei der persönlichen Pflege
+PB1060	Schwierigkeiten bei der Erledigung des Haushalts
+PB1061	Keine Schwierigkeiten bei der Erledigung des Haushalts
+PB1070	Einschränkung der Erwerbstätigkeit auf Grund eines lang andauernden Gesundheitsproblems oder auf Grund von Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1071	Keine Einschränkung der Erwerbstätigkeit auf Grund eines lang andauernden Gesundheitsproblems oder auf Grund von Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1080	Nur durch ein lang andauerndes Gesundheitsproblem beschränkt
+PB1090	Nur durch Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens beschränkt
+PB1100	Sowohl durch ein Gesundheitsproblem als auch durch eine Schwierigkeit bei der Ausübung von Tätigkeiten des täglichen Lebens beschränkt
+PB2010	Probleme mit den Armen oder Händen
+PB2020	Probleme mit den Beinen oder Füßen
+PB2021	Arthrose
+PB2030	Probleme mit dem Rücken oder Nacken
+PB2031	Probleme im unteren Rückenbereich oder ein anderes chronisches Rückenleiden
+PB2032	Probleme im Bereich der Halswirbelsäule oder eine andere chronische Halsschädigung
+PB2110	Sehen
+PB2120	Hören
+PB2121	Hören in einem ruhigen Raum
+PB2122	Hören in einem Raum mit höherem Geräuschpegel
+PB2130	Sprachfehler
+PB2210	Hauterkrankungen
+PB2310	Brust-oder Atmungsprobleme
+PB2311	Asthma
+PB2312	Chronische Krankheiten der unteren Atemwege (ohne Asthma)
+PB2410	Herz-, Blutdruck- oder Kreislaufprobleme
+PB2411	Herzinfarkt oder chronischen Folgen eines Herzinfarkts
+PB2412	Koronare Herzerkrankung oder Angina pectoris
+PB2413	Bluthochdruck
+PB2414	Schlaganfall oder chronische Folgen eines Schlaganfalls
+PB2420	Probleme mit dem Magen, der Leber, den Nieren oder der Verdauung
+PB2421	Leberzirrhose
+PB2422	Harninkontinenz
+PB2423	Nierenprobleme
+PB2430	Diabetes
+PB2440	Allergie
+PB2510	Epilepsie
+PB2610	Mentale, nervliche oder psychische Probleme
+PB2620	Chronische Angst
+PB2630	Chronische Depression
+PB2640	Lernschwierigkeiten
+PB2690	Andere mentale, nervliche oder psychische Probleme
+PB2710	Andere fortschreitende Krankheiten
+PB2720	Schwere Kopfschmerzen (wie Migräne)
+PB2730	Krebs
+PB2790	Andere lang andauernde Gesundheitsprobleme
+PB3010	Gehen
+PB3011	Gehen oder Treppen steigen
+PB3012	Treppen steigen
+PB3110	Sich erinnern oder konzentrieren
+PB3120	Kommunizieren
+PB3210	Hochheben einer 2-Liter-Wasserflasche vom Bauch bis auf Augenhöhe
+PB3310	Halten, greifen oder drehen
+PB3320	Sitzen oder stehen
+PB3330	Nach etwas greifen oder sich strecken
+PB3340	Heben und tragen
+PB3350	Bücken
+PB4010	Selbständige Nahrungsaufnahme
+PB4020	Aus einem Bett oder Stuhl aufstehen und sich hinlegen/setzen
+PB4030	An- und auskleiden
+PB4040	Toilettengang
+PB4050	Baden oder duschen
+PB5010	Zubereitung von Mahlzeiten
+PB5020	Telefonieren
+PB5030	Einkaufen
+PB5040	Medikamenteneinnahme
+PB5050	Hausarbeiten
+PB5051	Leichte Hausarbeiten
+PB5052	Gelegentliche schwere Hausarbeiten
+PB5060	Erledigung finanzieller und alltäglicher administrativer Angelegenheiten
+DPR	Depressive Symptome
+DPR_MJR	Schwere depressive Symptome
+DPR_OTH	Andere depressive Symptome
+NDPR	Keine depressiven Symptome
+NRP	Keine Antwort
+TOTAL	Insgesamt

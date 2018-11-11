@@ -1,0 +1,103 @@
+TOTAL	Gesamtfläche
+L0000	Gebiet - Insgesamt
+L0008	Landfläche - Insgesamt
+L0005	Landwirtschaftlich genutzte Fläche
+L0001	Ackerland
+L1050	Getreide zur Körnergewinnung (einschließlich Saatgut)
+L1250	Reis
+L1300	Hülsenfrüchte und Eiweißpflanzen zur Körnergewinnung (einschließlich Saatgut und Gemenge von Getreide mit Hülsenfrüchten)
+L1350	Hackfrüchte
+L1360	Kartoffeln/Erdäpfel (einschließlich Früh- und Pflanzkartoffeln/-erdäpfel)
+L1370	Zuckerrüben (ohne Saatgut)
+L1380	Andere Hackfrüchte a.n.g.
+L1400	Handelsgewächse
+L2610	Pflanzen zur Grünernte
+L1600	Gemüse, Melonen und Erdbeeren
+L3001	Blumen und Zierpflanzen (ohne Baumschulen)
+L3310	Saat und Pflanzguterzeugung
+L2690	Andere Kulturen auf dem Ackerland
+L2695	Übrige Felderzeugnisse a.n.g.
+L2696	Brache / Brachland
+L0002	Dauergrünland
+L0003	Dauerkulturen
+L2002	Frischobst (einschließlich Wein und Oliven)
+L0011	Obst- und Beerenobstanlagen
+L2300	Zitrusplantagen
+L2450	Olivenanlagen
+L2410	Rebflächen
+L2810	Baumschulen
+L2960	Flechtgewächse
+L2980	Andere Dauerkulturen a.n.g.
+L0004	Hausgärten
+L2990	Andere landwirtschaftlich genutzte Fläche a.n.g.
+L0900	Pflanzliche Erzeugung unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+L1112	Gemüse, Melonen und Erdbeeren unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+L1113	Blumen und Zierpflanzen unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+L1114	Dauerkulturen unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+L0006	Forstfläche
+L0016	Waldfläche
+L0007	Übrige Flächen
+L0009	Binnengewässer
+LU	Ingesamt Bodennutzung
+LUA	Landwirtschaft
+LUB	Forstwirtschaft
+LUC	Fischerei
+LUD	Starke Umweltauswirkungen
+LUE	Dienstleistungen und Wohngebiete
+LUF	Ungenutzte und verlassene Flächen
+LUG	Andere primäre Produktion
+LUA1	Landwirtschaft
+LUB1	Forstwirtschaft
+LUC1	Fischerei
+LUC2	Jagd
+LUD1	Bergbau, Gewinnung von Steinen und Erden
+LUD2	Energieerzeugung
+LUD3	Verarbeitendes Gewerbe
+LUD4	Wasser- und Abfallwirtschaft
+LUD5	Baugewerbe
+LUD6	Verkehr, Nachrichtenübermittlung, Lagerung, Schutzbauten
+LUE1	Handel, Finanzen, Wirtschaft
+LUE2	Kommunale Dienstleistungen
+LUE3	Erholung, Freizet, Sport
+LUE4	Wohngebiete
+LUE5	Naturschutzgebiete
+LUF1	Ungenutzte und verlassene Flächen
+LUA11	Landwirtschaft (ohne Brachland, Hausgärten und Flächen für den Eigenverbrauch)
+LUA12	Brachland und stillgelegte landwirtschaftliche Flächen
+LUA13	Hausgärten
+LUB10	Forstwirtschaft
+LUC10	Fischerei
+LUC20	Jagd
+LUD10	Bergbau, Gewinnung von Steinen und Erden
+LUD20	Energieerzeugung
+LUD31	Herstellung von Nahrungs- und Genussmitteln, Tabakverarbeitung
+LUD32	Herstellung von Textilwaren
+LUD33	Kohle-, Öl- und Metallverarbeitung
+LUD34	Herstellung von nichtmetallischen Mineralerzeugnissen
+LUD35	Chemische Industrie und verwandtes Gewerbe
+LUD36	Maschinenbau
+LUD37	Herstellung von Holzwaren
+LUD41	Wasserversorgung und -aufbereitung
+LUD42	Abfallwirtschaft
+LUD51	Baugewerbe
+LUD61	Eisenbahnverkehr
+LUD62	Straßenverkehr
+LUD63	Schifffahrt
+LUD64	Luftverkehr
+LUD65	Rohrfernleitungen
+LUD66	Nachrichtenübermittlung
+LUD67	Lagerung
+LUD68	Schutzbauten
+LUE10	Handel, Finanzen, Wirtschaft
+LUE20	Kommunale Dienstleistungen
+LUE31	Museen, Freizeiteinrichtungen
+LUE32	Sport
+LUE33	Ferienanlagen
+LUE40	Wohngebiete
+LUF10	Ungenutzte und verlassene Flächen
+LUF11	Verlassene Flächen
+LUF12	Halbnatürliche und natürliche Flächen ohne Nutzung
+AGRIAREA	Landwirtschaftlich genutzte Fläche
+ARABLAND	Ackerland
+GRASLAND	Dauergrünland
+PERMCROP	Dauerkulturen

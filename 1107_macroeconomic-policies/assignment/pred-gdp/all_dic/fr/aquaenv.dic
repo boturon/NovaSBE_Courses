@@ -1,0 +1,12 @@
+TOTAL	Total
+FRW	Eau douce
+SBW	Eau de mer et eau saumâtre (total)
+SEA	Eau de mer
+BRK	Eau saumâtre
+NSP	Non spécifié
+SEA_NR	Seawater - number
+SEA_EXC_NR	Seawater excellent - number
+SEA_EXC_PC	Seawater excellent - %
+FRW_NR	Freshwater - number
+FRW_EXC_NR	Freshwater excellent - number
+FRW_EXC_PC	Freshwater excellent - %

@@ -1,0 +1,10 @@
+TOTAL	Insgesamt
+OGA_MT_HLD	Inhaberleiter welcher mehr Zeit in Anspruch nimmt für andere Erwerbstätigkeiten als für seinen eigenen Besitz
+OGA_MT_SPOU	Ehepartner welcher mehr Zeit in Anspruch nimmt für andere Erwerbstätigkeiten als für seinen eigenen Besitz
+OGA_LT_HLD	Inhaberleiter welcher weniger Zeit in Anspruch nimmt für andere Erwerbstätigkeiten als für seinen eigenen Besitz
+OGA_LT_SPOU	Ehepartner welcher weniger Zeit in Anspruch nimmt für andere Erwerbstätigkeiten als für seinen eigenen Besitz
+NOGA_HLD	Der Inhaberleiter hat keine sonstige Erwerbstätigkeit
+NOGA_SPOU	Der Ehepartner hat keine sonstige Erwerbstätigkeit
+NSPOU	Kein Gatte des Alleininhabers
+NMAN_NHLD	Der Alleininhaber ist nicht der Betreibsleiter
+LEG_GRP	Der Betrieb ist eine juristische Person oder ein Gruppenbetrieb

@@ -1,0 +1,68 @@
+N1	Actifs produits
+N1N	Stocks et objets de valeur, brut
+N11	Actifs fixes totals
+N11N	Actifs cultivés et actifs fixes incorporels
+N111	Actifs fixes corporels
+N1111	Logements
+N1112	Autres bâtiments et ouvrages de génie civil
+N11121	Bâtiments non-residentiels
+N11122	Autres ouvrages de génie civil
+N111M	Tous bâtiments et ouvrages de génie civil
+N1113	Machines et équipements
+N11131	Matériels de transport
+N11132	Autres machines et équipements
+N111321	Autres machines et équipements: machines de bureau et matériel informatique
+N111322	Autres machines et équipements: équipements de radio, télévision et communication
+N111329	Autres machines et équipements n.c.a.
+N1114	Actifs cultivés
+N112	Actifs fixes incorporels
+N1121	Prospection minière et pétrolière
+N1122	Logiciels
+N1123	Oeuvres récréatives, littéraires ou artistiques originales
+N1129	Autres actifs fixes incorporels
+N113_N114	Machines et équipements + systèmes d'armes
+N1132	Équipements TIC
+N11321	Matériel informatique
+N11322	Équipements de télécommunications
+N1139_N114	Autres machines et équipements + systèmes d'armes
+N115	Ressources biologiques cultivées
+N117	Droits de propriété intellectuelle
+N1173	Logiciels et bases de données
+N12	Stocks
+N13	Objets de valeur
+N2	Actifs non produits
+N21	Actifs corporels non produits
+N211	Terrains
+N212	Gisements
+N21A	Ressources biologiques non cultivées et réserves d'eau
+N22	Actifs incorporels non produits
+T11	Actifs fixes totals, net
+T11N	Actifs cultivés et actifs fixes incorporels, net
+T111	Actifs fixes corporels, net
+T1111	Logements, net
+T1112	Autres bâtiments et ouvrages de génie civil, net
+T11121	Bâtiments non-residentiels, net
+T11122	Autres ouvrages de génie civil, net
+T1113	Machines et équipements, net
+T11131	Matériels de transport, net
+T11132	Autres machines et équipements, net
+T111321	Autres machines et équipements: machines de bureau et matériel informatique, net
+T111322	Autres machines et équipements: équipements de radio, télévision et communication, net
+T111329	Autres machines et équipements n.c.a., net
+T1114	Actifs cultivés, net
+T111M	Tous bâtiments et ouvrages de génie civil, net
+T112	Actifs fixes incorporels, net
+T1121	Prospection minière et pétrolière, net
+T1122	Logiciels, net
+T1123	Oeuvres récréatives, littéraires ou artistiques originales, net
+T113_T114	Machines et équipements + systèmes d'armes, net
+T1132	Équipements TIC, net
+T11321	Matériel informatique, net
+T11322	Équipements de télécommunications, net
+T1139_T114	Autres machines et équipements + systèmes d'armes, net
+T115	Ressources biologiques cultivées, net
+T117	Droits de propriété intellectuelle, net
+T1173	Logiciels et bases de données, net
+T2	Actifs non produits, net
+T21	Actifs corporels non produits, net
+NAP	Non applicable

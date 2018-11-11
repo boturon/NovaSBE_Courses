@@ -1,0 +1,94 @@
+LC	Occupation des sols Total
+LCA	Sols artificiels
+LCB	Sols cultivés
+LCC	Terres boisées
+LCD	Landes
+LCE	Herbages
+LCF	Sols nus
+LCG	Eaux
+LCH	Zones humides
+LCA1	Zones bâties
+LCA2	Zones non bâties
+LCA3	Autres surfaces artificialisées
+LCB1	Céréales
+LCB2	Racines et tubercules
+LCB3	Cultures industrielles annuelles
+LCB4	Légumes secs, légumes frais et fleurs
+LCB5	Cultures fourragères (principalement légumineuses)
+LCB7	Arbres fruitiers et baies
+LCB8	Autres cultures permanentes
+LCBX	Cultures photo-interprétés
+LCC10	Forêts de feuillus
+LCC20	Forêts de Conifères
+LCC30	Forêts Mixtes
+LCC1	Forêt FAO
+LCC2	Autres terres boisées FAO
+LCC1_2	Forêt et autres terres boisées FAO
+LCC3	Autres terres boisées Non FAO
+LCD1	Landes avec couvert d'arbres
+LCD2	Landes sans couvert d'arbres
+LCE1	Herbages avec couvert d'arbres ou buissons
+LCE2	Herbages sans couvert d'arbres ou buissons
+LCE3	Flore spontanée
+LCG1	Plans d'eau intérieurs
+LCG2	Cours d'eau intérieurs
+LCG3	Eaux de transition
+LCG5	Glaciers, neiges éternelles
+LCH1	Zones humides intérieures
+LCH2	Zones humides côtières
+LCA11	Bâtiments de 1 à 3 étages
+LCA12	Bâtiments de plus de 3 étages
+LCA13	Serres
+LCA21	Sols revêtus ou stabilisés de forme aréolaire
+LCA22	Sols revêtus ou stabilisés de forme linéaire
+LCA30	Autres surfaces artificialisées
+LCB11	Blé tendre
+LCB12	Blé dur
+LCB13	Orge
+LCB14	Seigle
+LCB15	Avoine
+LCB16	Maïs
+LCB17	Riz
+LCB18	Triticale
+LCB19	Autres céréales
+LCB21	Pommes de terre
+LCB22	Betterave sucrière
+LCB23	Autres racines et tubercules
+LCB31	Tournesol
+LCB32	Colza et navette
+LCB33	Soja
+LCB34	Coton
+LCB35	Autres cultures de plantes à fibres et d'oléagineux
+LCB36	Tabac
+LCB37	Autres cultures industrielles annuelles
+LCB41	Légumes secs
+LCB42	Tomates
+LCB43	Autres légumes frais
+LCB44	Fleurs et plantes ornementales
+LCB45	Fraises
+LCB51	Trèfle
+LCB52	Luzerne
+LCB53	Autres légumineuses et mélanges pour fourrages
+LCB54	Mélanges de céréales pour fourrages
+LCB55	Prairies temporaires
+LCBX1	Cultures non permanentes photo-interprétés (B1x-B5x)
+LCB71	Pommes
+LCB72	Poires
+LCB73	Cerises
+LCB74	Noyers
+LCB75	Autres fruits et baies
+LCB76	Oranges
+LCB77	Autres agrumes
+LCB81	Oliveraies
+LCB82	Vignes
+LCB83	Pépinières
+LCB84	Cultures industrielles permanentes
+LCBX2	Cultures permanentes photo-interprétés (B7x-B8x)
+LCH11	Marais intérieurs
+LCH12	Tourbières
+LCH21	Marais maritimes
+LCH22	Marais salants
+LCH23	Zones intertidales
+B1GQ_LCA	Productivité des sols artificiels
+B1GM_LCA1	Productivité des zones artificielles bâties
+B1GM_LCA2	Productivité des zones artificielles non bâties

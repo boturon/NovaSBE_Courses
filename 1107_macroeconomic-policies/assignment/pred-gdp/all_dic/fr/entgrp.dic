@@ -1,0 +1,9 @@
+TOTAL	Toutes les entreprises (groupe d'entreprises ou non)
+EG	Groupe d'entreprises
+HD_EG	Tête de groupe
+HD_EGG	Tête de groupe mondial
+SUB	Filiale
+SUB_NAT	Filiale avec tête de groupe mondial dans son propre pays
+SUB_EU27	Filiale avec tête de groupe mondial dans l'UE27
+SUB_XEU27	Filiale avec tête de groupe mondial hors de l'UE27
+NEG	Pas de groupe d'entreprises

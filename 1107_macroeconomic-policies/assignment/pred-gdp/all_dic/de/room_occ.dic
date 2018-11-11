@@ -1,0 +1,10 @@
+TOTAL	Insgesamt
+LT0P5	Weniger als 0.5 Räume pro Bewohner
+0P5-1	0.5 bis 1 Raum pro Bewohner
+1-1P25	1 bis 1.25 Räume pro Bewohner
+1P25-1P5	1.25 bis 1.5 Räume pro Bewohner
+1P5-2	1.5 bis 2 Räume pro Bewohner
+2-2P5	2 bis 2.5 Räume pro Bewohner
+2P5-3	2.5 bis 3 Räume pro Bewohner
+GE3	3 Räume und mehr pro Bewohner
+UNK	Unbekannt

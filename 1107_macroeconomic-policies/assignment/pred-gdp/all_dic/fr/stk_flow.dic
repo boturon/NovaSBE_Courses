@@ -1,0 +1,95 @@
+TOTAL	Total
+CRE_DEB_AVG	Moyenne des crédits et débits
+CRE	Crédit
+DEB	Débit
+NET	Net
+PRD	Production
+PRD_U	Production utilisable
+ASS	Avoirs
+AD	Ventes brutes d'actifs
+AI	Acquisitions brutes d'actifs
+LIAB	Engagements
+LD	Diminution brute des passifs
+LI	Accroissement brut des passifs
+IMP	Importations
+IMP_IEU28	Importations intra-UE28
+IMP_XEU	Importations de pays hors UE
+IMP_XEU28	Importations extra-UE28
+EXP	Exportations
+EXP_IEU28	Exportations intra-UE28
+EXP_XEU	Exportations vers pays hors UE
+EXP_XEU28	Exportations extra-UE28
+BAL	Solde
+BAL_RT	Solde des valeurs / Ratio des indices
+BAL_TRD	Solde commercial
+DOM	Domestique
+DOM_HCN	Dommestique - consommation humaine
+DOM_IND	Dommestique - utilisation industrielle
+DOM_IND_BIO	Dommestique - utilisation industrielle de bioéthanol ou de biocarburant
+DOM_ANF	Dommestique - alimentation animale
+DOM_CRU	Dommestique - trituration
+DOM_SEED	Dommestique - semences
+DOM_LOSS	Dommestique - pertes
+ADJ	Autres ajustements
+TRN	Transactions
+STK	Stock
+STK_OP	Stock d'ouverture
+STK_CL	Stock de clôture
+STK_BMY	Stock au début de la campagne de commercialisation
+STK_EMY	Stock à la fin de la campagne de commercialisation
+STK_CHG	Variation de stock
+STK_GRS	Stock brut
+STK_NET	Stock net
+FLOW_GRS	Flux brut
+FLOW_NET	Flux net
+EXPN	Dépense
+INC	Revenu
+SAV	Épargne
+WLTH_NET	Patrimoine net
+INCR	Augmentation
+DECR	Réduction
+NAI	Accroissement annual net
+RMOV	Quantités enlevées
+LOSS	Pertes
+LOSS_MEUR	Pertes - millions d¿euros
+LOSS_MET_MEUR	Pertes dues à des événements météorologiques - millions d¿euros
+LOSS_HYD_MEUR	Pertes dues à des événements hydrologiques - millions d'euros
+LOSS_CLIM_MEUR	Pertes dues à des événements climatologiques - millions d'euros
+LOSS_CUM_EUR_HAB	Pertes cumulées - euros par habitant
+ENT	Entrées
+EXIT	Sorties
+IN	Entrants
+OUT	Sortants
+PAID	Payé
+RECV	Reçu
+SUP	Ressource
+USE	Emploi
+USE_TRS	Emploi transformation
+USE_END	Emploi final
+ER_USE	Emploi générant des émissions
+BL	Liaisons en amont
+FL	Liaisons en aval
+REVAL	Réévaluation
+RCLAS	Reclassification statistique
+II	Revenu net des IDE en entrants
+IO	Revenu net des IDE en sortants
+NI	Flux net des IDE entrants
+NO	Flux net des IDE sortants
+K3-K6	Autres flux: destructions d¿actifs dues à des catastrophes, saisies sans compensation, autres changements de volume non classés ailleurs et changements de classement
+K7	Gains/pertes nominaux de détention
+A_LE	Avoirs - positions en fin de période
+A_K7A	Avoirs - réévaluations dues aux taux de changes
+A_K7B	Avoirs - réévaluations dues aux autres changement de prix
+A_KA	Avoirs - autres changements dans le volume des Actifs/Passifs
+L_LE	Engagements - positions en fin de période
+L_K7A	Engagements - réévaluations dues aux taux de changes
+L_K7B	Engagements - réévaluations dues aux autres changement de prix
+L_KA	Engagements - autres changements dans le volume des Actifs/Passifs
+N_LE	Positions nettes (avoirs - engagements) en fin de période
+N_K7A	Réévaluations nettes dues aux taux de changes
+N_K7B	Réévaluations nettes dues aux autres changement de prix
+N_KA	Autres changements nets dans le volume des Actifs/Passifs
+NE_LE	Engagements nets (engagements - avoirs) en fin de période
+HUMD_PC	Humidité (%)
+NSP	Non spécifié
+UNK	Inconnu

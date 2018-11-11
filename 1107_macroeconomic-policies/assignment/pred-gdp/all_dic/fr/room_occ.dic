@@ -1,0 +1,10 @@
+TOTAL	Total
+LT0P5	Moins de 0.5 pièce par occupant
+0P5-1	De 0.5 à 1 pièce par occupant
+1-1P25	De 1 à 1.25 pièces par occupant
+1P25-1P5	De 1.25 à 1.5 pièces par occupant
+1P5-2	De 1.5 à 2 pièces par occupant
+2-2P5	De 2 à 2.5 pièces par occupant
+2P5-3	De 2.5 à 3 pièces par occupant
+GE3	3 pièces ou plus par occupant
+UNK	Inconnu

@@ -1,0 +1,666 @@
+TOTAL	Total
+NR	Nombre
+NR_HAB	Nombre par habitant
+THS	Millier
+MIO	Million
+BN	Milliard
+CT	Euro cent
+EUR	Euro
+THS_EUR	Milliers d'euros
+MIO_EUR	Millions d'euros
+BN_EUR	Milliards d'euros
+MEUR_KP11	Millions d'euros (aux prix constants de 2011)
+MEUR_KP10	Millions d'euros (aux prix constants de 2010)
+MEUR_KP05	Millions d'euros (aux prix constants de 2005)
+MEUR_KP00	Millions d'euros (aux prix constants de 2000)
+MEUR_KP_PRE	Millions d'euros (aux prix de l'année précédente)
+MIO_EUR_KP_PRE	Millions d'euros (aux prix de l'année précédente)
+MEUR_CLV10	Millions d'euros, mesures de volume chaînées, année de référence 2010 (aux taux de change de 2010)
+MIO_EUR_CLV2005	Millions d'euros, mesures de volume chaînées, année de référence 2005 (aux taux de change de 2005)
+MIO_EUR_CLV2000	Millions d'euros, mesures de volume chaînées, année de référence 2000 (aux taux de change de 2000)
+MEUR_NSA	Millions d'euros (NSA)
+MIO_EUR_NSA	Millions d'euros (NSA)
+MIO_EUR_SCA	Millions d'euros (SCA)
+MIO-EUR-SA	Echanges commerciaux en valeur - millions euro - désaisonnalisés et corrigés des jours ouvrables
+MIO-EUR-NSA	Echanges commerciaux en valeur - millions euro - non désaisonnalisés
+EUR_M3_CLV10	Euro par mètres cubes (Euro: mesures de volume chaînées, année de référence 2010, aux taux de change de 2010)
+EUR_M3_CLV2005	Euro par mètres cubes (Euro: mesures de volume chaînées, année de référence 2005, aux taux de change de 2005)
+EUR_BGDP	Euro par milliard du PIB
+EUR_KWH	Euro par kilowattheure (kWh)
+EUR_KG	Euro par kilogramme
+EUR_KGOE	Euros par kilogramme d'equivalent pétrole (KGEP)
+EUR_KG_CLV10	Euro par kilogramme, volumes chaînés (2010)
+EUR_KG_CLV05	Euro par kilogramme, volumes chaînés (2005)
+EUR_CLV05_KG	Euro par kilogramme (Euro: mesures de volume chaînées, année de référence 2005, aux taux de change de 2005)
+EUR_CLV00_KG	Euro par kilogramme (Euro: mesures de volume chaînées, année de référence 2000, aux taux de change de 2000)
+EUR_T	Euro par tonne
+EUR_TOE	Euro par tonne d'équivalent pétrole (TEP)
+EUR_HA	Euro par hectare
+EUR_AWU	Euro par unité de travail annuel (UTA)
+EUR_HAB	Euro par habitant
+EUR_HAB_EU	Euro par habitant en pourcentage de la moyenne de l'UE
+EUR_HAB_EU27_2019	Euro par habitant en pourcentage de la moyenne de l'UE27 (sans le Royaume-Uni)
+EUR_HAB_CLV05	Euro par habitant, volume de référence et taux de change de 2005
+EUR_HAB_CLV00	Euro par habitant, volume de référence et taux de change de 2000
+EUR_HAB_KP10	Euro par habitant (aux prix constants de 2010)
+EUR_HAB_KP05	Euro par habitant (aux prix constants de 2005)
+EUR_HAB_KP00	Euro par habitant (aux prix constants de 2000)
+EUR_AE	Euro par équivalent adulte
+EUR_HH	Euro par ménage
+EUR_HRS	Euro par heure travaillée
+ECU	Unité monétaire européenne (Écu)
+NAC	Monnaie nationale
+THS_NAC	Milliers d'unités de monnaie nationale
+MIO_NAC	Millions d'unités de monnaie nationale
+BN_NAC	Milliards d'unités de monnaie nationale
+MNAC_KP10	Millions de monnaie nationale aux prix constants de 2010
+MNAC_KP05	Millions de monnaie nationale aux prix constants de 2005
+MIO_NAC_KP_PRE	Millions de monnaie nationale aux prix de l'année précédente
+MIO_NAC_CLV2005	Millions de monnaie nationale, mesures de volume chaînées, année de référence 2005
+MIO_NAC_CLV2000	Millions de monnaie nationale, mesures de volume chaînées, année de référence 2000
+NAC_T	Monnaie nationale par tonne
+NAC_HA	Monnaie nationale par hectare
+NAC_HAB	Monnaie nationale par habitant
+NAC_HAB_CLV05	Monnaie nationale par habitant, volume de référence et taux de change de 2005
+NAC_HAB_CLV00	Monnaie nationale par habitant, volume de référence et taux de change de 2000
+NAC_AE	Monnaie nationale par équivalent adulte
+NAC_HH	Monnaie nationale par ménage
+NAC_HRS	Monnaie nationale par heure travaillée
+NAT	Monnaie nationale (anciennes monnaies des pays de la zone euro)
+MIO_NAT	Millions d'unités de monnaie nationale (anciennes monnaies des pays de la zone euro)
+PPS	Standard de pouvoir d'achat (SPA)
+PPS_EU27_2019	Standard de pouvoir d'achat (SPA UE27 sans le Royaume-Uni)
+MIO_PPS	Millions de standards de pouvoir d'achat (SPA)
+MIO_PPS_KP05	Millions de standards de pouvoir d'achat (SPA) aux prix de 2005
+MIO_PPS_KP00	Millions de standards de pouvoir d'achat (SPA) aux prix de 2000
+MIO_PPS_EU27_2019	Millions de standards de pouvoir d'achat (SPA UE27 sans le Royaume-Uni)
+PPS_BGDP	Standard de pouvoir d'achat (SPA) par milliard du PIB
+PPS_KG	Standard de pouvoir d'achat (SPA) par kilogramme
+PPS_KGOE	Standard de pouvoir d'achat (SPA) par kilogramme d'equivalent pétrole
+MPPS_KM2	Millions de standards de pouvoir d'achat (SPA) par kilomètre carré
+PPS_M3	Standard de pouvoir d'achat (SPA) par mètre cube
+PPS_HAB	Standard de pouvoir d'achat (SPA) par habitant
+PPS_EU27_2019_HAB	Standard de pouvoir d'achat (SPA UE27 sans le Royaume-Uni) par habitant
+PPS_HAB_KP05	Standard de pouvoir d'achat (SPA) par habitant aux prix constants de 2005
+PPS_HAB_KP00	Standard de pouvoir d'achat (SPA) par habitant aux prix constants de 2000
+PPS_HAB_EU	Standard de pouvoir d'achat (SPA) par habitant en pourcentage de la moyenne de l'UE
+PPS_HAB_EU28	Standard de pouvoir d'achat (SPA) par habitant en pourcentage de la moyenne de l'UE28
+PPS_HAB_EU27_2019	Standard de pouvoir d'achat (SPA UE27 sans le Royaume-Uni) par habitant en pourcentage de la moyenne de l'UE27 (sans le Royaume-Uni)
+PPS_PWW	Standard de pouvoir d'achat (SPA) par personne souhaitant travailler
+PPS_AE	Standard de pouvoir d'achat (SPA) par équivalent adulte
+PPS_HH	Standard de pouvoir d'achat (SPA) par ménage
+MIO_PPCS	Millions de standards de pouvoir d'achat basés sur la consommation finale
+PPCS_HAB	Standards de pouvoir d'achat basés sur la consommation finale par habitant
+PPCS_HAB_EU	Standards de pouvoir d'achat de consommation par habitant en pourcentage de la moyenne de l'UE
+GDP_HAB	PIB par personne
+GDP_BEUR	PIB nominal en milliards d'euros
+OZ	Once
+MCG_M3	Microgramme par mètre cube
+G	Gramme
+G_HAB	Grammes par personne
+G_EUR_CP	Grammes par euro, prix courants
+G_EUR_CLV10	Grammes par euro, volumes chaînés (2010)
+G_PKM	Grammes par passager-kilomètre
+G_TKM	Grammes par tonne-kilomètre
+G_FTKM	Grammes par tonne-kilomètre de marchandises
+KG	Kilogramme
+KG_HAB	Kilogrammes par personne
+KG_EUR_CP	Kilogrammes par euro, prix courants
+KG_EUR_CLV10	Kilogrammes par euro, volumes chaînés (2010)
+KG_TEUR_CLV10	Kilogrammes par millier d'euros, volumes chaînés (2010)
+KG_HA	Kilogrammes par hectare
+KGOE	Kilogramme d'équivalent pétrole (KGEP)
+KGOE_TEUR	Kilogrammes d'equivalents pétrole (KGEP) par millier d'euros
+T	Tonne
+THS_T	Mille tonnes
+MIO_T	Millions de tonnes
+TCO2E	Tonnes équivalent CO2
+MTCO2E	Millions de tonnes équivalent CO2
+TCO2E_HAB	Tonnes équivalent CO2 par habitant
+TOE	Tonnes d'équivalent pétrole (TEP)
+KTOE	Milliers de tonnes équivalent pétrole (TEP)
+MTOE	Millions de tonnes équivalent pétrole (TEP)
+TOE_MEUR_PPS	Tonnes d'équivalent pétrole (TEP) par million d'euros en standards de pouvoir d'achat (SPA)
+TSWU	Tonnes d'unités de travail de separation
+THM	Tonnes de métal lourd
+TPW	Tonnes du poids produit
+TLW	Tonnes poids vif
+T_AI	Tonnes d'ingrédient actif
+T_HA	Tonnes par hectare
+T_HAB	Tonnes par tête
+TD	Tonnes par jour
+THS_TD	Mille tonnes par jour
+O2_TD	Tonnes O2 par jour
+PE_TD	Tonnes équivalent-habitant par jour
+GT	Jauge brute (GT)
+THS_GT	Jauge brute (GT) en milliers
+M	Mètre
+M_KM2	Mètres par kilomètre carré
+KM	Kilomètre
+MIO_GTKM	Millions de tonnes-kilomètres brutes
+TKM	Tonne-kilomètre (TKM)
+THS_TKM	Mille tonne-kilomètre (TKM)
+MIO_TKM	Millions de tonne-kilomètre (TKM)
+THS_TRKM	Mille train-kilomètres
+MIO_PKM	Millions de passagers-kilomètres
+VKM	Véhicule-kilomètre (VKM)
+THS_VKM	Milliers de véhicules-kilomètres (VKM)
+MIO_VKM	Millions de véhicules-kilomètres (VKM)
+THS_VESKM	Mille navire-kilomètres
+KM_THAB	Kilomètres par millier d'habitants
+KM_TKM2	Kilomètres par millier de kilomètres carrés
+M2	Mètre carré
+THS_M2	Mille mètres carrés
+M2_HAB	Mètres carré par personne
+HA	Hectare
+THS_HA	Mille hectares
+KM2	Kilomètre carré
+KM2_HAB	Kilomètres carré par personne
+M3	Mètre cube
+THS_M3	Mille mètres cubes
+MIO_M3	Millions de mètres cubes
+M3_HAB	Mètres cubes par habitant
+L	Litre
+THS_L	Mille litres
+HL	Hectolitre
+THS_HL	Mille hectolitres
+MN	Minute
+THS_MN	Mille minutes
+HR	Heure
+THS_HR	Mille heures
+MIO_HR	Millions d'heures
+HW	Heures travaillées
+THS_HW	Milliers d'heures travaillées
+HR_SAL	Heures par employé
+DAY	Jour
+MTH	Mois
+YR	Année
+TIME_SP	Temps passé (hh:mm)
+PTP_TIME	Temps de participation (hh:mm)
+KW	Kilowatt
+THS_KW	Mille kilowatts
+MW	Mégawatt
+GW	Gigawatt
+KWH	Kilowattheure
+GWH	Gigawattheure
+GWD_THM	Gigawatt-jour par tonne de métal lourd
+KCAL	Kilocalorie
+GJ_GCV	Gigajoules (pouvoir calorifique supérieur = PCS)
+TJ	Térajoule
+TJ_GCV	Térajoules (pouvoir calorifique supérieur = PCS)
+DEGC	Degré Celsius
+PH	Valeur du pH
+INX	Indice
+INX_M	Indice mensuel
+INX_Q	Indice trimestriel
+INX_A_AVG	Indice moyen annuel
+I2015	Indice, 2015=100
+I2010	Indice, 2010=100
+I2005	Indice, 2005=100
+I2000	Indice, 2000=100
+I15	Indice, 2015=100
+I12	Indice, 2012=100
+I10	Indice, 2010=100
+I09	Indice, 2009=100
+I08	Indice, 2008=100
+I06	Indice, 2006=100
+I05	Indice, 2005=100
+I03	Indice, 2003=100
+I01	Indice, 2001=100
+I00	Indice, 2000=100
+I99	Indice, 1999=100
+I96	Indice, 1996=100
+I95	Indice, 1995=100
+I90	Indice, 1990=100
+I_EU	Indice, EU=100
+I_LY	Indice, dernière année = 100
+I_NAT	Année de base nationale
+I_N_1	Indice, n-1 = 100
+I_1Y	Indice, t-1 = 100
+I15_NAC_CP	Indice, 2015=100, monnaie nationale, prix courants
+I10_NAC_CP	Indice, 2010=100, monnaie nationale, prix courants
+I10_PER	Indice, 2010=100 (basé sur les personnes)
+I10_HW	Indice, 2010=100 (basé sur les heures travaillées)
+I10_JOB	Indice, 2010=100 (basé sur les emplois)
+SEI	Indice d'uniformité Shannon
+SDI	Indice de diversité Shannon
+I_ESD	Indice, décision de l'UE relative à la répartition de l'effort année de base=100
+I_MED	Indice de revenu (comparé à la médiane nationale)
+I_MEAN	Indice de revenu (comparé à la moyenne nationale)
+HICP2015	Indice harmonisé des prix à la consommation, 2015=100
+I2015_SCA	Indice, 2015=100 (SCA)
+I2010_SCA	Indice, 2010=100 (SCA)
+I2015_NSA	Indice, 2015=100 (NSA)
+I2010_NSA	Indice, 2010=100 (NSA)
+I15_NSA	Indice, 2015=100 (NSA)
+CPI10_EUR	Indice des prix, 2010=100, euro
+CPI05_EUR	Indice des prix, 2005=100, euro
+CPI00_EUR	Indice des prix, 2000=100, euro
+CPI10_NAC	Indice des prix, 2010=100, monnaie nationale
+CPI05_NAC	Indice des prix, 2005=100, monnaie nationale
+CPI00_NAC	Indice des prix, 2000=100, monnaie nationale
+KP_I10	Prix constants,  indice 2010=100
+CLV_I10	Mesures de volume chaînées, indice 2010=100
+CLV_I05	Mesures de volume chaînées, indice 2005=100
+IVU-NSA	Indice de valeur unitaire (2000=100) - non désaisonnalisé
+IVOL-SA	Indice de volume (2000=100) - désaisonnalisée et corrigée des jours ouvrables
+IVOL-NSA	Indice de volume (2000=100) - non désaisonnalisé
+AVG	Moyenne
+AVG_A	Moyenne annuelle
+AVG_3Y	Moyenne sur 3 ans
+THS_CD08	Différence cumulée à partir de 2008, en milliers
+MV12R	Taux de variation moyen mobile sur 12 mois
+SUM_4Q	Somme des 4 derniers trimestres
+RK	Rang
+RTG	Notation (0-10)
+REL1	Valeur relative par rapport à l'ensemble des entreprises
+REL2	Valeur relative par rapport aux entreprises innovantes
+REL3	Valeur relative par rapport aux entreprises innovantes en termes de produits
+REL4	Valeur relative par rapport aux entreprises innovantes en termes de procédés
+REL5	Valeur relative par rapport aux entreprises innovantes en termes de services
+REL6	Valeur relative par rapport au total des dépenses d'innovation
+REL7	Valeur relative par rapport aux entreprises innovantes ayant des accords de coopération en matière d'innovation
+REL8	Valeur relative par rapport aux entreprises innovantes ayant des projets fortement retardés
+REL9	Valeur relative par rapport aux entreprises innovantes ayant abandonné des projets
+REL10	Valeur relative par rapport aux entreprises innovantes ayant des projets qui n'ont jamais démarré
+REL11	Valeur relative par rapport aux entreprises du niveau d'intensité des exportations correspondant
+REL12	Valeur relative par rapport aux entreprises du type de firme correspondant
+CVA	Coefficient de variation de la valeur absolue
+CV1	Coefficient de variation de la valeur relative, par rapport à l'ensemble des entreprises
+CV2	Coefficient de variation de la valeur relative par rapport aux entreprises innovantes
+CV3	Coefficient de variation de la valeur relative par rapport aux entreprises innovantes en termes de produits
+CV4	Coefficient de variation de la valeur relative par rapport aux entreprises innovantes en termes de procédés
+CV5	Coefficient de variation de la valeur relative par rapport aux entreprises innovantes en termes de services
+CV6	Coefficient de variation de la valeur relative par rapport au total des dépenses en innovation
+CV7	Coefficient de variation de la valeur relative par rapport aux entreprises innovantes ayant des accords de coopération en matière d'innovation
+CV8	Coefficient de variation de la valeur relative par rapport aux entreprises innovantes ayant des projets fortement retardés
+CV9	Coefficient de variation de la valeur relative par rapport aux entreprises innovantes ayant abandonné des projets
+CV10	Coefficient de variation de la valeur relative, par rapport aux entreprises innovantes ayant des projets qui n'ont jamais démarré
+CV11	Coefficient de variation de la valeur relative par rapport aux entreprises du niveau d'intensité des exportations correspondant
+CV12	Coefficient de variation de la valeur relative par rapport aux entreprises ayant le type de firme correspondant
+SGM_ESU	Marge brute standard (MBS) en unités de dimension européenne (UDE)
+TEU	Equivalent vingt pieds (EVP)
+THS_TEU	Mille équivalent vingt pieds (EVP)
+THS_TEUKM	Mille EVP-kilomètres
+CFU	Unité formant colonie (UFC)
+AWU	Unité de travail annuel (UTA)
+THS_AWU	Mille unités de travail annuel (UTA)
+LSU	Unité de gros bétail (UGB)
+FTE	Equivalent temps plein (ETP)
+THS_FTE	Mille équivalents temps plein (ETP)
+FTE_HTHAB	Equivalent temps plein par centaine de milliers d'habitants
+PER	Personne
+PERS	Personnes
+THS_PER	Milliers de personnes
+THS_PER_SA	Milliers de personnes - désaisonnalisés
+THS_PER_NSA	Milliers de personnes - non désaisonnalisés
+MIO_PER	Millions de personnes
+HAB	Habitants/personnes/têtes
+HAB_P	Habitants par ...
+HAB_KM2	Habitants par kilomètre carré
+HAB_HC	Habitants par ... (dénombrement des effectifs)
+HAB_FTE	Habitants par ... (équivalent temps plein)
+P_BGDP	Par milliard de PIB
+P_BERD	Par milliard d'euros des dépenses de R&D des entreprises (BERD)
+P_GERD	Par milliard d'euros des dépenses intérieures brutes de R&D (GERD)
+P_AE	Par équivalent adulte
+P_HHAB	Par centaine d'habitants
+P_THAB	Par millier d'habitants
+P_HTHAB	Par centaine de milliers d'habitants
+P_MHAB	Par million d'habitants
+P_MACT	Par million de la population active
+P_TCAR	Par millier de voitures particulières
+P_SAL_Y	Par salarié en équivalent temps plein, par an
+P_SAL_M	Par salarié en équivalent temps plein, par mois
+P_SAL_H	Par salarié en équivalent temps plein, par heure
+P_HH	Par ménage
+P_KM2	Par kilomètre carré
+PAS	Passager
+THS_PAS	Mille passagers
+THS_PASF	Mille passagers (sauf passagers de navires de croisière)
+THS_PASC	Mille passagers de navires de croisière commençant et terminant une croisière
+THS_PASE	Mille passagers de navires de croisière en excursion
+HD	Têtes (animaux)
+THS_HD	Mille têtes (animaux)
+HC	Dénombrement des effectifs
+HC_HTHAB	Dénombrement des effectifs par centaine de milliers d'habitants
+FARM	Exploitation agricole
+HLD	Exploitation
+MACH	Machines
+PCE	Pièce
+BAL	Bilan (solde)
+MOVE	Mouvement
+FLIGHT	Vol
+THS_JOB	Milliers d'emplois
+THS_JRNY	Mille trajets
+THS_BTO	Mille opérations de transport de base
+SEAT	Places assises et couchées
+THS_SEAT	Mille places assises
+VES_MOV	Mouvements de bateaux
+NR_INV	Nombre d'investissements
+NR_ENT	Nombre d'entreprises
+NR_COMP	Nombre de compagnies
+TVAL_SA	Echanges commerciaux en valeur - en millions d'euros (SA)
+CAP_1000T_Y	Capacité et entrée annuelle en 1000T
+CH_A_KM2	Variation annuelle en kilomètres carrés
+RT	Taux
+RT_R4Q	Rolling 4-quarter growth rate
+RT_INC	Taux d'incidence
+RT_SINC	Taux d'incidence standardisé
+RT_UNE	Taux de chômage
+RT_PRE	Taux de croissance par rapport à la période précédente (t/t-1)
+RT_PRE_EUR	Taux de croissance par rapport à la période précédente (t/t-1) pour les valeurs en euros
+RT_PRE_NAC	Taux de croissance par rapport à la période précédente (t/t-1) pour les valeurs en monnaie nationale
+RT_PRE_GT	Taux de croissance par rapport à la période précédente (t/t-1) pour le tonnage brut des navires
+RT_PRE_NR	Taux de croissance par rapport à la période précédente (t/t-1) pour le nombre de bateaux
+RT1	Taux de croissance par rapport à la période précédente (t/t-1)
+PTP_RT	Taux de participation (%)
+RT12	Taux de croissance (t/t-12)
+RT1-ABS-SA	Echanges commerciaux en valeur - Taux de croissance (m/m-1) - désaisonnalisées et corrigées des jours ouvrables
+RT12-ABS-NSA	Echanges commerciaux en valeur - Taux de croissance (m/m-12) - non désaisonnalisées
+RT1-IVU-NSA	Indice de valeur unitaire (2010=100) - Taux de croissance (m/m-1) - non désaisonnalisées
+RT12-IVU-NSA	Indice de valeur unitaire (2010=100) - Taux de croissance (m/m-12) - non désaisonnalisé
+RT1-IVOL-SA	Indice de volume (2010=100) - Taux de croissance (m/m-1) - désaisonnalisées et corrigées des jours ouvrables
+RT12-IVOL-NSA	Indice de volume (2010=100) - Taux de croissance (m/m-12) - non désaisonnalisées
+RT1-SCA	Variation en pourcentage (t/t-1) - Données désaisonnalisées et corrigées des effets de calendrier
+RT4-NSA	Variation en pourcentage (t/t-4) - Données non désaisonnalisées
+RT12-NSA	Variation en pourcentage (t/t-12) - Données non désaisonnalisées
+RT12-CA	Variation en pourcentage (t/t-12) - Données corrigées des effets de calendrier, données non désaisonnalisées
+RT4	Taux de croissance par rapport au même trimestre de l'année précédente
+RCH_M	Taux de variation mensuel
+RCH_Q	Taux de variation trimestriel
+RCH_A	Taux de variation annuel
+RCH_A_AVG	Taux de variation moyen annuel
+RCH_A_C	Taux de variation annuelle composé
+RCH_MV12MAVR	Taux de variation moyen mobile sur 12 mois
+PC_PNT	Points de pourcentage
+PC	Pourcentage
+PM	Pour mille
+PC_S	Pourcentage standardisé
+PC_OECD	Pourcentage du total OCDE
+PC_AREA	Pourcentage de la surface
+PC_UAA	Pourcentage de la superficie agricole utilisée totale
+PC_NAEA	Pourcentage de la superficie érosive non artificielle
+PC_LSU	Pourcentage de l'unité de gros bétail totale
+PC_POP	Pourcentage de la population totale
+PC_WMN	Pourcentage des femmes
+PC_STU	Pourcentage de l'ensemble des étudiants de l'enseignement supérieur
+PC_FSTU	Pourcentage de l'ensemble des étudiants étrangers de l'enseignement supérieur
+PC_Y20-29	Pourcentage de la population âgée de 20 à 29 ans
+PC_Y25-29	Pourcentage de la population âgée de 25 à 29 ans
+PC_Y_LT60	Pourcentage de la population de moins de 60 ans
+PC_POP_PART	Population - en pourcentage du total des participants
+PC_UP95	Pourcentage de la population totale - limite supérieure de l'intervalle de confiance à 95%
+PC_LW95	Pourcentage de la population totale - limite inférieure de l'intervalle de confiance à 95%
+PC_RIMG	Pourcentage du total des immigrants récents 
+PC_EMP	Pourcentage du total de l'emploi
+PC_UNE	Pourcentage du chômage
+PC_ACT	Pourcentage de la population active
+PC_ACT_HC	Pourcentage de la population active - numérateur exprimé en nombre de personnes physiques (PP)
+PC_ACT_FTE	Pourcentage de la population active - numérateur exprimé en équivalents temps plein (ETP)
+PC_INAC	Pourcentage de la population inactive
+PC_SAL	Pourcentage des salariés
+PC_SAL_TEMP	Pourcentage des salariés avec un emploi temporaire
+PC_EMP_HC	Pourcentage de l'emploi total - numérateur exprimé en nombre de personnes physiques (PP)
+PC_EMP_FTE	Pourcentage de l'emploi total - numérateur exprimé en équivalents temps plein (ETP)
+PC_ELF	Pourcentage de la population active étendue
+PC_TSC	Pourcentage du produit total des impôts et des cotisations sociales
+PC_TSCO	Pourcentage du produit total des impôts et des cotisations sociales (y compris cotisations sociales imputées)
+PC_TSCO_X_ISCO	Pourcentage du produit total des impôts et des cotisations sociales (hors cotisations sociales imputées)
+PC_GDP	Pourcentage du produit intérieur brut (PIB)
+PC_GDP_HAB	Pourcentage du produit intérieur brut (PIB) par personne
+PC_GVA	Pourcentage de la valeur ajoutée brute (VAB)
+PC_GNI	Pourcentage du revenu national brut (RNB)
+PC_DI	Pourcentage du revenu disponible
+PC_GEXP	Pourcentage des dépenses des administrations publiques
+PC_BEN	Pourcentage du total des prestations
+PC_EXP	Pourcentage du total des dépenses
+PC_PEXP	Pourcentage du total des dépenses publiques
+PC_REC	Pourcentage du total des recettes
+PC_CHE	Pourcentage de la dépense de santé courante
+PC_WRL	Pourcentage du total mondial
+PC_TAX	Pourcentage du total de la taxation
+PC_HH	Pourcentage des ménages
+PC_IND	Pourcentage des particuliers
+PC_HC	Pourcentage basé sur le nombre de personnes physiques (PP)
+PC_FTE	Pourcentage basé sur les équivalents temps plein (ETP)
+PC_GBA	Pourcentage du total CBPRD
+PC_DT	Écart par rapport aux objectifs en pourcentage
+PC_FAT	Teneur en matières grasses (% du poids du produit)
+PC_PRO	Teneur en protéines (% du poids du produit)
+PC_TOT	Pourcentage du total
+PC_TOT_PERS	Pourcentage du total (basé sur les peronnes)
+PC_TOT_PER	Pourcentage du total (basé sur les personnes)
+PC_TOT_HW	Pourcentage du total (basé sur les heures travaillées)
+PC_TOT_HRS	Pourcentage du total (basé sur les heures travaillées)
+PC_TOT_HAB	Pourcentage du total (basé sur les habitants)
+PC_TOT_FTE	Pourcentage du total (basé sur les équivalents temps plein)
+PC_TOT_JOB	Pourcentage du total (basé sur les emplois)
+PC_EU28	Pourcentage du total de l'UE28
+PC_EU27_2019	Pourcentage du total de l'UE27 (sans le Royaume-Uni)
+PC_EU27	Pourcentage du total de l'UE27
+PC_EU25	Pourcentage du total de l'UE25
+PC_EU28_EUR	Pourcentage du total de l'UE28 (basé sur le PIB en PC en euro)
+PC_EU28_PPS	Pourcentage du total de l'UE28 (basé sur le PIB en PC en standard de pouvoir d'achat)
+PC_EU28_EUR_HAB	Pourcentage du total de l'UE28 (basé sur les euros par habitant)
+PC_EU27_EUR_HAB	Pourcentage du total de l'UE27 (basé sur les euros par habitant)
+PC_EU25_EUR_HAB	Pourcentage du total de l'UE25 (basé sur les euros par habitant)
+PC_EU28_PPS_HAB	Pourcentage du total de l'UE28 (basé sur le standard de pouvoir d'achat par habitant)
+PC_EU27_PPS_HAB	Pourcentage du total de l'UE27 (basé sur le standard de pouvoir d'achat par habitant)
+PC_EU28_PPS_EMP	Pourcentage du total de l'UE28 (basé sur le standard de pouvoir d'achat par salarié)
+PC_EU27_PPS_EMP	Pourcentage du total de l'UE27 (basé sur le standard de pouvoir d'achat par salarié)
+PC_EU15_PPS_EMP	Pourcentage du total de l'UE15 (basé sur le standard de pouvoir d'achat par salarié)
+PC_EU28_PPS_HRS	Pourcentage du total de l'UE28 (basé sur le standard de pouvoir d'achat par heures travaillées)
+PC_EU27_PPS_HRS	Pourcentage du total de l'UE27 (basé sur le standard de pouvoir d'achat par heures travaillées)
+PC_EU28_MEUR	Pourcentage du total de l'UE28 (basé sur des millions d'euros
+PC_EU27_MEUR	Pourcentage du total de l'UE27 (basé sur des millions d'euros)
+PC_EU25_MEUR	Pourcentage du total de l'UE25 (basé sur des millions d'euros)
+PC_EU28_MPPS	Pourcentage du total de l'UE28 (basé sur des millions de standards de pouvoir d'achat)
+PC_EU27_MPPS	Pourcentage du total de l'UE27 (basé sur des millions de standards de pouvoir d'achat)
+PC_EU28_MEUR_CP	Pourcentage du total de l'UE28 (basé sur des millions d'euros), prix courants
+PC_EU27_2019_MEUR_CP	Pourcentage du total de l'UE27 (sans le Royaume-Uni, basé sur des millions d'euros), prix courants
+PC_EU28_MPPS_CP	Pourcentage du total de l'UE28 (basé sur des millions de standards de pouvoir d'achat), prix courants
+PC_EU27_2019_MPPS_CP	Pourcentage du total de l'UE27 (sans le Royaume-Uni, basé sur des millions de standards de pouvoir d'achat), prix courants
+PC_EU28_HAB_MEUR_CP	Pourcentage du total de l'UE28 par habitant (basé sur des millions d'euros), prix courants
+PC_EU27_2019_HAB_MEUR_CP	Pourcentage du total de l'UE27 (sans le Royaume-Uni) par habitant (basé sur des millions d'euros, UE27 sans le Royaume-Uni), prix courants
+PC_EU28_HAB_MPPS_CP	Pourcentage du total de l'UE28 par habitant (basé sur des millions de standards de pouvoir d'achat), prix courants
+PC_EU27_2019_HAB_MPPS_CP	Pourcentage du total de l'UE27 (sans le Royaume-Uni) par habitant (basé sur des millions de standards de pouvoir d'achat, SPA UE27 sans le Royaume-Uni), prix courants
+PC_EA_MEUR	Pourcentage du total de la zone euro (basé sur des millions d'euros)
+PC_EA_MPPS	Pourcentage du total de la zone euro (basé sur des millions de standards de pouvoir d'achat)
+PC_EA18_MEUR	Pourcentage du total de EA18 (basé sur des millions d'euros)
+PC_EA17_MEUR	Pourcentage du total de EA17 (basé sur des millions d'euros)
+PC_EA16_MEUR	Pourcentage du total de EA16 (basé sur des millions d'euros)
+PC_EA12_MEUR	Pourcentage du total de EA12 (basé sur des millions d'euros)
+PC_EA18_MPPS	Pourcentage du total de EA18 (basé sur des millions de standards de pouvoir d'achat)
+PC_EA17_MPPS	Pourcentage du total de EA17 (basé sur des millions de standards de pouvoir d'achat)
+PC_EA16_MPPS	Pourcentage du total de EA16 (basé sur des millions de standards de pouvoir d'achat)
+PC_GDP_3Y	Pourcentage du PIB - moyenne sur 3 ans
+PC_GDP_NSA	Pourcentage du produit intérieur brut (PIB), (NSA)
+PC_GDP_SCA	Pourcentage du produit intérieur brut (PIB), (SCA)
+PC_ENT	Pourcentage des entreprises
+PC_ENT_CC	Pourcentage d'entreprises achetant des services CC
+PC_ENT_CCX	Pourcentage d'entreprises n'achetant pas de services CC
+PC_ENT_BD	Pourcentage des entreprises analysant des données massives
+PC_ENT_RFID1	Pourcentage d'entreprises utilisant RFID (à partir de 2014)
+PC_ENT_RFID	Pourcentage d'entreprises utilisant RFID
+PC_ENT_ADS	Pourcentage des entreprises avec de la publicité sur l'internet
+PC_ENT_SM	Pourcentage des entreprises utilisant des médias sociaux
+PC_ENT_WEB	Pourcentage d'entreprises disposant d'un site web
+PC_ENT_FIXBB	Pourcentrage d'entreprises utilisant une connexion fixe à large bande
+PC_ENT_ITSPRCR2	Pourcentage d'entreprises ayant essayé de recruter/ayant recruté du personnel pour des emplois nécessitant des compétences de spécialistes en TIC (comparabilité réduite avec 2007)
+PC_ENT_SECPOL1	Pourcentage des entreprises ayant une politique de sécurité TIC (à partir de 2015)
+PC_ENT_SECPOL	Pourcentage des entreprises ayant une politique de sécurité TIC
+PC_ENT_PMD1	Pourcentage des entreprises fournissant aux personnes employées des appareils portables pour une connexion mobile (à partir de 2016)
+PC_ENT_PMD	Pourcentage des entreprises fournissant aux personnes employées des appareils portables pour une connexion mobile
+PC_ENT_AWSELL	Pourcentage des entreprises ayant reçu des commandes sur un site web
+PC_ENT_AWSELLX	Pourcentage des entreprises n'ayant pas reçu de commandes sur un site web
+PC_ENT_AWSEU	Pourcentage des entreprises avec ventes web à d'autres pays de l'UE
+PC_ENT_AEBUY	Pourcentage d'entreprises ayant effectué des achats par voie électronique
+PC_ENT_AESELL	Pourcentage des entreprises ayant reçu des commandes en ligne
+PC_TURN	Pourcentage du chiffre d'affaires
+PC_ETURN	Pourcentage du chiffre d'affaires électroniques
+PC_AWSVAL	Pourcentage du chiffre d'affaires réalisé via un site web
+PC_EMP_PMD1	Pourcentage des personnes employées travaillant dans des entreprises qui fournissent des appareils portables (à partir de 2016)
+PC_EMP_PMD	Pourcentage des personnes employées travaillant dans des entreprises qui fournissent des appareils portables
+PC_ENT_CUSE	Pourcentage des entreprises utilisant l'ordinateur
+PC_ENT_IACC	Pourcentage des entreprises ayant accès à l'internet
+PC_ENT_ECOM	Pourcentage des entreprises ayant envoyé ou reçu des commandes en ligne
+PC_EMP_CUSE	Pourcentage de personnes employées utilisant un ordinateur
+PC_EMP_CUSE2	Pourcentage des personnes employées travaillant dans des entreprises qui utilisent des ordinateurs
+PC_EMP_IACC	Pourcentage des salariés travaillant dans un entreprise avec accès à l'internet
+PC_EMP_IUSE	Pourcentage des personnes employées utilisant un ordinateur avec accès au www
+PC_ENT_ISELL	Pourcentage des entreprises qui vendent sur l'internet au cours de la dernière année civile
+PC_ENT_INV3SBG	Pourcentage d'entreprises envoyant des factures B2BG
+PC_ENT_IBUY	Pourcentage des entreprises qui achetent sur l'internet au cours de la dernière année civile
+PC_ENT_PURCH	Pourcentage des achats total
+PC_ENT_OBUY	Pourcentage d'entreprises ayant utilisé l'EDI ou des réseaux autres que l'internet au cours de la dernière année civile
+PC_ENT_OSELL	Pourcentage d'entreprises ayant utilisé l'EDI ou des réseaux autres que l'internet au cours de la dernière année civile
+PC_ENT_ITSPRCR	Pourcentage d'entreprises ayant essayé de recruter/ayant recruté du personnel pour des emplois nécessitant des compétences de spécialistes en TIC
+PC_ENT_ITSPVAC	Pourcentage d'entreprises ayant eu des postes vacants difficiles à pourvoir nécessitant les spécialistes en TIC
+PC_ENT_ITUSRCR	Pourcentage d'entreprises ayant essayé de recruter/ayant recruté du personnel pour des emplois nécessitant des compétences dans l'utilisation des TIC
+PC_ENT_ADE	Pourcentage des entreprises utilisant l'échange automatique de données
+PC_ENT_SISC	Pourcentage des entreprises dont les processus commerciaux sont automatiquement liés à ceux de leurs fournisseurs et/ou de leurs clients
+PC_ENT_P3D	Pourcentage des entreprises utilisant l'impression 3D
+PC_ENT_RBTS	Pourcentage des entreprises utilisant des robots de service
+PC_HH_IACC	Pourcentage des ménages ayant accès à l'internet à domicile
+PC_IND_C3	Pourcentage des particuliers ayant utilisé un ordinateur au cours des 3 derniers mois
+PC_IND_CEVR	Pourcentage des particuliers ayant déjà utilisé un ordinateur
+PC_IND_ILT12	Pourcentage des particuliers ayant utilisés l'internet au cours de l'année dernière
+PC_IGRTX	Pourcentage des particuliers ayant utilisé l'internet mais pas pour renvoyer des formulaires remplis aux pouvoirs publics
+PC_IGRTX_NAPX	Pourcentage des particuliers ayant utilisé l'internet mais pas pour renvoyer des formulaires remplis bien qu'ils avaient des formulaires officiels à renvoyer
+PC_IND_IU3	Pourcentage des particuliers ayant utilisés l'internet au cours des trois derniers mois
+PC_IND_CTMT3YX	Pourcentage des particuliers ayant suivi un cours informatique il y a plus de 3 ans ou jamais
+PC_IND_CIANY	Pourcentage des particuliers ayant fait au moins une des activités informatiques ou l'internet
+PC_IND_BLT12	Pourcentage de particuliers ayant commandé des biens ou des services sur l'internet pour leur usage privé au cours de l'année précédente
+PC_IND_BMT12X	Pourcentage de particuliers ayant commandé des biens ou des services sur l'internet pour leur usage privé il y a plus d'un an ou n'ayant jamais commandé
+PC_IND_CC_AW	Pourcentage de particuliers ayant utilisé l'internet mais pas de services de Cloud Computing bien qu'ils en connaissaient l'existence
+PC_IND_CC_CCS	Pourcentage de particuliers ayant utilisé l'internet et des services de Cloud Computing pour sauvegarder ou partager des fichiers
+PC_IND_CC_CCSX	Pourcentage de particuliers ayant utilisé l'internet mais pas de services de Cloud Computing
+PC_IND_BUY3	Pourcentage de particuliers ayant commandé en ligne au cours des 3 derniers mois
+PC_IND_BFFOR	Pourcentage de particuliers ayant commandé en ligne auprès des vendeurs d'autres pays (UE ou hors l'UE)
+PC_VAL_ISELL	Pourcentage des ventes par l'internet
+PC_HH_IACCX	Pourcentage des ménages qui n'ont pas d'accès à l'internet à la maison
+PC_HH_BROADX	Pourcentage des ménages qui n'ont pas d'accès à large bande
+PC_IND_IUEVR	Pourcentage des particuliers ayant déjà utilisé l'internet
+PC_IND_SCSOFT	Pourcentage des particuliers utilisant un logiciel de sécurité ou un outil de protection
+PC_IND_SCUAVX	Pourcentage des particuliers ne mettant pas à jour leurs logiciels de sécurité
+PC_IND_MDW	Pourcentage des particuliers ayant au travail utilisé des ordinateurs fixes ou portables, d'autres appareils électroniques portables ou des équipements ou machines informatisés
+PC_IND_IUMC	Pourcentage des particuliers utilisant un ordinateur portable pour accéder à l'internet
+PC_IND_IUMD	Pourcentage des particuliers utilisant un ordinateur portable ou un appareil de poche ou de téléphonie mobile pour accéder à l'internet
+PC_IND_IUMDX	Pourcentage des particuliers n'utilisant pas d'ordinateur portable ou d'appareil de poche ou de téléphonie mobile pour accéder à l'internet
+PC_IND_IUHD	Pourcentage des particuliers utilisant un appareil de poche quelconque (handheld device) pour accéder à l'internet
+PC_IND_IUGOV12	Pourcentage des usagers de l'administration en ligne
+PC_IND_IUG_TV	Pourcentage des particuliers ayant utilisé l'internet sur une smart TV (directement connecté à l'internet)
+PC_IND_IUP2P_WRK	Pourcentage des particuliers ayant obtenu un travail rémunéré grâce à un site internet ou une application
+PC_IND_MPP	Pourcentage des particuliers ayant utilisé un smartphone pour l'usage privé
+PC_IND_ILT12_SSF	Pourcentage des salariés et travailleurs indépendants ayant utilisés internet au cours de l'année dernière
+PC_IND_WH	Pourcentage des particuliers ayant travaillé depuis leur domicile
+PC_IND_WM	Pourcentage des particuliers ayant travaillé dans un lieu extérieur ou en déplacement
+PPCH_3Y	Variation en points de pourcentage (t/t-3)
+PPCH_PRE	Variation en points de pourcentage par rapport à la période précédente, contribution à la croissance du PIB,
+PPCH_SM	Variation en points de pourcentage par rapport à la période correspondante de l'année précédente, contribution à la croissance du PIB
+PCH_PRE	Variation en pourcentage par rapport à la période précédente
+PCH_SM	Variation en pourcentage par rapport à la période correspondante de l'année précédente
+PCH_SAME	Variation en pourcentage comparée à la période correspondante de l'année précédente
+PCH_ANN	Variation annuelle en pourcentage par rapport à la période précédente
+PCH_SM_EUR	Variation en pourcentage par rapport à la période correspondante de l'année précédente, euro
+PCH_PRE_PER	Variation en pourcentage par rapport à la période précédente (basée sur les personnes)
+PCH_PRE_HW	Variation en pourcentage par rapport à la période précédente (basée sur les heures travaillées)
+PCH_SM_PER	Variation en pourcentage par rapport à la période correspondante de l'année précédente (basée sur les personnes)
+PCH_SM_HW	Variation en pourcentage par rapport à la période correspondante de l'année précédente (basée sur les heures travaillées)
+PCH_SM_JOB	Variation en pourcentage par rapport à la période correspondante de l'année précédente (basée sur les emplois)
+PCH_SM_FTE	Variation en pourcentage par rapport à la période correspondante de l'année précédente (basée sur les équivalents temps plein)
+PCH_PRE_NAC_CP	Variation en pourcentage par rapport à la période précédente, monnaie nationale, prix courants
+PCH_PRE_CPI00_NAC	Indice des prix - variation en pourcentage par rapport à la période précédente, basée sur 2000=100 et la monnaie nationale
+PCH_PRE_CPI05_NAC	Indice des prix - variation en pourcentage par rapport à la période précédente, basée sur 2005=100 et la monnaie nationale
+PCH_PRE_CPI00_EUR	Indice des prix - variation en pourcentage par rapport à la période précédente, basée sur 2000=100 et l'euro
+PCH_PRE_CPI05_EUR	Indice des prix - variation en pourcentage par rapport à la période précédente, basée sur 2005=100 et l'euro
+CPI10_PCH_PRE_NAC	Price index, percentage change on previous period, national currency
+CPI10_PCH_PRE_EUR	Price index, percentage change on previous period, euro
+CPI05_PCH_PRE_NAC	Price index, percentage change on previous period, national currency
+CPI05_PCH_PRE_EUR	Price index, percentage change on previous period, euro
+PCH_SAME_CPI05_NAC	Indice des prix - variation en pourcentage par rapport à la période correspondante de l'année précédente, basée sur 2005=100 et la monnaie nationale
+PCH_SAME_CPI05_EUR	Indice des prix - variation en pourcentage par rapport à la période correspondante de l'année précédente , basée sur 2005=100 et l'euro
+CPI10_PCH_SM_NAC	Price index, percentage change compared to same period in previous year, national currency
+CPI10_PCH_SM_EUR	Price index, percentage change compared to same period in previous year, euro
+CPI05_PCH_SM_NAC	Price index, percentage change compared to same period in previous year, national currency
+CPI05_PCH_SM_EUR	Price index, percentage change compared to same period in previous year, euro
+PCH_5Y_CPI10_NAC	Indice des prix - variation en pourcentage (t/t-5), basée sur 2010=100 et la monnaie nationale
+PCH_5Y_CPI05_NAC	Indice des prix - variation en pourcentage (t/t-5), basée sur 2005=100 et la monnaie nationale
+PCH_PRE_EUR	Variation en pourcentage par rapport à la période précédente, euro
+PCH_PRE_HAB	Variation en pourcentage par rapport à la période précédente (basée sur les habitants)
+PCH_PRE_FTE	Variation en pourcentage par rapport à la période précédente (basée sur les équivalents temps plein)
+PCH_PRE_HRS	Variation en pourcentage par rapport à la période précédente (basée sur les heures travaillées)
+PCH_PRE_JOB	Variation en pourcentage par rapport à la période précédente (basée sur les emplois)
+PCH_SAME_FTE	Variation en pourcentage comparée à la période correspondante de l'année précédente (basée sur des équivalents temps plein)
+PCH_SAME_HRS	Variation en pourcentage comparée à la période correspondante de l'année précédente (basée sur les heures travaillées)
+PCH_SAME_JOB	Variation en pourcentage comparée à la période correspondante de l'année précédente (basée sur l'emploi)
+PCH_PRE_PERS	Variation en pourcentage par rapport à la période précédente (basée sur les personnes)
+PCH_SAME_PERS	Variation en pourcentage comparée à la période correspondante de l'année précédente (basée sur les personnes)
+PCH_PRE_PERS_SCA	Variation en pourcentage par rapport à la période précédente (basée sur les personnes, SCA)
+PCH_SAME_PERS_NSA	Variation en pourcentage comparée à la période correspondante de l'année précédente (basée sur les personnes, NSA)
+PCH_M1	Variation en pourcentage m/m-1
+PCH_M1_NSA	Variation en pourcentage m/m-1 (NSA)
+PCH_M1_SA	Variation en pourcentage m/m-1 (SA)
+PCH_M1_SCA	Variation en pourcentage m/m-1 (SCA)
+PCH_Q1_NSA	Variation en pourcentage q/q-1 (NSA)
+PCH_Q1_SCA	Variation en pourcentage q/q-1 (SCA)
+PCH_Q4_NSA	Variation en pourcentage q/q-4 (NSA)
+PCH_Q4_CA	Variation en pourcentage q/q-4 (CA)
+PCH_M12	Variation en pourcentage m/m-12
+PCH_M12_NSA	Variation en pourcentage m/m-12 (NSA)
+PCH_M12_CA	Variation en pourcentage m/m-12 (CA)
+PCH_MV12	Variation en pourcentage - moyenne sur 12 mois
+PCH_1Y	Variation en pourcentage (t/t-1)
+PCH_3Y	Variation en pourcentage (t/t-3)
+PCH_5Y	Variation en pourcentage (t/t-5)
+PCH_10Y	Variation en pourcentage (t/t-10)
+PCH_WRL_1Y	Pourcentage du total mondial - variations sur 1 an
+PCH_WRL_5Y	Pourcentage du total mondial - variations sur 5 ans
+PCH_OECD_5Y	Pourcentage du total OCDE - variations sur 5 ans
+CP_MEUR	Prix courants, millions d'euros
+CP_MNAC	Prix courants, millions de monnaie nationale
+CP_MPPS	Prix courants, millions de standards de pouvoir d'achat
+CP_MPPS_EU27_2019	Prix courants, millions de standards de pouvoir d'achat (SPA UE27 sans le Royaume-Uni)
+CP_MUSD	Prix courants, millions de dollars US
+CP_EUR_HAB	Prix courants, euros par habitant
+CP_NAC_HAB	Prix courants, monnaie nationale par habitant
+CP_PPS_HAB	Prix courants, standard de pouvoir d'achat par habitant
+CP_PPS_EU27_2019_HAB	Prix courants, standard de pouvoir d'achat (SPA UE27 sans le Royaume-Uni) par habitant
+CP_PC_EU28_EUR	Prix courants, pourcentage du total de l'UE28 (basé sur les euros par habitant)
+CP_PC_EU28_PPS	Prix courants, pourcentage du total de l'UE28 (basé sur les standards de pouvoir d'achat par habitant)
+CLV05_MEUR	Volumes chaînés (2005), millions d'euros
+CLV05_MNAC	Volumes chaînés (2005), millions de monnaie nationale
+CLV05_EUR_HAB	Volumes chaînés (2005), euros par habitant
+CLV_I05_HAB	Volumes chaînés, indice 2005=100, par habitant
+CLV10_MEUR	Volumes chaînés (2010), millions d'euros
+CLV10_MNAC	Volumes chaînés (2010), millions de monnaie nationale
+CLV10_EUR_HAB	Volumes chaînés (2010), euros par habitant
+CLV10_EUR_AWU	Volumes chaînés (2010), euro par unité de travail annuel (UTA)
+CLV_I10_HAB	Volumes chaînés, indice 2010=100, par habitant
+CLV_PY_MEUR	Volumes chaînés, année précédente, millions d'euros
+CLV_PY_MNAC	Volumes chaînés, année précédente, millions de monnaie nationale
+CLV_PCH_PRE	Volumes chaînés, variation en pourcentage par rapport à la période précédente
+CLV_PCH_SM	Volumes chaînés, variation en pourcentage par rapport à la période correspondante de l'année précédente
+CLV_PCH_ANN	Volumes chaînés, variation annualisée en pourcentage par rapport à la période précédente
+CLV_PCH_PRE_HAB	Volumes chaînés, variation en pourcentage par rapport à la période précédente, par habitant
+CLV_PCH_SM_HAB	Volumes chaînés, variation en pourcentage par rapport à la période correspondante de l'année précédente, par habitant
+PYP_MNAC	Prix de l'année précédente, millions de monnaie nationale
+PYP_MEUR	Prix de l'année précédente, millions d'euros
+PYP_MUSD	Prix de l'année précédente, millions de dollars US
+KP_PCH_PRE	Prix constants, variation en pourcentage par rapport à la période précédente
+KP_PCH_SM	Prix constants, variation en pourcentage par rapport à la période correspondante de l'année précédente
+CON_PPCH_PRE	Contribution à la croissance du PIB, variation en points de pourcentage par rapport à la période précédente
+CON_PPCH_SM	Contribution à la croissance du PIB, variation en points de pourcentage par rapport à la période correspondante de l'année précédente
+PD10_NAC	Indice des prix (déflateur implicite), 2010=100, monnaie nationale
+PD05_NAC	Indice des prix (déflateur implicite), 2005=100, monnaie nationale
+PD10_EUR	Indice des prix (déflateur implicite), 2010=100, euro
+PD05_EUR	Indice des prix (déflateur implicite), 2005=100, euro
+PD_PCH_PRE_NAC	Indice des prix (déflateur implicite), variation en pourcentage par rapport à la période précédente, monnaie nationale
+PD_PCH_SM_NAC	Indice des prix (déflateur implicite), variation en pourcentage par rapport à la période correspondante de l'année précédente, monnaie nationale
+PD_PCH_PRE_EUR	Indice des prix (déflateur implicite), variation en pourcentage par rapport à la période précédente, euro
+PD_PCH_SM_EUR	Indice des prix (déflateur implicite), variation en pourcentage par rapport à la période correspondante de l'année précédente, euro
+CRC_MEUR	Coût de remplacement courant, millions d'euros
+CRC_MNAC	Coût de remplacement courant, millions de monnaie nationale
+PYR_MNAC	Coût de remplacement aux prix de l'année précédente, millions de monnaie nationale
+PYR_MEUR	Coût de remplacement aux prix de l'année précédente, millions d'euros

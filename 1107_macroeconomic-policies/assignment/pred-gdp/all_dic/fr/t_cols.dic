@@ -1,0 +1,199 @@
+A_B	Agriculture; pêche
+C-E	Industrie (sauf construction)
+F	Construction
+G-I	Commerce; hôtels et restaurants; transports 
+J_K	Activités financières; immobilier
+L-P	Administration publique et services collectifs; activités des ménages
+A01	Agriculture, chasse, services annexes
+A02	Sylviculture, exploitation forestière, services annexes
+B05	Pêche, aquaculture
+CA10	Extraction de houille, de lignite et de tourbe
+CA11	Extraction d'hydrocarbures; services annexes
+CA12	Extraction de minerais d'uranium
+CB13	Extraction de minerais métalliques
+CB14	Autres industries extractives
+DA15	Industries alimentaires
+DA16	Industrie du tabac
+DB17	Industrie textile
+DB18	Industrie de l'habillement et des fourrures
+DC19	Industrie du cuir et de la chaussure
+DD20	Travail du bois et fabrication d'articles en bois
+DE21	Industrie du papier et du carton
+DE22	Edition, imprimerie, reproduction
+DF23	Cokéfaction, raffinage, industries nucléaires
+DG24	Industrie chimique
+DH25	Industrie du caoutchouc et des plastiques
+DI26	Fabrication d'autres produits minéraux non métalliques
+DJ27	Métallurgie
+DJ28	Travail des métaux
+DK29	Fabrication de machines et équipements
+DL30	Fabrication de machines de bureau et de matériel informatique
+DL31	Fabrication de machines et appareils électriques
+DL32	Fabrication d'équipements de radio, télévision et communication
+DL33	Fabrication d'instruments médicaux, de précision, d'optique et d'horlogerie
+DM34	Industrie automobile
+DM35	Fabrication d'autres matériels de transport
+DN36	Fabrication de meubles; industries diverses
+DN37	Récupération
+E40	Production et distribution d'électricité, de gaz et de chaleur
+E41	Captage, traitement et distribution d'eau
+F45	Construction
+G50	Commerce et réparation automobile
+G51	Commerce de gros et intermédiaires du commerce
+G52	Commerce de détail et réparation d'articles domestique
+H55	Hôtels et restaurants
+I60	Transports terrestres
+I61	Transports par eau
+I62	Transports aériens
+I63	Services auxiliaires des transports
+I64	Postes et télécommunications
+J65	Intermédiation financière
+J66	Assurance
+J67	Auxiliaires financiers et d'assurance
+K70	Activités immobilières
+K71	Location sans opérateur
+K72	Activités informatiques
+K73	Recherche et développement
+K74	Services fournis principalement aux entreprises
+L75	Administration publique
+M80	Education
+N85	Santé et action sociale
+O90	Assainissement, voirie et gestion des déchets
+O91	Activités associatives
+O92	Activités récréatives, culturelles et sportives
+O93	Services personnels
+P95	Services domestiques
+P119	Services d'intermédiation financière indirectement mesurés (SIFIM)
+TOTAL	Total
+CPA_A_B	Produits agricoles, forestiers, de la pêche et de l'aquaculture
+CPA_A	Produits agricoles, de la chasse et de la sylviculture
+CPA_A01	Produits de la culture et de l'élevage
+CPA_A02	Produits sylvicoles
+CPA_B	Produits de la pêche et de l'aquaculture
+CPA_B05	Produits de la pêche et de l'aquaculture
+CPA_C	Produits d'extraction
+CPA_C-E	Produits industriels
+CPA_CA	Produits d'extraction énergétiques
+CPA_CA10	Houille, lignite et tourbe
+CPA_CA11	Hydrocarbures naturels
+CPA_CA12	Minerais d'uranium
+CPA_CB	Produits d'extraction non énergétiques
+CPA_CB13	Minerais métalliques
+CPA_CB14	Produits divers des industries extractives
+CPA_D	Produits manufacturés
+CPA_DA	Produits des industries agricoles et alimentaires
+CPA_DA15	Produits des industries alimentaires
+CPA_DA16	Tabac manufacturé
+CPA_DB	Produits de l'industrie textile et de l'habillement
+CPA_DB17	Produits de l'industrie textile
+CPA_DB18	Articles d'habillement et fourrures
+CPA_DC	Cuirs, articles de voyage, chaussures
+CPA_DC19	Cuirs, articles de voyage, chaussures
+CPA_DD	Produits du travail du bois
+CPA_DD20	Produits du travail du bois
+CPA_DE	Papiers et cartons; produits édités, imprimés ou reproduits
+CPA_DE21	Papiers et cartons
+CPA_DE22	Produits de l'édition; produits imprimés ou reproduits
+CPA_DF	Produits de la cokéfaction, du raffinage et des industries nucléaires
+CPA_DF23	Produits de la cokéfaction, du raffinage et des industries nucléaires
+CPA_DG	Produits chimiques
+CPA_DG24	Produits chimiques
+CPA_DH	Produits en caoutchouc ou en plastique
+CPA_DH25	Produits en caoutchouc ou en plastique
+CPA_DI	Autres produits minéraux non métalliques
+CPA_DI26	Autres produits minéraux non métalliques
+CPA_DJ	Produits de la métallurgie et du travail des métaux
+CPA_DJ27	Produits métallurgiques
+CPA_DJ28	Produits du travail des métaux
+CPA_DK	Machines et équipements
+CPA_DK29	Machines et équipements
+CPA_DL	Equipements électriques et électroniques
+CPA_DL30	Machines de bureau et matériel informatique
+CPA_DL31	Machines et appareils électriques
+CPA_DL32	Equipements de radio, télévision et communication
+CPA_DL33	Instruments médicaux, de précision, d'optique et d'horlogerie
+CPA_DM	Matériels de transport
+CPA_DM34	Produits de l'industrie automobile
+CPA_DM35	Autres matériels de transport
+CPA_DN	Autres produits manufacturés
+CPA_DN36	Meubles et produits des industries diverses
+CPA_DN37	Matières premières secondaires
+CPA_E	Electricité, gaz et eau
+CPA_E40	Electricité, gaz et chaleur
+CPA_E41	Eau distribuée
+CPA_F	Travaux de construction
+CPA_G	Ventes; réparations automobiles et d'articles domestiques
+CPA_G-I	Ventes;Services d'hôtellerie et de restauration,Transports
+CPA_G50	Ventes et réparations automobiles
+CPA_G51	Ventes en gros et services d'intermédiaire du commerce de gros
+CPA_G52	Ventes au détail et réparation d'articles domestiques
+CPA_H	Services d'hôtellerie et de restauration
+CPA_H55	Services d'hôtellerie et de restauration
+CPA_I	Transports et communications
+CPA_I60	Transports terrestres
+CPA_I61	Transports par eau
+CPA_I62	Transports aériens
+CPA_I63	Services auxiliaires des transports
+CPA_I64	Services des postes et télécommunications
+CPA_J	Services financiers
+CPA_J_K	Services financiers;Services immobiliers, de location et aux entreprises
+CPA_J65	Intermédiation financière
+CPA_J66	Assurance
+CPA_J67	Services d'auxiliaires financiers et d'assurance
+CPA_K	Services immobiliers, de location et aux entreprises
+CPA_K70	Services immobiliers
+CPA_K71	Location sans opérateur
+CPA_K72	Services informatiques
+CPA_K73	Recherche et développement
+CPA_K74	Services fournis principalement aux entreprises
+CPA_L	Services d'administration publique
+CPA_L-P	Services d'administration publique; Services collectifs; Services domestiques
+CPA_L75	Services d'administration publique
+CPA_M	Education
+CPA_M80	Education
+CPA_N	Services de santé et d'action sociale
+CPA_N85	Services de santé et d'action sociale
+CPA_O	Services collectifs, sociaux et personnels
+CPA_O90	Assainissement, voirie et gestion des déchets
+CPA_O91	Services fournis par les organisations associatives
+CPA_O92	Services récréatifs, culturels et sportifs
+CPA_O93	Services personnels
+CPA_P	Services domestiques
+CPA_P95	Services domestiques
+CPA_Q	Services extra-territoriaux
+CPA_Q99	Services extra-territoriaux
+CPA_OTH	Autres produits
+CPA_TOTAL	Total
+P2I	Utilisation des produits importés
+P3_S14	Dépense de consommation finale des ménages
+P3_S15	Dépense de consommation finale par organisations sans but lucratif en service de ménages
+P3_S13	Dépense de consommation finale par l'administration publique
+P3	Dépense de consommation finale
+P51	Formation brute de capital fixe
+P53	Variations des valeurs
+P52_P53	Variations des stocks et des valeurs
+P52	Variation des stocks
+P5	Formation brute de capital
+P3_P5	Demande intérieure
+P6_S21	Exportations Intra-UE fob
+P6_S22	Exportations Extra-UE fob
+P6	Exportations
+P6_X_P7	Exportations nettes (exportations moins importations)
+P7_S21	Importations Intra-UE cif
+P7_S22	Importations Extra-UE cif
+TFINU	Emploi final aux prix d'achat
+FINUBP	Emploi final aux prix de base
+P7	Importations cif
+SUPBP	Offres totales aux prix de base
+P118	Marges commerciales et de transport
+D21_M_D31	Impôts moins subventions sur les produits
+SUPPP	Offres totales aux prix d'achat
+TU	Emploi total aux prix d'achat
+TUBP	 Emploi total aux prix de base
+TOT_ADJ	Total des ajustements
+P7_S2I	Importations de biens et services en provenance des membres de l'UEM (cif)
+P7_S2X	Importations de biens et services en provenance des non-membres de l'UEM (cif)
+D11	Salaires et traitements bruts
+B3G	Revenu mixte brut
+P6_S2I	Exportations de biens et de services à destination des membres de l'UEM (fob)
+P6_S2X	Exportations de biens et de services vers les non-membres de l'UME (fob)

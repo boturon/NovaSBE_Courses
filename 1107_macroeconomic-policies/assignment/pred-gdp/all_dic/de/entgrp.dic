@@ -1,0 +1,9 @@
+TOTAL	Alle Unternehmen (Unternehmensgruppe + keine Unternehmensgruppe)
+EG	Unternehmensgruppe
+HD_EG	Gruppenoberhaupt
+HD_EGG	Gruppenoberhaupt der weltweiten Gruppe
+SUB	Tochterunternehmen
+SUB_NAT	Tochterunternehmen mit Gruppenoberhaupt der weltweiten Gruppe im eigenen Land
+SUB_EU27	Tochterunternehmen mit Gruppenoberhaupt der weltweiten Gruppe in der EU27
+SUB_XEU27	Tochterunternehmen mit Gruppenoberhaupt der weltweiten Gruppe außerhalb der EU27
+NEG	Keine Unternehmensgruppe

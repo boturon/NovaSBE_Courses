@@ -1,0 +1,60 @@
+TOTAL	Total - toutes échéances
+SHORT	Echéance à court terme
+LONG	Echéance à long terme
+LONG_FX	Echéance à long terme, taux fixe
+LONG_FL	Echéance à long terme, taux variable
+M_LT1	Echéance: moins de 1 mois
+M1-3	Echéance: de 1 à 3 mois
+M_LT3	Echéance: moins de 3 mois
+M3-12	Echéance: de 3 à 12 mois
+M_GT3	Echéance: plus de 3 mois
+Y_LT1	Echéance: moins de 1 an
+Y_LE1	Echéance: 1 an ou moins
+Y1	Echéance: 1 an
+Y1-2	Echéance: de 1 à 2 ans
+Y1-3	Echéance: de 1 à 3 ans
+Y1-5	Echéance: de 1 à 5 ans
+Y_GT1	Echéance: plus de 1 an
+Y_LT2	Echéance: moins de 2 ans
+Y2	Echéance: 2 ans
+Y_GT2	Echéance: plus de 2 ans
+Y3	Echéance: 3 ans
+Y3-5	Echéance: de 3 à 5 ans
+Y4	Echéance: 4 ans
+Y_LT5	Echéance: moins de 5 ans
+Y5	Echéance: 5 ans
+Y5-7	Echéance: de 5 à 7 ans
+Y5-10	Echéance: de 5 à 10 ans
+Y_GT5	Echéance: plus de 5 ans
+Y6	Echéance: 6 ans
+Y7	Echéance: 7 ans
+Y7-10	Echéance: de 7 à 10 ans
+Y8	Echéance: 8 ans
+Y9	Echéance: 9 ans
+Y10	Echéance: 10 ans
+Y10-15	Echéance: de 10 à 15 ans
+Y10-20	Echéance: de 10 à 20 ans
+Y_GT10	Echéance: plus de 10 ans
+Y11	Echéance: 11 ans
+Y12	Echéance: 12 ans
+Y13	Echéance: 13 ans
+Y14	Echéance: 14 ans
+Y15	Echéance: 15 ans
+Y15-30	Echéance: de 15 à 30 ans
+Y16	Echéance: 16 ans
+Y17	Echéance: 17 ans
+Y18	Echéance: 18 ans
+Y19	Echéance: 19 ans
+Y20	Echéance: 20 ans
+Y_GT20	Echéance: plus de 20 ans
+Y21	Echéance: 21 ans
+Y22	Echéance: 22 ans
+Y23	Echéance: 23 ans
+Y24	Echéance: 24 ans
+Y25	Echéance: 25 ans
+Y26	Echéance: 26 ans
+Y27	Echéance: 27 ans
+Y28	Echéance: 28 ans
+Y29	Echéance: 29 ans
+Y30	Echéance: 30 ans
+Y_GT30	Echéance: plus de 30 ans

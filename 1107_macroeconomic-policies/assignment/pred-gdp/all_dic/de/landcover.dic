@@ -1,0 +1,94 @@
+LC	Ingesamt Bodenbedeckung
+LCA	Künstlich angelegte Flächen
+LCB	Ackerflächen
+LCC	Bewaldete Flächen
+LCD	Heideflächen
+LCE	Grünland
+LCF	Vegetationslose Böden
+LCG	Gewässer
+LCH	Feuchtgebiete
+LCA1	Bebaute Flächen
+LCA2	Künstlich angelegte, nicht bebaute Flächen
+LCA3	Andere künstliche Flächen
+LCB1	Getreide
+LCB2	Wurzel- Und Knollenfrüchte
+LCB3	Einjährige Handelsgewächse
+LCB4	Hülsenfrüchte, Frischgemüse Und Blumen
+LCB5	Futterpflanzen (hauptsächlich Leguminosen)
+LCB7	Obstbäume und Beeren
+LCB8	Sonstige Dauerkulturen
+LCBX	Fotointerpretierte Kulturpflanzen
+LCC10	Laubwälder
+LCC20	Nadelwälder
+LCC30	Mischwälder
+LCC1	Wald FAO
+LCC2	Andere Wald Flächen FAO
+LCC1_2	Wald und andere Wald Flächen FAO
+LCC3	Andere Wald Flächen No FAO
+LCD1	Heideflächen mit vereinzeltem Baumbestand
+LCD2	Heideflächen ohne Baumbestand
+LCE1	Grünland mit Baum- oder Buschbestand
+LCE2	Grünland ohne Baum- oder Buschbestand
+LCE3	Wildpflanzen
+LCG1	Stehende Binnengewässer
+LCG2	Fließende Binnengewässer
+LCG3	Übergangsgewässer
+LCG5	Gletscher, Dauerschneegebiete
+LCH1	Feuchtgebiete im Landesinneren
+LCH2	Feuchtgebiete an der Küste
+LCA11	Ein- bis dreistöckige Gebäude
+LCA12	Gebäude mit mehr als 3 Stockwerken
+LCA13	Gewächshäuser
+LCA21	Befestigte oder verfestigte Böden in Flächenform
+LCA22	Befestigte Böden in Linienform
+LCA30	Andere künstliche Flächen
+LCB11	Weichweizen
+LCB12	Hartweizen
+LCB13	Gerste
+LCB14	Roggen
+LCB15	Hafer
+LCB16	Mais
+LCB17	Reis
+LCB18	Triticale
+LCB19	Sonstige Getreidearten
+LCB21	Kartoffeln
+LCB22	Rüben
+LCB23	Sonstige Wurzel- und Knollenfrüchte
+LCB31	Sonnenblumen
+LCB32	Raps- und Rübsensamen
+LCB33	Soja
+LCB34	Baumwolle
+LCB35	Sonstige Faser- und Ölpflanzen
+LCB36	Tabak
+LCB37	Sonstige einjährige Handelsgewächse
+LCB41	Hülsenfrüchte
+LCB42	Tomaten
+LCB43	Sonstiges Frischgemüse
+LCB44	Blumen und Zierpflanzen
+LCB45	Erdbeeren
+LCB51	Klee
+LCB52	Luzerne
+LCB53	Sonstige Leguminosen und Gemenge als Futterpflanzen
+LCB54	Menggetreide als Futterpflanzen
+LCB55	Wechselgrünland
+LCBX1	Fotointerpretierte Wechselkulturen (B1x-B5x)
+LCB71	Äpfel
+LCB72	Birnen
+LCB73	Kirschen
+LCB74	Walnüsse
+LCB75	Sonstige Früchte und Beeren
+LCB76	Orangen
+LCB77	Sonstige Zitrusfrüchte
+LCB81	Olivenbäume
+LCB82	Wein
+LCB83	Baumschulen
+LCB84	Mehrjährige Handelsgewächse
+LCBX2	Fotointerpretierte Dauerkulturen (B7x-B8x)
+LCH11	Sümpfe
+LCH12	Torfmoore
+LCH21	Salzwiesen
+LCH22	Salinen
+LCH23	In der Gezeitenzone liegende Flächen
+B1GQ_LCA	Produktivität der künstlich angelegte Flächen
+B1GM_LCA1	Produktivität der künstlich angelegten, bebauten Gebiete
+B1GM_LCA2	Produktivität der künstlich angelegten, nicht bebauten Gebiete

@@ -1,0 +1,72 @@
+DE	Inländische Entnahme
+IMP	Importe
+IMP_EU	Einfuhren aus EU-Staaten
+IMP_XEU	Einfuhren aus nicht-EU Staaten
+IMP_RME	Importe in Rohstoffäquivalenten
+IMP_RCV_R	Importe von Abfällen zur Verwertung - Recycling
+IMP_X_RCV_R	Importe ausschließlich Importe von Abfällen zur Verwertung - Recycling
+EXP	Exporte
+EXP_EU	Ausfuhren nach EU-Staaten
+EXP_XEU	Ausfuhren nach nicht-EU Staaten
+EXP_RME	Exporte in Rohstoffäquivalenten 
+EXP_RCV_R	Exporte von Abfällen zur Verwertung - Recycling
+EXP_X_RCV_R	Exporte  ausschließlich Exporte von Abfällen zur Verwertung - Recycling
+DMC	Inländischer Materialverbrauch 
+DMI_RCV_R_B	Verarbeitetes Material - direkter Materialeinsatz und Verwertung - Recycling und Verfüllung
+DMI	Direkter Materialeinsatz 
+DPO	Inländisch produzierte Abgabe an die Natur 
+NAS	Nettobestandszunahme 
+PTB	Physische Handelsbilanz 
+BI	Abstimmungssalden (inputseitig - outputseitig)
+TD_GLB	Globale Temperaturabweichung
+TD_EUR	Europäische Temperaturabweichung
+RMC	Rohstoffverbrauch 
+RMC_P3	Rohstoffverbrauch als Folge der Konsumausgaben
+RMC_P3_S13	Rohstoffverbrauch als Folge der Konsumausgaben des Staates
+RMC_P3_S14	Rohstoffverbrauch als Folge der Konsumausgaben der privaten Haushalte
+RMC_P3_S15	Rohstoffverbrauch als Folge der Konsumausgaben der private Organisationen ohne Erwerbszweck
+RMC_P5	Rohstoffverbrauch als Folge der Bruttoinvestitionen 
+RMC_P51G	Rohstoffverbrauch als Folge der Bruttoanlageinvestitionen 
+RMC_P52_53	Rohstoffverbrauch als Folge der Vorratsveränderungen und Nettozugang an Wertsachen 
+RMI	Rohstoffeinsatz 
+MAT_ACCUM	Materialanhäufung
+CAP	Kapazität - Tonnen pro Jahr
+CAP_RST	Restkapazität - Kubikmeter
+FAC	Anlagen - Zahl
+FAC_CL	Geschlossene Anlagen - Zahl
+PRD	Produktion von Chemikalien
+CONS	Konsum von Chemikalien
+EMIS	Emissionen
+EMIS_X_WST_INC	Emissionen ausschließlich Emissionen aus der Abfallverbrennung
+EMIS_AIR_NBI	Luftemissionen - Netto-Abstimmungssalden
+EMIS_WTR	Wasseremissionen
+GHG_I90	Treibhausgasemissionen (CO2 Äquivalente), Basisjahr 1990
+GHG_I_KBY	Treibhausgasemissionen ausgenommen internationaler Luftverkehr (CO2 Äquivalente), Kyoto Basisjahr
+GHG_T_HAB	Treibhausgasemissionen - Tonnen pro Kopf
+ORG_EMAS	EMAS-registrierte Organisationen
+SITE_EMAS	EMAS-registrierte Standorte
+FSTK_ASS_NR	Ausgewertete Fischbestände - Anzahl
+FSTK_OVF_NR	Überfischte Fischbestände - Anzahl
+FSTK_OVF_PC	Überfischte Fischbestände - %
+FSTK_BMA_I03	Biomasse von Fischbeständen - Index 2003 = 100
+FSTK_MBMEAN	Fischbestände - modellbasierter Mittelwert 
+FSTK_AMV_ASS	Arithmetisches Mittel aller Auswertungen
+HH_WSRC	Households with sustainable access to an improved water source 
+PER_PWS	Persons connected to public water supply
+RLI_NR	Red list index - number
+TRD_WLD_PIT_PC	Traded wildlife that was poached or illicitly trafficked - %
+PER_NGUA_PC	Personen in städtischen Gebieten ohne grüne städtische Gebiete in ihrer Nachbarschaft - %
+MGCI	Index zum Bewuchs von Gebirgen
+PER_URBXGURBN_PC	Persons in urban areas without green urban areas in their neighbourhood - %
+MNT_GCOV_I	Mountain green cover - index
+CO2_THS_T	CO2 emissions - thousand tonnes
+CO2_T_HAB	CO2 emissions - tonnes per inhabitant 
+CO2_NRG_THS_T	CO2 emissions from energy - thousand tonnes
+CO2_UVA_KG_EUR	CO2-Emissionen pro Wertschöpfungseinheit - Kilogramm pro Euro
+WEI	Water exploitation index 
+WSL	Water stress level 
+TPW	Abfallvolumen
+DFLOW	Dissipative Ströme
+DEM_DCR	Abbruch und Eliminierung
+MAT_USE	Materialverwendung
+NRS	Nettobestandsabnahme

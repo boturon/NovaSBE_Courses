@@ -1,0 +1,27 @@
+TOTAL	Anschluss an Abwasserbehandlung -  insgesamt
+WWT_GE2	Kommunale, unabhängige (dezentrale) und sonstige Abwasserbehandlung mit mindestens zweiter Reinigungsstufe
+URB_CS	Kanalisation für kommunales Abwasser
+URB_OTH	Kommunale Kläranlagen und sonstige Abwasserbehandlung - insgesamt
+URB_OTH_T1	Kommunale Kläranlagen und sonstige Abwasserbehandlung mit lediglich erster Reinigungsstufe
+URB_OTH_T2	Kommunale Kläranlagen und sonstige Abwasserbehandlung mit zweiter Reinigungsstufe
+URB_OTH_T3	Kommunale Kläranlagen und sonstige Abwasserbehandlung mit dritter Reinigungsstufe
+URB_OTH_NSP	Kommunale Kläranlagen und sonstige Abwasserbehandlung mit nicht näher spezifizierter Behandlung
+URB_OTH_NC	Prozentsatz der Wohnbevölkerung ohne Anschluss an kommunale und sonstige Kläranlagen
+URB	Kommunale Kläranlagen - insgesamt
+URB_T1	Kommunale Kläranlagen mit lediglich erster Reinigungsstufe
+URB_T2	Kommunale Kläranlagen mit zweiter Reinigungsstufe
+URB_T3	Kommunale Kläranlagen mit dritter Reinigungsstufe
+URB_T3_N	Kommunale Kläranlagen mit  dritter Reinigungsstufe - mit Stickstoff-Elimination
+URB_T3_P	Kommunale Kläranlagen mit  dritter Reinigungsstufe - mit Phosphor-Elimination
+URB_T_NSP	Kommunale Kläranlagen mit  nicht näher spezifizierter Behandlung
+URB_T_GE2	Kommunale Kläranlagen mit mindestens zweiter Reinigungsstufe
+URB_NC	Prozentsatz der Wohnbevölkerung ohne Anschluss an Abwasserbehandlung
+IND	Unabhängige (dezentrale) Abwasserbehandlung - insgesamt
+IND_T_GE2	Unabhängige (dezentrale) Abwasserbehandlung mit zumindest zweiter Reinigungsstufe
+IND_TANK	Prozentsatz der Wohnbevölkerung deren Abwasser in Vorratstanks gesammelt und per LKW zur Kläranlage transportiert wird
+RES_POP	Wohnbevölkerung
+POP_2000PE	Bevölkerung in Ansiedlungen mit weniger als 2000 Einwohnergleichwerten
+OTH	Sonstige Abwasserbehandlung - insgesamt
+OTH_T1	Sonstige Abwasserbehandlung  mit lediglich erster Reinigungsstufe
+OTH_T2	Sonstige Abwasserbehandlung  mit zweiter Reinigungsstufe
+OTH_T3	Sonstige Abwasserbehandlung  mit dritter Reinigungsstufe

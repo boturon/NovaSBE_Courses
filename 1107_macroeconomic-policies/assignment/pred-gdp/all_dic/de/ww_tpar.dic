@@ -1,0 +1,12 @@
+PLANT	Anzahl der Kläranlagen
+CAPAC	Entwurfskapazität BSB5
+INLOAD	Tatsächliche Belastung BSB5
+EFFL	Ausleitungen BSB5
+SLP	Gesamtes Klärschlammaufkommen
+SLD	Gesamte Klärschlammentsorgung
+SLD_AGR	Klärschlammentsorgung - landwirtschaftliche Verwertung
+SLD_COMP	Klärschlammentsorgung - Kompostierung und sonstige Verwertung
+SLD_LAND	Klärschlammentsorgung - Deponierung
+SLD_SEA	Klärschlammentsorgung - Entsorgung ins Meer
+SLD_INCN	Klärschlammentsorgung - Verbrennung
+SLD_OTH	Klärschlammentsorgung - sonstige

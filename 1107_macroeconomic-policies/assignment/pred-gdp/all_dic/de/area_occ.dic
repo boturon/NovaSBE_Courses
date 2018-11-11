@@ -1,0 +1,10 @@
+TOTAL	Insgesamt
+SQM_LT10	Weniger als 10 m2 pro Bewohner
+SQM10-14	10 bis 14 m2 pro Bewohner
+SQM15-19	15 bis 19 m2 pro Bewohner
+SQM20-29	20 bis 29 m2 pro Bewohner
+SQM30-39	30 bis 39 m2 pro Bewohner
+SQM40-59	40 bis 59 m2 pro Bewohner
+SQM60-79	60 bis 79 m2 pro Bewohner
+SQM_GE80	80 m2 und mehr
+UNK	Unbekannt

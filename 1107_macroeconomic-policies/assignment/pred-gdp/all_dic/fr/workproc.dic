@@ -1,0 +1,43 @@
+TOTAL	Total 
+WPR00	Pas d'information
+WPR1	Production, transformation, traitement - total
+WPR10	Production, transformation, traitement, stockage - non spécifié
+WPR11	Production, transformation, traitement
+WPR12	Stockage
+WPR19	Autre type de travail dans la production, transformation, traitement, stockage
+WPR2	Terrassement, construction, réparation démolition - total
+WPR20	Terrassement, construction, réparation démolition - non spécifié
+WPR21	Terrassement
+WPR22	Construction nouvelle - bâtiment
+WPR23	Construction nouvelle - ouvrages d'art, infrastructure, routes, ponts, barrages, ports
+WPR24	Rénovation, réparation, addition, entretien
+WPR25	Démolition 
+WPR29	Autre type de travail dans le terrassement, la construction, la réparation, la démolition 
+WPR3	Tâches de type agricole, forestier, horticole, piscicole, avec des animaux vivants - total
+WPR30	Tâches de type agricole, forestier, horticole, piscicole, avec des animaux vivants - non spécifié
+WPR31	Tâche de type agricole - travail du sol 
+WPR32	Tâche de type agricole - avec des végétaux, dans l'horticulture
+WPR33	Tâche de type agricole - avec des animaux vivants
+WPR34	Tâche de type forestier
+WPR35	Tâche de type piscicole, pêche 
+WPR39	Autre type de travail agricole, forestier, horticole, piscicole, avec des animaux vivants 
+WPR4	Service à l'entreprise et/ou au public; travail intellectuel - total
+WPR40	Service à l'entreprise et/ou au public; travail intellectuel - non spécifié
+WPR41	Tâche de service, soin, assistance au publice 
+WPR42	Tâche intellectuelle - enseignement, formation, traitement de l'information, travail de bureau, d'organisation, de gestion
+WPR43	Tâche commerciale - achat, vente, services associés
+WPR49	Autre type de travail de services à l'entreprise et/ou au public; travail intellectuel
+WPR5	Autre type de travail relatif à: production, transformation, traitement, terrassement, construction, réparation démolition, tâche de type agricole, forestier, horticole, piscicole, avec des animaux vivants, services à l'entreprise et/ou au public, travail intellectuel - total
+WPR50	Autre type de travail relié à: production, transformation, traitement, terrassement, construction, réparation démolition, tâche de type agricole, forestier, horticole, piscicole, avec des animaux vivants, services à l'entreprise et/ou au public, travail intellectuel - non spécifié
+WPR51	Mise en place, préparation, installation, montage, désassemblage, démontage 
+WPR52	Maintenance, réparation, réglage, mise au point
+WPR53	Nettoyage de locaux, de machines - industriel ou manuel
+WPR54	Gestion des déchets, mise au rebut, traitement de déchets de toute nature 
+WPR55	Surveillance, inspection, de procédé de fabrication, de locaux, de moyens de transport, d'équipements - avec ou sans matériel de contrôle
+WPR59	Autre type de travail relié à: production, transformation, traitement, terrassement, construction, entretien, démolition (total), tâche de type agricole, forestiere, horticole, piscicole, avec des animaux vivants, services à l'entreprise et/ou au public, travail intellectuel  (non spécifié ailleurs) 
+WPR6	Mouvement, sport, artistique - total
+WPR60	Mouvement, sport, activité artistique - non spécifié
+WPR61	Mouvement, y compris dans les moyens de transport 
+WPR62	Activité sportive, artistique
+WPR69	Autre type de travail de mouvement activité sportive, artistique 
+WPR99	Autre

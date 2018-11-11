@@ -1,0 +1,15 @@
+TOTAL	Insgesamt
+CP	Derzeitige Ankäufe
+PLTC	Ankäufe im Rahmen langfristiger Verträge
+NEW_DW	Neuer Wohnraum
+EXST_DW	Bestehender Wohnraum
+ACQ_DW	Käufe von Wohnraum (O.1.1.)
+PNEW_DW	Käufe von neuem Wohnraum (O.1.1.1.1.)
+SB_DW	Selbstgebauter Wohnraum und größere Renovierungen (O.1.1.1.2.)
+NEWH_DW	Bestehender Wohnraum, neu von Haushalten gekauft (O.1.1.2.)
+OTHC_DW	Sonstige Dienstleistungen im Zusammenhang mit dem Kauf von Wohnraum (O.1.1.3.)
+OWN_DW	Eigentum an Wohnraum (O.1.2.)
+MAJ_REP	Größere Reparaturen und Instandhaltung (O.1.2.1.)
+INS_DW	Versicherungen im Zusammenhang mit Wohnraum (O.1.2.2.)
+OTHS_DW	Sonstige Dienstleistungen im Zusammenhang mit dem Eigentum an Wohnraum (O.1.2.3.)
+OTH	Sonstige

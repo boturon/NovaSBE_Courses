@@ -1,0 +1,37 @@
+TOTAL	Demandes totales
+CHARGE	Demandes de prise en charge
+CHF	Demandes de prises en charge: raisons familiales (Articles: 8, 9, 10, 11)
+CHF_8	Demandes de prises en charge: raisons familiales (Article 8)
+CHF_9	Demandes de prises en charge: raisons familiales (Article 9)
+CHF_10	Demandes de prises en charge: raisons familiales (Article 10)
+CHF_11	Demandes de prises en charge: raisons familiales (Article 11)
+CHD	Demandes de prises en charge: documents et entrée légale sur le territoire (Articles: 12.1, 12.2, 12.3, 12.4, 14)
+CHD_121	Demandes de prises en charge: documents et entrée légale sur le territoire (Article 12.1)
+CHD_122	Demandes de prises en charge: documents et entrée légale sur le territoire (Article 12.2)
+CHD_123	Demandes de prises en charge: documents et entrée légale sur le territoire (Article 12.3)
+CHD_124	Demandes de prises en charge: documents et entrée légale sur le territoire (Article 12.4)
+CHD_14	Demandes de prises en charge: documents et entrée légale sur le territoire (Article 14)
+CH_15	Demandes de prises en charge: demande présentée dans la zone de transit international d¿un aéroport (Article 15)
+CH_131	Demandes de prises en charge: entrée irrégulière (Article 13.1)
+CH_132	Demandes de prises en charge: séjour irrégulier (Article 13.2)
+CH_16	Demandes de prises en charge: personnes à charge (Article 16)
+CH_172	Demandes de prises en charge: raisons humanitaires (Article 17.2)
+CH_UNK	Demandes de prises en charge: raison inconnu
+BACK	Demandes de reprises en charge (Articles: 20.5, 18.1.b, 18.1.c, 18.1.d)
+BK_205	Demandes de reprises en charge: retrait d'une demande pendant le processus de détermination de l'Etat responsable (Article 20.5)
+BK_181B	Demandes de reprises en charge: examen en cours - présence sur le territoire d'un autre Etat Membre sans permission  (Article18.1.b)
+BK_181C	Demandes de reprises en charge: retrait en cours d'examen - nouvelle demande (Article 18.1.c)
+BK_181D	Demandes de reprises en charge: rejet - présence sur le territoire d'un autre Etat Membre sans permission  (Article.18.1.d)
+BK_UNK	Demandes de reprises en charge: raison inconnu
+EDAC	Demandes basées sur EURODAC
+EDAC_CH	Demandes de prises en charge basées sur EURODAC
+EDAC_BK	Demandes de reprises en charge basées sur EURODAC
+INFO	Demandes d'information
+INFO_GEN	Demandes d'information : raisons générales (Article 34.5)
+INFO_UAM	Demandes d'information : famille de mineur non accompagné (Article 6.5 et 8.6)
+INFO_DEP	Demandes d'information :  personnes à charge (Article 16.4)
+RESP	Réponses aux demandes d'information
+RESP_GEN	Réponses aux demandes d'information : raisons générales (Article 34.5)
+RESP_UAM	Réponses aux demandes d'information : famille de mineur non accompagné (Article 6.5 et 8.6)
+RESP_DEP	Réponses aux demandes d'information : personnes à charge (Article 16.4)
+UNK	Inconnu

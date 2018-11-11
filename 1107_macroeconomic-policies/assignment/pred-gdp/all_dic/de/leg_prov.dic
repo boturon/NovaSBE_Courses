@@ -1,0 +1,37 @@
+TOTAL	Gesuche insgesamt
+CHARGE	Aufnahmegesuche
+CHF	Aufnahmegesuche: Familiengründe (Artikel: 8, 9, 10, 11)
+CHF_8	Aufnahmegesuche: Familiengründe (Artikel 8)
+CHF_9	Aufnahmegesuche: Familiengründe (Artikel 9)
+CHF_10	Aufnahmegesuche: Familiengründe (Artikel 10)
+CHF_11	Aufnahmegesuche: Familiengründe (Artikel 11)
+CHD	Aufnahmegesuche: Dokumente und legale Einreisegründe (Artikel: 12.1, 12.2, 12.3, 12.4, 14)
+CHD_121	Aufnahmegesuche: Dokumente und legale Einreisegründe (Artikel 12.1)
+CHD_122	Aufnahmegesuche: Dokumente und legale Einreisegründe (Artikel 12.2)
+CHD_123	Aufnahmegesuche: Dokumente und legale Einreisegründe (Artikel 12.3)
+CHD_124	Aufnahmegesuche: Dokumente und legale Einreisegründe (Artikel 12.4)
+CHD_14	Aufnahmegesuche: Dokumente und legale Einreisegründe (Artikel 14)
+CH_15	Aufnahmegesuche: Antrag im internationalen Transitbereich eines Flughafens (Artikel 15)
+CH_131	Aufnahmegesuche: illegale Einreise (Artikel 13.1)
+CH_132	Aufnahmegesuche: illegaler Aufenthalt (Artikel 13.2)
+CH_16	Aufnahmegesuche: abhängige Personen (Artikel 16)
+CH_172	Aufnahmegesuche: humanitäre Gründe (Artikel 17.2)
+CH_UNK	Aufnahmegesuche: Gründe unbekannt
+BACK	Gesamtzahl der Wiederaufnahmegesuche (Artikel: 20.5, 18.1.b, 18.1.c, 18.1.d)
+BK_205	Wiederaufnahmegesuche: Rücknahme des Antrages während des Dublinverfahrens  (Artikel 20.5)
+BK_181B	Wiederaufnahmegesuche: in Überprüfung - keine Aufenthaltserlaubnis  (Artikel 18.1.b)
+BK_181C	Wiederaufnahmegesuche: Rücknahme - neuer Antrag (Artikel 18.1.c)
+BK_181D	Wiederaufnahmegesuche: Ablehnung - keine Aufenthaltserlaubnis (Artikel 18.1.d)
+BK_UNK	Wiederaufnahmegesuche: Gründe unbekannt
+EDAC	Gesuche basierend auf EURODAC (Europäische Datenbank für Fingerabdrücke)
+EDAC_CH	Aufnahmegesuche basierend auf EURODAC (Europäische Datenbank für Fingerabdrücke)
+EDAC_BK	Wiederaufnahmegesuche basierend auf EURODAC (Europäische Datenbank für Fingerabdrücke)
+INFO	Informationsersuchen
+INFO_GEN	Informationsersuchen: allgemeine Gründe (Artikel 34.5)
+INFO_UAM	Informationsersuchen: Familien von unbegleiteten Minderjährigen (Artikel 6.5 und 8.6)
+INFO_DEP	Informationsersuchen: Familien von abhängigen Personen (Artikel 16.4)
+RESP	Antworten auf Informationsersuchen
+RESP_GEN	Antworten auf Informationsersuchen: allgemeine Gründe (Artikel 34.5)
+RESP_UAM	Antworten auf Informationsersuchen: Familien von unbegleiteten Minderjährigen (Artikel 6.5 und 8.6)
+RESP_DEP	Antworten auf Informationsersuchen: Familien von abhängigen Personen (Artikel 16.4)
+UNK	Unbekannt

@@ -1,0 +1,29 @@
+TOTAL	Transport total
+NAT_INTL_IEU28	Transport national et transport international intra-UE-28
+NAT	Transport national
+NAT_OCC	Transport national - occasionnel
+NAT_REG	Transport national - régulier
+NAT_URB	Transport national - urbain
+NAT_IURB	Transport national - interurbain
+INTL	Transport international
+INTL_LD	Transport international - chargé
+INTL_NLD	Transport international - déchargé
+INTL_CTRD	Transport international - traffic tiers
+INTL_CAB	Transport international - cabotage
+INTL_IN	Transport international - entrant
+INTL_OUT	Transport international - sortant
+INTL_OCC	Transport international - occasionnel
+INTL_REG	Transport international - régulier
+INTL_IEU	Transport international intra-UE
+INTL_IEU28	Transport international intra-UE-28
+INTL_IEU27	Transport international intra-UE-27
+INTL_IEU25	Transport international intra-UE-25
+INTL_IEU15	Transport international intra-UE-15
+INTL_XEU	Transport international extra-UE
+INTL_XEU28	Transport international extra-UE-28
+INTL_XEU27	Transport international extra-UE-27
+INTL_XEU25	Transport international extra-UE-25
+INTL_XEU15	Transport international extra-UE-15
+TRS	Transit
+OVFL	Survolé
+UNK	Inconnu

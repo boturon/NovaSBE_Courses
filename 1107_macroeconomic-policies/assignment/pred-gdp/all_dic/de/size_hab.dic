@@ -1,0 +1,14 @@
+TOTAL	Insgesamt
+LT200	Weniger als 200 Einwohner
+200-499	200 bis 499 Einwohner
+500-999	500 bis 999 Einwohner
+1000-1999	1 000 bis 1 999 Einwohner
+2000-4999	2 000 bis 4 999 Einwohner
+5000-9999	5 000 bis 9 999 Einwohner
+10000-19999	10 000 bis 19 999 Einwohner
+20000-49999	20 000 bis 49 999 Einwohner
+50000-99999	50 000 bis 99 999 Einwohner
+100000-199999	100 000 bis 199 999 Einwohner
+200000-499999	200 000 bis 499 999 Einwohner
+500000-999999	500 000 bis 999 999 Einwohner
+GE1000000	1 000 000 Einwohner und mehr 

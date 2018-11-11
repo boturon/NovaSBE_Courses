@@ -1,0 +1,17 @@
+TOTAL	Total
+FIN	Raisons financières
+NINT	Pas d'intérêt
+NTIME_FAM	Manque de temps libre en raison d'engagements familiaux
+NTIME_WRK_STU	Manque de temps libre en raison d'obligations liées au travail ou aux études
+PERS	Pour les loisirs ou avec la famille et les amis
+PER	Raisons personnelles
+PER_HOL	Vacances, loisirs et détente
+PER_RF	Visites à des amis et parents
+PER_OTH	Autres raisons personnelles
+PROF	Professionnel, affaires
+HLTH	Raisons de santé
+SAFE	Sécurité
+OTH	Autres
+PERS_HOL	Vacances, loisirs et récréation
+PERS_VFR	Visites à des amis et parents
+PERS_OTH	Autres raisons personnelles

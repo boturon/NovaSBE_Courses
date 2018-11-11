@@ -1,0 +1,7 @@
+NEI_EXT	Extraction de ressources énergétiques naturelles (IND01)
+EPRD_DOM	Production intérieure des produits énergétiques (IND02)
+EPRD_ICNS	Consommation intermédiaire des produits énergétiques (IND03)
+EPRD_HHCNS	Consommation des produits énergétiques par les ménages (IND04)
+WST_USE	Utilisation de déchets à des fins énergétiques (IND05)
+NETDOM_EUSE	Utilisation intérieure d'énergie nette (IND06)
+NRG_INP_OUT	Entrées et sorties d'énergie (IND07)

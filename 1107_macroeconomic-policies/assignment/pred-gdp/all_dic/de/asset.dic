@@ -1,0 +1,68 @@
+N1	Produzierte Vermögensgüter
+N1N	Vorräte und Wertsachen, brutto
+N11	Anlagegüter insgesamt
+N11N	Nutztiere, Nutzpflanzungen und immaterielle Anlagegüter
+N111	Sachanlagen
+N1111	Wohnbauten
+N1112	Nichtwohnbauten
+N11121	Nichtwohngebäude
+N11122	Sonstige Bauten
+N111M	Bauten insgesamt
+N1113	Ausrüstungen
+N11131	Fahrzeuge
+N11132	Sonstige Ausrüstungen
+N111321	Sonstige Ausrüstungen: Büromaschinen, Datenverarbeitungsgeräte und -einrichtungen
+N111322	Sonstige Ausrüstungen: Rundfunk, Fernseh- und Nachrichtentechnik
+N111329	Sonstige Ausrüstungen sofern nicht anderweitig nachgewiesen
+N1114	Nutztiere und Nutzpflanzungen
+N112	Immaterielle Anlagegüter
+N1121	Suchbohrungen
+N1122	Computerprogramme
+N1123	Urheberrechte
+N1129	Sonstige immaterielle Anlagegüter
+N113_N114	Ausrüstungen + Militärische Waffensysteme
+N1132	Ausrüstungen der Informations- und Kommunikationstechnik
+N11321	Computer-Hardware
+N11322	Telekommunikationsausrüstungen
+N1139_N114	Sonstige Ausrüstungen + Militärische Waffensysteme
+N115	Nutztiere und Nutzpflanzungen
+N117	Geistiges Eigentum
+N1173	Software und Datenbanken
+N12	Vorräte
+N13	Wertsachen
+N2	Nichtproduzierte Vermögensgüter
+N21	Nichtproduziertes Sachvermögen
+N211	Grund und Boden
+N212	Bodenschätze
+N21A	Freie Tier- und Pflanzenbestände und Wasserreserven
+N22	Immaterielle nichtproduzierte Vermögensgüter
+T11	Anlagegüter insgesamt, netto
+T11N	Nutztiere, Nutzpflanzungen und immaterielle Anlagegüter, netto
+T111	Sachanlagen, netto
+T1111	Wohnbauten, netto
+T1112	Nichtwohnbauten, netto
+T11121	Nichtwohngebäude, netto
+T11122	Sonstige Bauten, netto
+T1113	Ausrüstungen, netto
+T11131	Fahrzeuge, netto
+T11132	Sonstige Ausrüstungen, netto
+T111321	Sonstige Ausrüstungen: Büromaschinen, Datenverarbeitungsgeräte und -einrichtungen, netto
+T111322	Sonstige Ausrüstungen: Rundfunk, Fernseh- und Nachrichtentechnik, netto
+T111329	Sonstige Ausrüstungen sofern nicht anderweitig nachgewiesen, netto
+T1114	Nutztiere und Nutzpflanzungen, netto
+T111M	Bauten insgesamt, netto
+T112	Immaterielle Anlagegüter, netto
+T1121	Suchbohrungen, netto
+T1122	Computerprogramme, netto
+T1123	Urheberrechte, netto
+T113_T114	Ausrüstungen + Militärische Waffensysteme, netto
+T1132	Ausrüstungen der Informations- und Kommunikationstechnik, netto
+T11321	Computer-Hardware, netto
+T11322	Telekommunikationsausrüstungen, netto
+T1139_T114	Sonstige Ausrüstungen + Militärische Waffensysteme, netto
+T115	Nutztiere und Nutzpflanzungen, netto
+T117	Geistiges Eigentum, netto
+T1173	Software und Datenbanken, netto
+T2	Nichtproduzierte Vermögensgüter, netto
+T21	Nichtproduziertes Sachvermögen, netto
+NAP	Nicht anwendbar
