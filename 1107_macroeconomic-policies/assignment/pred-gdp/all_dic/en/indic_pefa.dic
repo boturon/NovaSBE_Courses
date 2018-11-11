@@ -1,0 +1,7 @@
+NEI_EXT	Extraction of natural energy inputs (IND01)
+EPRD_DOM	Domestic production of energy products (IND02)
+EPRD_ICNS	Intermediate consumption of energy products (IND03)
+EPRD_HHCNS	Household consumption of energy products (IND04)
+WST_USE	Use of waste for energetic purposes (IND05)
+NETDOM_EUSE	Net domestic energy use (IND06)
+NRG_INP_OUT	Energy input and output (IND07)
