@@ -2,7 +2,7 @@
 
 "LAST UPDATE: 09.11.18 20:36:17"
 
-"EXTRACTION DATE: 12.11.18 02:26:09"
+"EXTRACTION DATE: 12.11.18 21:52:08"
 
 "SOURCE OF DATA: Eurostat"
 
@@ -213,25 +213,7 @@
 
 "NA_ITEM"
 "P311_S14 - Final consumption expenditure of households, durable goods"
-"P312_S14 - Final consumption expenditure of households, semi-durable goods"
-"P313_S14 - Final consumption expenditure of households, non-durable goods"
-"P314_S14 - Final consumption expenditure of households, services"
-
-"No footnotes available"
-
-"Available flags:"
-"b","break in time series"
-"c","confidential"
-"d","definition differs, see metadata"
-"e","estimated"
-"f","forecast"
-"i","see metadata (phased out)"
-"n","not significant"
-"p","provisional"
-"r","revised"
-"s","Eurostat estimate (phased out)"
-"u","low reliability"
-"z","not applicable"
+"P312N_S14 - Final consumption expenditure of households, semi-durable goods, non-durable goods and services"
 
 "Special value:"
 ":","not available"
