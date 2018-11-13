@@ -2,7 +2,7 @@
 
 "LAST UPDATE: 30.10.18 09:35:50"
 
-"EXTRACTION DATE: 12.11.18 02:33:26"
+"EXTRACTION DATE: 13.11.18 00:48:54"
 
 "SOURCE OF DATA: European Commission - Directorate-General for Economic and Financial Affairs (DG ECFIN)"
 
@@ -475,8 +475,6 @@
 "2018M10"
 
 "GEO"
-"EU28 - European Union (current composition)"
-"EA19 - Euro area (19 countries)"
 "BE - Belgium"
 "BG - Bulgaria"
 "CZ - Czechia"
@@ -520,22 +518,6 @@
 
 "S_ADJ"
 "SA - Seasonally adjusted data, not calendar adjusted data"
-
-"No footnotes available"
-
-"Available flags:"
-"b","break in time series"
-"c","confidential"
-"d","definition differs, see metadata"
-"e","estimated"
-"f","forecast"
-"i","see metadata (phased out)"
-"n","not significant"
-"p","provisional"
-"r","revised"
-"s","Eurostat estimate (phased out)"
-"u","low reliability"
-"z","not applicable"
 
 "Special value:"
 ":","not available"
