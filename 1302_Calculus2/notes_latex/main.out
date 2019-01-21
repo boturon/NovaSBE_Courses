@@ -1,0 +1,52 @@
+\BOOKMARK [1][-]{section*.1}{1 Limits and Contituity}{}% 1
+\BOOKMARK [2][-]{section*.2}{1.1 Notion of function}{section*.1}% 2
+\BOOKMARK [2][-]{section*.3}{1.2 Rn Space}{section*.1}% 3
+\BOOKMARK [2][-]{Item.6}{1.3 Functions of Rn in Rm}{section*.1}% 4
+\BOOKMARK [2][-]{section*.5}{1.4 Limit of a function}{section*.1}% 5
+\BOOKMARK [2][-]{Item.10}{1.5 Continuity}{section*.1}% 6
+\BOOKMARK [1][-]{section*.7}{2 Differentiability}{}% 7
+\BOOKMARK [2][-]{section*.8}{2.1 Differentiability of a real function of a real variable}{section*.7}% 8
+\BOOKMARK [2][-]{section*.9}{2.2 Partial Derivatives}{section*.7}% 9
+\BOOKMARK [2][-]{section*.10}{2.3 Derivatives of higher order and the hessian matrix}{section*.7}% 10
+\BOOKMARK [2][-]{section*.11}{2.4 Derivative of a function at a point along a vector}{section*.7}% 11
+\BOOKMARK [2][-]{section*.12}{2.5 Differentiability}{section*.7}% 12
+\BOOKMARK [1][-]{Item.13}{3 Theorem of the composite function}{}% 13
+\BOOKMARK [2][-]{section*.14}{3.1 Derivative of the composite function}{Item.13}% 14
+\BOOKMARK [2][-]{section*.15}{3.2 Homogeneous functions and homothetic functions}{Item.13}% 15
+\BOOKMARK [1][-]{section*.16}{4 Taylor's formula}{}% 16
+\BOOKMARK [2][-]{section*.17}{4.1 Theorem of finite increments}{section*.16}% 17
+\BOOKMARK [2][-]{section*.18}{4.2 Taylor's and McLaurin's formula}{section*.16}% 18
+\BOOKMARK [1][-]{section*.19}{5 Inverse function and implicit function}{}% 19
+\BOOKMARK [2][-]{section*.20}{5.1 Theorem of the inverse function}{section*.19}% 20
+\BOOKMARK [2][-]{section*.21}{5.2 Theorem of the implicit function}{section*.19}% 21
+\BOOKMARK [1][-]{Item.15}{6 Optimization}{}% 22
+\BOOKMARK [2][-]{section*.23}{6.1 Introduction}{Item.15}% 23
+\BOOKMARK [2][-]{Item.23}{6.2 Some important notions}{Item.15}% 24
+\BOOKMARK [2][-]{section*.25}{6.3 Convex and quasi-convex sets and functions }{Item.15}% 25
+\BOOKMARK [1][-]{Item.29}{7 Unconstrained optimization}{}% 26
+\BOOKMARK [2][-]{section*.27}{7.1 Real function of real variable}{Item.29}% 27
+\BOOKMARK [2][-]{section*.28}{7.2 Real function of real variables}{Item.29}% 28
+\BOOKMARK [2][-]{section*.29}{7.3 Envelope theorem}{Item.29}% 29
+\BOOKMARK [1][-]{section*.30}{8 Optimization with equality constraints}{}% 30
+\BOOKMARK [2][-]{section*.31}{8.1 Two decision variables, one constraint}{section*.30}% 31
+\BOOKMARK [3][-]{section*.32}{8.1.1 Graphical solution}{section*.31}% 32
+\BOOKMARK [3][-]{section*.33}{8.1.2 Substitution method}{section*.31}% 33
+\BOOKMARK [3][-]{section*.34}{8.1.3 Method of the Lagrangian multipliers}{section*.31}% 34
+\BOOKMARK [3][-]{section*.35}{8.1.4 Sufficient conditions}{section*.31}% 35
+\BOOKMARK [2][-]{section*.36}{8.2 n decision variables, m constraints}{section*.30}% 36
+\BOOKMARK [3][-]{section*.37}{8.2.1 Method of the Lagrangian multipliers}{section*.36}% 37
+\BOOKMARK [3][-]{section*.38}{8.2.2 Sufficient conditions}{section*.36}% 38
+\BOOKMARK [2][-]{section*.39}{8.3 Interpretation of the Lagrangian multipliers}{section*.30}% 39
+\BOOKMARK [2][-]{section*.40}{8.4 Envelope theorem}{section*.30}% 40
+\BOOKMARK [1][-]{section*.41}{9 Optimization with inequality constraints}{}% 41
+\BOOKMARK [2][-]{section*.42}{9.1 Introduction}{section*.41}% 42
+\BOOKMARK [2][-]{section*.43}{9.2 Kuhn-Tucker conditions}{section*.41}% 43
+\BOOKMARK [3][-]{section*.44}{9.2.1 Non-negativity constraints}{section*.43}% 44
+\BOOKMARK [3][-]{section*.45}{9.2.2 Inequality constraints}{section*.43}% 45
+\BOOKMARK [3][-]{section*.46}{9.2.3 The signs of the Lagrangian multipliers}{section*.43}% 46
+\BOOKMARK [3][-]{section*.47}{9.2.4 Conditions of complementarity}{section*.43}% 47
+\BOOKMARK [2][-]{section*.48}{9.3 Discussion on the Kuhn-Tucker conditions}{section*.41}% 48
+\BOOKMARK [2][-]{section*.49}{9.4 Kuhn-Tucker theorem}{section*.41}% 49
+\BOOKMARK [3][-]{section*.50}{9.4.1 Sufficiency theorem}{section*.49}% 50
+\BOOKMARK [3][-]{section*.51}{9.4.2 Restriction of qualification}{section*.49}% 51
+\BOOKMARK [2][-]{section*.52}{9.5 Quasi-concave programming}{section*.41}% 52
