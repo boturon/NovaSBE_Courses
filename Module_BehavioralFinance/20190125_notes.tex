@@ -1,0 +1,191 @@
+\documentclass[0pt, a4paper]{article}
+\usepackage[margin=1.00in, a4paper]{geometry}
+
+\setlength{\parindent}{15pt}					% Default is 15pt
+\setlength{\parskip}{4pt plus1pt minus0.5pt}	% To set spacing after paragraphs
+\usepackage{graphicx}
+\usepackage{indentfirst}
+\usepackage{amsmath, amssymb, amsfonts}
+\usepackage{color, linegoal}
+\usepackage{amsthm, array}
+\usepackage[framemethod=tikz]{mdframed}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage{physics}
+
+%%%%%%%%%%%%%%
+
+%\usepackage[
+%backend=biber,
+%style=authoryear-icomp,
+%sortlocale=de_DE,
+%natbib=true,
+%url=false,
+%doi=true,
+%eprint=false
+%]{biblatex}
+%
+%\addbibresource{biblatex-examples.bib}
+
+\usepackage[]{hyperref}
+\hypersetup{
+	colorlinks=true,
+}
+
+\usepackage[noabbrev, capitalize]{cleveref}
+\newcommand{\Lagr}{\mathcal{L}}
+%%%%%%%%%%%%%%
+
+\title{%
+  Behavioral Finance\\
+  \large MSc Module}
+\date{\today}
+\author{
+	Tiago Louro Alves \\
+	Francisco Gon\c{c}alves
+}
+
+\begin{document}
+
+\maketitle
+\pagenumbering{arabic}
+\thispagestyle{empty}
+\newpage
+
+\tableofcontents
+
+\clearpage
+\addcontentsline{toc}{section}{1 Motivation}
+\section*{1 Motivation}
+
+
+BF is a mixture of finance and psychology. Warren Buffet is a well known proponent.
+
+The shape of valuation of a bubble. Bitcoin and tulips are two well known examples.
+
+\begin{itemize}
+	\item ``Judgement under Uncertainty: Heuristics and Biases,'' by Daniel Kahneman
+	\item Thaler and Kaneman have received Noble Prizes for advancements in this field
+	\item Prospect theory by Daniel Kahneman and later.
+\end{itemize}
+
+Traditional Finance Assumptions:
+
+\begin{itemize}
+	\item Unlimited perfect knowledge: all investors prefectly understand finance and all of its concepts
+	\item Utility maximization: every investor (e.g., grandmas included) has same utility function and attempts to maximize it
+	\begin{itemize}
+		\item $U=E(r)-\gamma \dots$
+	\end{itemize}
+	\item Fully rational decision making: investors have no emotions
+	\item Risk aversion: investors suffer a greater loss of utility for a given loss of wealth than they gain in utility for the same rise in wealth
+\end{itemize}
+
+Moreover:
+\begin{itemize}
+	\item The price is right: assets reflect and instantly adjust to all available information
+	\item No free lunch: no manager should be able to generate excess returns (alphas) consistently
+	\item Efficient Market Hypothesis (EMH)
+	\begin{itemize}
+		\item Weak-form efficient
+		\item Semi-strong efficient
+		\item Strong-form efficient
+	\end{itemize}
+\end{itemize}
+
+Earnings drift. Papers have studied earnings drift. While the expectations are that, when there are positive earnings, there is a huge jump. In reality, the jump in price starts happening some days before
+
+Behavioral Finance assumes:
+\begin{itemize}
+	\item Individuals are normal and their decisions may be suboptimal
+	\item Investors can be risk-averse, risk-neutral, risk-seeking at the same time (same person buys insurance and lottery; this is not in accordance to traditional finance, which assumes investors may be one type only)
+	\item Bounded rationality:
+	\begin{itemize}
+		\item Capacity limitation on knowledge
+		\item Satisfice
+		\item Cognitive limits on decision making
+	\end{itemize}
+	\item Prospect theory
+\end{itemize}
+
+The decisions of invetors are usually sub-optimal as the risk behaviour is not constant. Sometimes you are risk loving, other times, you are risk averse.
+
+%% minute 37
+\addcontentsline{toc}{subsection}{1.1 First Experiment}
+\subsection*{1.1 First Experiment}
+
+\begin{enumerate}
+	\item You have $\$ 1\,000$ and you must pick one of the following choices:
+	\begin{itemize}:
+		\item Choice A: You have a $50\%$ chance of losing $\$ 1\,000$, and a $50\%$ chance of losing $\$0$
+		\item Choice B: You have a $100\%$ change of losing $\$500$.
+	\end{itemize}
+\end{enumerate}
+
+Prospect theory tells us that when we are on the winning side, we want certainty to lock some of the gain. When we are on losing side, we don't care. Prospect theory 101 tells us that:
+Investors are more concerned with the change of wealth than final wealth 
+\begin{enumerate}
+	\item Loss-aversion instead of risk aversion
+	\item Investors are assumed to place a greater value in change of a loss than on gain of the same amount\
+\end{enumerate}
+
+Most investors are:
+\begin{itemize}
+	\item Risk averse when presented with gains;
+	\item Risk seeking when presented with losses.
+\end{itemize}
+
+\addcontentsline{toc}{section}{2 Traditional vs Behavioral Finance}
+\section*{2 Traditional vs Behavioral Finance}
+
+What we have seen so far are the assumptions of behavioral finance. But how does behavioral finance tells you to invest? These are the 4 models:
+\begin{enumerate}
+	\item Consumption and Savings (Behavioral Life-Cycle model) Finance Perspectives:
+	\begin{itemize}
+		\item Framing: The way income is framed (current income/assets currenlty owned/PV of future income) affects whether it is saved oor consumed
+		\item Self-control bias: favor current consumption rather than saving income for future
+		\item Mental accounting: assigning different portions of wealth to meet different goals
+	\end{itemize}
+	\item Behavioral Asset Pricing
+	\begin{itemize}
+		\item Sentiment Premium: stochastic discount factor added to the required rate of return
+		\begin{itemize}
+			\item Premium can be estimated considering the dispersion of analyst forecasts
+		\end{itemize}
+	\end{itemize}
+	\item Behavioral Portfolio Theory (BPT)
+	\item Adaptive Markets Hypothesis (AMH)
+\end{enumerate}
+
+Rational finance way says thatt
+$$\text{TF: }r_e=r_f+\beta \left[E(r)-r_f\right]$$
+
+Behavioral finance way says thatt
+$$\text{TF: }r_e=r_f+\beta \left[E(r)-r_f\right]+\varepsilon$$
+
+The $\varepsilon$ depends on the expectations of analysts. If everyone agrees, then the error term is small. If, on the other hand, there is no agreement (wide dispersion, e.g., Tesla's 20\% short interest) the error term (not actually an error term as it is not used for estimation as in econometrics) would be bigger due to the higher it would be bigger.
+
+
+
+In last section we saw that Prospect Theory assumes that investor are not risk-averse but rather loss-averse.
+
+\addcontentsline{toc}{section}{3 Cognitive and Emotional Biases}
+\section*{3 Cognitive and Emotional Biases}
+
+Instead of accomodating, you mitigate emotional biases.
+
+\begin{table}[]
+	\begin{tabular}{|c|c|c|}
+		\hline
+		\multicolumn{2}{|c|}{\textbf{Cognitive Errors}}                                                                                                                                      & \textbf{Emotional}                                                                              \\ \hline
+		\textbf{Belief Perseverance}                                                          & \textbf{Information Processing}                                                              & \textbf{Emotional Bias}                                                                         \\ \hline
+		\begin{tabular}[c]{@{}c@{}}Conservatism Bias\\ Too slow\end{tabular}                  & \begin{tabular}[c]{@{}c@{}}Anchoring \& Adjustment Bias\\ Not willing to adjust\end{tabular} & \begin{tabular}[c]{@{}c@{}}Loss-Aversion Bias\\ Prospect Theory\end{tabular}                    \\ \hline
+		\begin{tabular}[c]{@{}c@{}}Confirmation Bias\\ Babies\end{tabular}                    & \begin{tabular}[c]{@{}c@{}}Mental Accounting Bias\\ Bonus vs wage\end{tabular}               & \begin{tabular}[c]{@{}c@{}}Overconfidence\\ It can never go down\end{tabular}                   \\ \hline
+		\begin{tabular}[c]{@{}c@{}}Representativeness Bias\\  AAPL, too fast\end{tabular}     & \begin{tabular}[c]{@{}c@{}}Framing Bias\\ Info representation\end{tabular}                   & \begin{tabular}[c]{@{}c@{}}Self-control Bias\\ Credit? Ours. Fault? Others\end{tabular}         \\ \hline
+		\begin{tabular}[c]{@{}c@{}}Illusion of Control\\ Coin toss\end{tabular}               & \begin{tabular}[c]{@{}c@{}}Availability Bias\\ Mental shortcuts\end{tabular}                 & \begin{tabular}[c]{@{}c@{}}Status-quo Bias\\ Do nothing\end{tabular}                            \\ \hline
+		\begin{tabular}[c]{@{}c@{}}Hindsight Bias\\ Super-hero, selective memory\end{tabular} &                                                                                              & \begin{tabular}[c]{@{}c@{}}Endowment Bias\\ Gold coins\end{tabular}                             \\ \hline
+		&                                                                                              & \begin{tabular}[c]{@{}c@{}}Regret-aversion Bias\\ Bitcoin (commission or omission)\end{tabular} \\ \hline
+	\end{tabular}
+\end{table}
+
+\end{document}
