@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.30)  5 FEB 2019 12:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.12.30)  5 FEB 2019 13:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -776,11 +776,7 @@ Package: geometry 2018/04/16 v5.8 Page Geometry
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (./1114_ge2_ps.aux
-
-LaTeX Warning: Label `' multiply defined.
-
-)
+ (./1114_ge2_ps.aux)
 \openout1 = `1114_ge2_ps.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
@@ -905,19 +901,19 @@ Overfull \hbox (22.97575pt too wide) detected at line 172
 
 [4
 
- <./img/ps01_0103.png>]
-./1114_ge2_ps.tex:196: Undefined control sequence.
-l.196 \textbit
-              {g)}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ <./img/ps01_0103.png>] [5] [6
 
-[5] [6
+] [7] [8
 
-] [7] [8] [9] [10] [11
+]
+<img/ps01_0106.png, id=92, 1708.3825pt x 581.17125pt>
+File: img/ps01_0106.png Graphic file (type png)
+<use img/ps01_0106.png>
+Package pdftex.def Info: img/ps01_0106.png  used on input line 363.
+(pdftex.def)             Requested size: 430.31812pt x 146.38321pt.
+ [9
+
+ <./img/ps01_0106.png>] [10] [11
 
 ] [12
 
@@ -931,40 +927,38 @@ and I'll forget about whatever was undefined.
 
 ] [17
 
+] [18
+
 ]
-<img/ps02_risk-diversification.png, id=121, 885.3075pt x 242.9075pt>
+<img/ps02_risk-diversification.png, id=151, 885.3075pt x 242.9075pt>
 File: img/ps02_risk-diversification.png Graphic file (type png)
 <use img/ps02_risk-diversification.png>
-Package pdftex.def Info: img/ps02_risk-diversification.png  used on input line 452.
+Package pdftex.def Info: img/ps02_risk-diversification.png  used on input line 501.
 (pdftex.def)             Requested size: 430.31812pt x 118.06944pt.
- [18
+ [19
 
  <./img/ps02_risk-diversification.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 458.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 458.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 507.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 507.
  (./1114_ge2_ps.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 458.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 458.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 507.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 507.
 Package rerunfilecheck Info: File `1114_ge2_ps.out' has not changed.
 (rerunfilecheck)             Checksum: C1733D54C2470C6C747BF3DF1DD63312;91.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 27865 strings out of 494586
- 524240 string characters out of 6177801
- 598441 words of memory out of 5000000
- 31105 multiletter control sequences out of 15000+600000
- 542664 words of font info for 62 fonts, out of 8000000 for 9000
+ 27889 strings out of 494586
+ 524468 string characters out of 6177801
+ 599372 words of memory out of 5000000
+ 31106 multiletter control sequences out of 15000+600000
+ 542043 words of font info for 60 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  67i,10n,65p,821b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 1114_ge2_ps.pdf (19 pages, 275154 bytes).
+Output written on 1114_ge2_ps.pdf (20 pages, 345146 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 211 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
